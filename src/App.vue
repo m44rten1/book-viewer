@@ -14,7 +14,7 @@ export default {
   },
   mounted() {
     // Fetch your books data from the JSON file
-    fetch("/books.json")
+    fetch("/book-viewer/assets/books.json")
       .then((response) => response.json())
       .then((data) => {
         this.booksData = data;
@@ -43,7 +43,7 @@ export default {
         ) {
           Handsontable.renderers.TextRenderer.apply(this, arguments);
           if (value) {
-            td.innerHTML = `<img src="${value}" width="150">`; // Display image in cell
+            td.innerHTML = `<img src="/book-viewer/assets${value}" width="150">`; // Display image in cell
           } else {
             td.innerText = "No Image";
           }
