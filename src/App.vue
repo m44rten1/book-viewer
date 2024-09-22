@@ -22,10 +22,10 @@ export default {
         // Transform books data into an array format for Handsontable
         const handsontableData = this.booksData.map((book) => [
           `/${book.id}.png`, // Image path for each book
+          book.dueDate,
           book.accountName,
           book.name,
           book.renewed,
-          book.dueDate,
           book.by,
           book.type,
           book.isRenewable ? "✅" : "❌",
@@ -55,10 +55,10 @@ export default {
           data: handsontableData,
           colHeaders: [
             "Cover Image", // Add a column for the cover image
+            "Due Date",
             "Account Name",
             "Book Name",
             "Renewed",
-            "Due Date",
             "Author",
             "Type",
             "Renewable",
@@ -67,10 +67,10 @@ export default {
             {
               renderer: imageRenderer, // Use the custom image renderer for this column
             },
+            {}, // Due Date
             {}, // Account Name
             {}, // Book Name
             {}, // Renewed
-            {}, // Due Date
             {}, // Author
             {}, // Type
             {}, // Renewable
