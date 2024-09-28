@@ -220,149 +220,49 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0374836",
+    "id": "HILD.0357112",
     "accountName": "💪 Maarten",
-    "name": "Paw Patrol - Ein neuer Fellfreund : 4 spannende Abenteuer",
-    "renewed": 0,
-    "dueDate": "2024-10-12",
-    "by": "Seibel, Antje",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0375563",
-    "accountName": "💪 Maarten",
-    "name": "Wieso? Weshalb? Warum? - Was kriecht und krabbelt da?",
-    "renewed": 0,
-    "dueDate": "2024-10-12",
-    "by": "Eberhard, Irmgard",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0380130",
-    "accountName": "💪 Maarten",
-    "name": "Wieso? Weshalb? Warum? . Hörspiele für die Allerkleinsten : junior - Mama,  Papa, Oma, Opa : Hörspiele für die Allerkleinsten",
-    "renewed": 0,
-    "dueDate": "2024-10-12",
-    "by": "Reuters, Inga",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0393944",
-    "accountName": "💪 Maarten",
-    "name": "Der goldene Stadt-Schlüssel : 3 spannende Abenteuer",
-    "renewed": 0,
-    "dueDate": "2024-10-12",
-    "by": "Seibel, Antje",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0320468",
-    "accountName": "💪 Maarten",
-    "name": "Wieso? Weshalb? Warum? - Was essen wir?",
-    "renewed": 1,
-    "dueDate": "2024-10-18",
-    "by": "Rübel, Doris",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0403197",
-    "accountName": "💪 Maarten",
-    "name": "Die Lavafels-Insel : 4 spannende Abenteuer",
-    "renewed": 1,
-    "dueDate": "2024-10-18",
-    "by": "Seibel, Antje",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0361980",
-    "accountName": "💪 Maarten",
-    "name": "Wieso? Weshalb? Warum?  junior - Unsere Tierkinder",
-    "renewed": 1,
-    "dueDate": "2024-10-18",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0408439",
-    "accountName": "💪 Maarten",
-    "name": "Stoppt die Gepardin! : 3 spannende Abenteuer",
-    "renewed": 1,
-    "dueDate": "2024-10-18",
-    "by": "Seibel, Antje",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0375615",
-    "accountName": "💪 Maarten",
-    "name": "Wieso? Weshalb? Warum?  junior - Der Pinguin",
-    "renewed": 1,
-    "dueDate": "2024-10-18",
-    "by": "Elskis, Marion",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406381",
-    "accountName": "💪 Maarten",
-    "name": "Wir sind Geschwister : Hörspiele für die Allerkleinsten",
-    "renewed": 2,
-    "dueDate": "2024-10-19",
-    "by": "Reuters, Inga",
-    "type": "CD Kinder",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0405647",
-    "accountName": "💪 Maarten",
-    "name": "Rasend schnelle Rettung : Das Special",
-    "renewed": 2,
-    "dueDate": "2024-10-19",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0406521",
-    "accountName": "💪 Maarten",
-    "name": "Zahlen und Mengen : 4-6 Jahre : Zahlenraum bis 10 und erstes Rechnen",
+    "name": "Kreis, Dreieck, Elefant : ein Buch voller Formen & Überraschungen",
     "renewed": 0,
     "dueDate": "2024-10-22",
-    "by": "Tober, Heike",
+    "by": "Oikawa, Kenji",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
-    "id": "HILD.0404452",
+    "id": "HILD.0372769",
     "accountName": "💪 Maarten",
-    "name": "Woher kommt die Liebe?",
+    "name": "Leise, leise, sagt die Meise",
     "renewed": 0,
     "dueDate": "2024-10-22",
-    "by": "Kulot, Daniela",
+    "by": "Wessel, Kathrin",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0375611",
+    "accountName": "💪 Maarten",
+    "name": "Wieso? Weshalb? Warum? junior -  Mein Hund",
+    "renewed": 0,
+    "dueDate": "2024-10-22",
+    "by": "Mennen, Patricia",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0378882",
+    "accountName": "💪 Maarten",
+    "name": "Benjamin Blümchen - Find's raus mit Benjamin - Wetter : 4 Geschichten für kleine Entdecker",
+    "renewed": 0,
+    "dueDate": "2024-10-22",
+    "by": "Bornstädt, Matthias von",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
     "id": "HILD.0383232",
     "accountName": "💪 Maarten",
     "name": "Komm mit zum Zahnarzt : Hörspiele für die Allerkleinsten",
-    "renewed": 0,
-    "dueDate": "2024-10-22",
-    "by": "Reuters, Inga",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0403044",
-    "accountName": "💪 Maarten",
-    "name": "Tiere der Welt : Hörspiele für die Allerkleinsten",
     "renewed": 0,
     "dueDate": "2024-10-22",
     "by": "Reuters, Inga",
@@ -380,42 +280,32 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0357112",
+    "id": "HILD.0403044",
     "accountName": "💪 Maarten",
-    "name": "Kreis, Dreieck, Elefant : ein Buch voller Formen & Überraschungen",
+    "name": "Tiere der Welt : Hörspiele für die Allerkleinsten",
     "renewed": 0,
     "dueDate": "2024-10-22",
-    "by": "Oikawa, Kenji",
+    "by": "Reuters, Inga",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0404452",
+    "accountName": "💪 Maarten",
+    "name": "Woher kommt die Liebe?",
+    "renewed": 0,
+    "dueDate": "2024-10-22",
+    "by": "Kulot, Daniela",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
-    "id": "HILD.0378882",
+    "id": "HILD.0406521",
     "accountName": "💪 Maarten",
-    "name": "Benjamin Blümchen - Find's raus mit Benjamin - Wetter : 4 Geschichten für kleine Entdecker",
+    "name": "Zahlen und Mengen : 4-6 Jahre : Zahlenraum bis 10 und erstes Rechnen",
     "renewed": 0,
     "dueDate": "2024-10-22",
-    "by": "Bornstädt, Matthias von",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0375611",
-    "accountName": "💪 Maarten",
-    "name": "Wieso? Weshalb? Warum? junior -  Mein Hund",
-    "renewed": 0,
-    "dueDate": "2024-10-22",
-    "by": "Mennen, Patricia",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0372769",
-    "accountName": "💪 Maarten",
-    "name": "Leise, leise, sagt die Meise",
-    "renewed": 0,
-    "dueDate": "2024-10-22",
-    "by": "Wessel, Kathrin",
+    "by": "Tober, Heike",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -430,13 +320,23 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0388670",
-    "accountName": "👦 Arne",
-    "name": "Pawtastische 5 Minuten-Einsätze",
-    "renewed": 1,
-    "dueDate": "2024-10-04",
-    "by": "",
+    "id": "HILD.0375297",
+    "accountName": "💪 Maarten",
+    "name": "Körper",
+    "renewed": 0,
+    "dueDate": "2024-10-25",
+    "by": "Prinz, Johanna",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0399031",
+    "accountName": "💪 Maarten",
+    "name": "Sonne, Mond und Sterne : Hörspiele für die Allerkleinsten",
+    "renewed": 0,
+    "dueDate": "2024-10-25",
+    "by": "Reuters, Inga",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -447,6 +347,86 @@
     "dueDate": "2024-10-04",
     "by": "",
     "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0379506",
+    "accountName": "👦 Arne",
+    "name": "TEAM3 pink",
+    "renewed": 1,
+    "dueDate": "2024-10-04",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0409593",
+    "accountName": "👦 Arne",
+    "name": "Das verrückte Haus : Turbulenter Bauspaß von zwei Seiten",
+    "renewed": 1,
+    "dueDate": "2024-10-04",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0408062",
+    "accountName": "👦 Arne",
+    "name": "bambinoLÜK-Set: Meine ersten Autos : Logisches Denken",
+    "renewed": 1,
+    "dueDate": "2024-10-04",
+    "by": "Junga, Michael",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0407275",
+    "accountName": "👦 Arne",
+    "name": "Fahrzeuge",
+    "renewed": 1,
+    "dueDate": "2024-10-04",
+    "by": "Grimm, Sandra",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0407257",
+    "accountName": "👦 Arne",
+    "name": "Mein Wörter-Bilderbuch Baustelle",
+    "renewed": 1,
+    "dueDate": "2024-10-04",
+    "by": "Grimm, Sandra",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0406489",
+    "accountName": "👦 Arne",
+    "name": "Mog, der vergessliche Kater : Die schönsten Geschichten",
+    "renewed": 1,
+    "dueDate": "2024-10-04",
+    "by": "Kerr, Judith",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0401821",
+    "accountName": "👦 Arne",
+    "name": "Sesamstraße : Elmos Mitmachmusik",
+    "renewed": 1,
+    "dueDate": "2024-10-04",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0400993",
+    "accountName": "👦 Arne",
+    "name": "Lesen lernen mit der PAW Patrol",
+    "renewed": 1,
+    "dueDate": "2024-10-04",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -470,62 +450,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0379506",
+    "id": "HILD.0388670",
     "accountName": "👦 Arne",
-    "name": "TEAM3 pink",
+    "name": "Pawtastische 5 Minuten-Einsätze",
     "renewed": 1,
     "dueDate": "2024-10-04",
     "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0400993",
-    "accountName": "👦 Arne",
-    "name": "Lesen lernen mit der PAW Patrol",
-    "renewed": 1,
-    "dueDate": "2024-10-04",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0401821",
-    "accountName": "👦 Arne",
-    "name": "Sesamstraße : Elmos Mitmachmusik",
-    "renewed": 1,
-    "dueDate": "2024-10-04",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406489",
-    "accountName": "👦 Arne",
-    "name": "Mog, der vergessliche Kater : Die schönsten Geschichten",
-    "renewed": 1,
-    "dueDate": "2024-10-04",
-    "by": "Kerr, Judith",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0407257",
-    "accountName": "👦 Arne",
-    "name": "Mein Wörter-Bilderbuch Baustelle",
-    "renewed": 1,
-    "dueDate": "2024-10-04",
-    "by": "Grimm, Sandra",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0407275",
-    "accountName": "👦 Arne",
-    "name": "Fahrzeuge",
-    "renewed": 1,
-    "dueDate": "2024-10-04",
-    "by": "Grimm, Sandra",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -535,66 +465,6 @@
     "name": "Tonie 27 -  Was ist Was - 2 Themen Dinosaurier/Ausgestorbene Tiere",
     "renewed": 1,
     "dueDate": "2024-10-04",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0408062",
-    "accountName": "👦 Arne",
-    "name": "bambinoLÜK-Set: Meine ersten Autos : Logisches Denken",
-    "renewed": 1,
-    "dueDate": "2024-10-04",
-    "by": "Junga, Michael",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0409593",
-    "accountName": "👦 Arne",
-    "name": "Das verrückte Haus : Turbulenter Bauspaß von zwei Seiten",
-    "renewed": 1,
-    "dueDate": "2024-10-04",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0404540",
-    "accountName": "👦 Arne",
-    "name": "Tic Tac Toe",
-    "renewed": 0,
-    "dueDate": "2024-10-12",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0400208",
-    "accountName": "👦 Arne",
-    "name": "Tiptoi - Fahrzeuge in der Stadt : Wähle das richtige Fahrzeug und fahre zum gesuchten Ort!",
-    "renewed": 0,
-    "dueDate": "2024-10-12",
-    "by": "Brand, Inka und Markus",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0409830",
-    "accountName": "👦 Arne",
-    "name": "Elektrische Luftpumpe für Camping",
-    "renewed": 0,
-    "dueDate": "2024-10-12",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0389646",
-    "accountName": "👦 Arne",
-    "name": "Wieso? Weshalb? Warum? junior - Der Wald : Hörspiel für die Allerkleinsten",
-    "renewed": 0,
-    "dueDate": "2024-10-12",
     "by": "",
     "type": "CD Kinder",
     "isRenewable": true
@@ -610,13 +480,23 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0372309",
+    "id": "HILD.0378215",
     "accountName": "👦 Arne",
-    "name": "Helfen, teilen, sich vertragen",
+    "name": "Ist da jemand?",
     "renewed": 0,
     "dueDate": "2024-10-12",
-    "by": "Rübel, Doris",
+    "by": "Agee, Jon",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0409830",
+    "accountName": "👦 Arne",
+    "name": "Elektrische Luftpumpe für Camping",
+    "renewed": 0,
+    "dueDate": "2024-10-12",
+    "by": "",
+    "type": "Serviceartikel",
     "isRenewable": true
   },
   {
@@ -640,16 +520,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0378215",
-    "accountName": "👦 Arne",
-    "name": "Ist da jemand?",
-    "renewed": 0,
-    "dueDate": "2024-10-12",
-    "by": "Agee, Jon",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0372069",
     "accountName": "👦 Arne",
     "name": "Tabaluga, das Bilderbuch zum Film",
@@ -657,6 +527,26 @@
     "dueDate": "2024-10-12",
     "by": "Taube, Anna",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0372309",
+    "accountName": "👦 Arne",
+    "name": "Helfen, teilen, sich vertragen",
+    "renewed": 0,
+    "dueDate": "2024-10-12",
+    "by": "Rübel, Doris",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0404540",
+    "accountName": "👦 Arne",
+    "name": "Tic Tac Toe",
+    "renewed": 0,
+    "dueDate": "2024-10-12",
+    "by": "",
+    "type": "Serviceartikel",
     "isRenewable": true
   },
   {
@@ -670,82 +560,32 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0389646",
+    "accountName": "👦 Arne",
+    "name": "Wieso? Weshalb? Warum? junior - Der Wald : Hörspiel für die Allerkleinsten",
+    "renewed": 0,
+    "dueDate": "2024-10-12",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0400208",
+    "accountName": "👦 Arne",
+    "name": "Tiptoi - Fahrzeuge in der Stadt : Wähle das richtige Fahrzeug und fahre zum gesuchten Ort!",
+    "renewed": 0,
+    "dueDate": "2024-10-12",
+    "by": "Brand, Inka und Markus",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0386061",
     "accountName": "👦 Arne",
     "name": "Zahlen",
     "renewed": 0,
     "dueDate": "2024-10-12",
     "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0387797",
-    "accountName": "👦 Arne",
-    "name": "Tiptoi - Mein Wetter : Regen, Wind und Sonnenschein . Wie muss meine Kleidung sein?",
-    "renewed": 1,
-    "dueDate": "2024-10-18",
-    "by": "Oppolzer, Anna",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0409892",
-    "accountName": "👦 Arne",
-    "name": "Hausmonster",
-    "renewed": 1,
-    "dueDate": "2024-10-18",
-    "by": "Marton, Eleonora",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0282790",
-    "accountName": "👦 Arne",
-    "name": "Tiptoi - Ratespaß auf Reisen",
-    "renewed": 1,
-    "dueDate": "2024-10-18",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406028",
-    "accountName": "👦 Arne",
-    "name": "Mach mal Aaaah!",
-    "renewed": 1,
-    "dueDate": "2024-10-18",
-    "by": "Calvert, Howard",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0375296",
-    "accountName": "👦 Arne",
-    "name": "Unterwegs mit der Polizei",
-    "renewed": 1,
-    "dueDate": "2024-10-18",
-    "by": "Böwer, Niklas",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0378099",
-    "accountName": "👦 Arne",
-    "name": "Tonie 137 - Disney Cars",
-    "renewed": 1,
-    "dueDate": "2024-10-18",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0378540",
-    "accountName": "👦 Arne",
-    "name": "Die Wahrheit über Dinosaurier",
-    "renewed": 1,
-    "dueDate": "2024-10-18",
-    "by": "Genechten, Guido van",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -760,6 +600,16 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0375296",
+    "accountName": "👦 Arne",
+    "name": "Unterwegs mit der Polizei",
+    "renewed": 1,
+    "dueDate": "2024-10-18",
+    "by": "Böwer, Niklas",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0392305",
     "accountName": "👦 Arne",
     "name": "Miffy",
@@ -767,6 +617,16 @@
     "dueDate": "2024-10-18",
     "by": "",
     "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0406028",
+    "accountName": "👦 Arne",
+    "name": "Mach mal Aaaah!",
+    "renewed": 1,
+    "dueDate": "2024-10-18",
+    "by": "Calvert, Howard",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -780,13 +640,53 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0222537",
+    "id": "HILD.0282790",
     "accountName": "👦 Arne",
-    "name": "Die Calvin-und-Hobbes-Sonntagsseiten : eine Auswahl der farbigen Sonntagsgeschichten",
-    "renewed": 2,
-    "dueDate": "2024-10-23",
-    "by": "Watterson, Bill",
-    "type": "Comics / Mangas",
-    "isRenewable": false
+    "name": "Tiptoi - Ratespaß auf Reisen",
+    "renewed": 1,
+    "dueDate": "2024-10-18",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0387797",
+    "accountName": "👦 Arne",
+    "name": "Tiptoi - Mein Wetter : Regen, Wind und Sonnenschein . Wie muss meine Kleidung sein?",
+    "renewed": 1,
+    "dueDate": "2024-10-18",
+    "by": "Oppolzer, Anna",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0378099",
+    "accountName": "👦 Arne",
+    "name": "Tonie 137 - Disney Cars",
+    "renewed": 1,
+    "dueDate": "2024-10-18",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0409892",
+    "accountName": "👦 Arne",
+    "name": "Hausmonster",
+    "renewed": 1,
+    "dueDate": "2024-10-18",
+    "by": "Marton, Eleonora",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0378540",
+    "accountName": "👦 Arne",
+    "name": "Die Wahrheit über Dinosaurier",
+    "renewed": 1,
+    "dueDate": "2024-10-18",
+    "by": "Genechten, Guido van",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
   }
 ]
