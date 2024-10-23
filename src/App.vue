@@ -23,12 +23,12 @@ export default {
         const handsontableData = this.booksData.map((book) => [
           `/${book.id}.png`, // Image path for each book
           book.dueDate,
+          book.isRenewable ? "✅" : "❌",
           book.accountName,
           book.name,
           book.renewed,
           book.by,
           book.type,
-          book.isRenewable ? "✅" : "❌",
         ]);
 
         // Custom renderer for image cells
@@ -56,27 +56,27 @@ export default {
           colHeaders: [
             "Cover Image", // Add a column for the cover image
             "Due Date",
+            "Renewable",
             "Account Name",
             "Book Name",
             "Renewed",
             "Author",
             "Type",
-            "Renewable",
           ],
           columns: [
             {
               renderer: imageRenderer, // Use the custom image renderer for this column
             },
             {}, // Due Date
+            {}, // Renewable
             {}, // Account Name
             {}, // Book Name
             {}, // Renewed
             {}, // Author
             {}, // Type
-            {}, // Renewable
           ],
           rowHeaders: true,
-          colWidths: [150, 120, 200, 100, 100, 200, 200, 100],
+          colWidths: [150, 120, 200, 150, 100, 200, 200, 100],
           // rowHeights: 23,
           filters: true,
           dropdownMenu: true,

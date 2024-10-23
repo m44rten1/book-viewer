@@ -10,7 +10,7 @@ import { fileURLToPath, URL } from "node:url";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/book-viewer/",
+  base: process.env.NODE_ENV === "production" ? "/" : "/book-viewer/",
   plugins: [
     Vue({
       template: { transformAssetUrls },
