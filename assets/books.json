@@ -167,7 +167,7 @@
     "dueDate": "2024-11-21",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0400993",
@@ -177,7 +177,7 @@
     "dueDate": "2024-11-21",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0372769",
@@ -377,7 +377,7 @@
     "dueDate": "2024-11-21",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0387212",
@@ -387,7 +387,7 @@
     "dueDate": "2024-11-21",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0401083",
@@ -397,7 +397,7 @@
     "dueDate": "2024-11-21",
     "by": "von Feyerabend, Charly",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0407605",
@@ -407,7 +407,7 @@
     "dueDate": "2024-11-21",
     "by": "Schwarz, Regina",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0389098",
@@ -417,7 +417,7 @@
     "dueDate": "2024-11-21",
     "by": "Neubauer, Annette",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0409609",
@@ -427,7 +427,7 @@
     "dueDate": "2024-11-21",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0388836",
@@ -437,7 +437,7 @@
     "dueDate": "2024-11-21",
     "by": "Reuters, Inga",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0396259",
@@ -447,7 +447,7 @@
     "dueDate": "2024-11-21",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0217016",
@@ -457,7 +457,7 @@
     "dueDate": "2024-11-21",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0384956",
@@ -467,7 +467,7 @@
     "dueDate": "2024-11-21",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0384708",
@@ -477,7 +477,7 @@
     "dueDate": "2024-11-21",
     "by": "Schoenwald, Sophie",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0381513",
@@ -487,7 +487,7 @@
     "dueDate": "2024-11-21",
     "by": "Bohlmann, Sabine",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0380797",
@@ -497,7 +497,7 @@
     "dueDate": "2024-11-21",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0378348",
@@ -507,7 +507,7 @@
     "dueDate": "2024-11-21",
     "by": "Walder, Claudia",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0378338",
@@ -517,7 +517,7 @@
     "dueDate": "2024-11-21",
     "by": "Guillain, Charlotte",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0376703",
@@ -527,7 +527,7 @@
     "dueDate": "2024-11-21",
     "by": "Satzger, Elke",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0375530",
@@ -537,7 +537,7 @@
     "dueDate": "2024-11-21",
     "by": "Reuters, Inga",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0370977",
@@ -547,7 +547,7 @@
     "dueDate": "2024-11-21",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0365164",
@@ -557,7 +557,7 @@
     "dueDate": "2024-11-21",
     "by": "Reuters, Inga",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0363582",
@@ -567,7 +567,7 @@
     "dueDate": "2024-11-21",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0360585",
@@ -577,7 +577,7 @@
     "dueDate": "2024-11-21",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0307157",
@@ -587,7 +587,7 @@
     "dueDate": "2024-11-21",
     "by": "Turnbull, Stephanie",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0380582",
@@ -597,6 +597,6 @@
     "dueDate": "2024-11-21",
     "by": "Reuters, Inga",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   }
 ]
