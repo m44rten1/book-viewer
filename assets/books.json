@@ -537,7 +537,7 @@
     "dueDate": "2024-11-23",
     "by": "Lionni, Leo",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0397591",
@@ -547,7 +547,7 @@
     "dueDate": "2024-11-23",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0376186",
@@ -557,7 +557,7 @@
     "dueDate": "2024-11-23",
     "by": "Beedie, Duncan",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0372310",
@@ -567,7 +567,7 @@
     "dueDate": "2024-11-23",
     "by": "Nieländer, Peter",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0368429",
@@ -577,7 +577,7 @@
     "dueDate": "2024-11-23",
     "by": "Lenain, Thierry",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0363567",
@@ -587,7 +587,7 @@
     "dueDate": "2024-11-23",
     "by": "Tallec, Olivier",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0347969",
@@ -597,7 +597,7 @@
     "dueDate": "2024-11-23",
     "by": "Schargan, Constanze",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0346781",
@@ -607,7 +607,7 @@
     "dueDate": "2024-11-23",
     "by": "Kunkel, Daniela",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0411749",
@@ -617,6 +617,6 @@
     "dueDate": "2024-11-23",
     "by": "Herzog, Annette",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   }
 ]
