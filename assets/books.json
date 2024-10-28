@@ -230,16 +230,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0411693",
-    "accountName": "👦 Arne",
-    "name": "Warum leuchten Sterne?",
-    "renewed": 0,
-    "dueDate": "2024-10-30",
-    "by": "Nguyen-Kim, Mai Thi",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0389646",
     "accountName": "👦 Arne",
     "name": "Wieso? Weshalb? Warum? junior - Der Wald : Hörspiel für die Allerkleinsten",
@@ -247,6 +237,16 @@
     "dueDate": "2024-11-06",
     "by": "",
     "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0409830",
+    "accountName": "👦 Arne",
+    "name": "Elektrische Luftpumpe für Camping",
+    "renewed": 1,
+    "dueDate": "2024-11-06",
+    "by": "",
+    "type": "Serviceartikel",
     "isRenewable": true
   },
   {
@@ -270,13 +270,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0409830",
+    "id": "HILD.0378215",
     "accountName": "👦 Arne",
-    "name": "Elektrische Luftpumpe für Camping",
+    "name": "Ist da jemand?",
     "renewed": 1,
     "dueDate": "2024-11-06",
-    "by": "",
-    "type": "Serviceartikel",
+    "by": "Agee, Jon",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -300,16 +300,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0378215",
-    "accountName": "👦 Arne",
-    "name": "Ist da jemand?",
-    "renewed": 1,
-    "dueDate": "2024-11-06",
-    "by": "Agee, Jon",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0387797",
     "accountName": "👦 Arne",
     "name": "Tiptoi - Mein Wetter : Regen, Wind und Sonnenschein . Wie muss meine Kleidung sein?",
@@ -317,16 +307,6 @@
     "dueDate": "2024-11-12",
     "by": "Oppolzer, Anna",
     "type": "Spiel",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0378099",
-    "accountName": "👦 Arne",
-    "name": "Tonie 137 - Disney Cars",
-    "renewed": 2,
-    "dueDate": "2024-11-12",
-    "by": "",
-    "type": "CD Kinder",
     "isRenewable": false
   },
   {
@@ -347,6 +327,16 @@
     "dueDate": "2024-11-12",
     "by": "Marton, Eleonora",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0378099",
+    "accountName": "👦 Arne",
+    "name": "Tonie 137 - Disney Cars",
+    "renewed": 2,
+    "dueDate": "2024-11-12",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": false
   },
   {
@@ -530,16 +520,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0165653",
-    "accountName": "👦 Arne",
-    "name": "Frederick",
-    "renewed": 0,
-    "dueDate": "2024-11-23",
-    "by": "Lionni, Leo",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0397591",
     "accountName": "👦 Arne",
     "name": "Kastanien-Bastelset",
@@ -547,6 +527,16 @@
     "dueDate": "2024-11-23",
     "by": "",
     "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0165653",
+    "accountName": "👦 Arne",
+    "name": "Frederick",
+    "renewed": 0,
+    "dueDate": "2024-11-23",
+    "by": "Lionni, Leo",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -618,5 +608,15 @@
     "by": "Herzog, Annette",
     "type": "CD Kinder",
     "isRenewable": true
+  },
+  {
+    "id": "HILD.0411693",
+    "accountName": "👦 Arne",
+    "name": "Warum leuchten Sterne?",
+    "renewed": 1,
+    "dueDate": "2024-11-26",
+    "by": "Nguyen-Kim, Mai Thi",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
   }
 ]
