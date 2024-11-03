@@ -237,7 +237,7 @@
     "dueDate": "2024-11-30",
     "by": "Martin, Ruth",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0359024",
@@ -247,7 +247,7 @@
     "dueDate": "2024-11-30",
     "by": "Späth, Ralph",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0367387",
@@ -257,7 +257,7 @@
     "dueDate": "2024-11-30",
     "by": "Zemme, Verena",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0410683",
@@ -267,7 +267,7 @@
     "dueDate": "2024-11-30",
     "by": "Grimm, Sandra",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0412041",
@@ -277,7 +277,7 @@
     "dueDate": "2024-11-30",
     "by": "Gravel, Élise",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0378215",
