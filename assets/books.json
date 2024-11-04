@@ -280,92 +280,22 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0378215",
-    "accountName": "👦 Arne",
-    "name": "Ist da jemand?",
-    "renewed": 1,
-    "dueDate": "2024-11-06",
-    "by": "Agee, Jon",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0372069",
-    "accountName": "👦 Arne",
-    "name": "Tabaluga, das Bilderbuch zum Film",
-    "renewed": 1,
-    "dueDate": "2024-11-06",
-    "by": "Taube, Anna",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0389646",
-    "accountName": "👦 Arne",
-    "name": "Wieso? Weshalb? Warum? junior - Der Wald : Hörspiel für die Allerkleinsten",
-    "renewed": 1,
-    "dueDate": "2024-11-06",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0372309",
-    "accountName": "👦 Arne",
-    "name": "Helfen, teilen, sich vertragen",
-    "renewed": 1,
-    "dueDate": "2024-11-06",
-    "by": "Rübel, Doris",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0409830",
-    "accountName": "👦 Arne",
-    "name": "Elektrische Luftpumpe für Camping",
-    "renewed": 1,
-    "dueDate": "2024-11-06",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0354284",
-    "accountName": "👦 Arne",
-    "name": "Tiptoi - Unser Zuhause",
-    "renewed": 1,
-    "dueDate": "2024-11-06",
-    "by": "Leykamm, Martina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0359026",
-    "accountName": "👦 Arne",
-    "name": "Dinosaurier",
-    "renewed": 1,
-    "dueDate": "2024-11-06",
-    "by": "Neubauer, Annette",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0378099",
-    "accountName": "👦 Arne",
-    "name": "Tonie 137 - Disney Cars",
-    "renewed": 2,
-    "dueDate": "2024-11-12",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0387797",
     "accountName": "👦 Arne",
     "name": "Tiptoi - Mein Wetter : Regen, Wind und Sonnenschein . Wie muss meine Kleidung sein?",
     "renewed": 2,
     "dueDate": "2024-11-12",
     "by": "Oppolzer, Anna",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0282790",
+    "accountName": "👦 Arne",
+    "name": "Tiptoi - Ratespaß auf Reisen",
+    "renewed": 2,
+    "dueDate": "2024-11-12",
+    "by": "",
     "type": "Spiel",
     "isRenewable": false
   },
@@ -380,74 +310,14 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0282790",
+    "id": "HILD.0378099",
     "accountName": "👦 Arne",
-    "name": "Tiptoi - Ratespaß auf Reisen",
+    "name": "Tonie 137 - Disney Cars",
     "renewed": 2,
     "dueDate": "2024-11-12",
     "by": "",
-    "type": "Spiel",
+    "type": "CD Kinder",
     "isRenewable": false
-  },
-  {
-    "id": "HILD.0380797",
-    "accountName": "👦 Arne",
-    "name": "Stadt Memo Hilden",
-    "renewed": 0,
-    "dueDate": "2024-11-21",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0387212",
-    "accountName": "👦 Arne",
-    "name": "Halloween- & Spuklieder",
-    "renewed": 0,
-    "dueDate": "2024-11-21",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0389098",
-    "accountName": "👦 Arne",
-    "name": "Tiere im Garten",
-    "renewed": 0,
-    "dueDate": "2024-11-21",
-    "by": "Neubauer, Annette",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0384956",
-    "accountName": "👦 Arne",
-    "name": "Pinguine / Tiere im Zoo : Was-ist-Was",
-    "renewed": 0,
-    "dueDate": "2024-11-21",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0384708",
-    "accountName": "👦 Arne",
-    "name": "Hilf dem Löwen Zähne putzen!",
-    "renewed": 0,
-    "dueDate": "2024-11-21",
-    "by": "Schoenwald, Sophie",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0381513",
-    "accountName": "👦 Arne",
-    "name": "Die Geschichte vom kleinen Siebenschläfer, der überhaupt keine Angst im Dunkeln hatte",
-    "renewed": 0,
-    "dueDate": "2024-11-21",
-    "by": "Bohlmann, Sabine",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
   },
   {
     "id": "HILD.0378348",
@@ -460,9 +330,9 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0391283",
+    "id": "HILD.0380797",
     "accountName": "👦 Arne",
-    "name": "Das Dinosaurier-Quiz",
+    "name": "Stadt Memo Hilden",
     "renewed": 0,
     "dueDate": "2024-11-21",
     "by": "",
@@ -490,6 +360,16 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0384956",
+    "accountName": "👦 Arne",
+    "name": "Pinguine / Tiere im Zoo : Was-ist-Was",
+    "renewed": 0,
+    "dueDate": "2024-11-21",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0376703",
     "accountName": "👦 Arne",
     "name": "Lotti kann nicht pupsen",
@@ -500,9 +380,59 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0387212",
+    "accountName": "👦 Arne",
+    "name": "Halloween- & Spuklieder",
+    "renewed": 0,
+    "dueDate": "2024-11-21",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0391283",
+    "accountName": "👦 Arne",
+    "name": "Das Dinosaurier-Quiz",
+    "renewed": 0,
+    "dueDate": "2024-11-21",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0389098",
+    "accountName": "👦 Arne",
+    "name": "Tiere im Garten",
+    "renewed": 0,
+    "dueDate": "2024-11-21",
+    "by": "Neubauer, Annette",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0384708",
+    "accountName": "👦 Arne",
+    "name": "Hilf dem Löwen Zähne putzen!",
+    "renewed": 0,
+    "dueDate": "2024-11-21",
+    "by": "Schoenwald, Sophie",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0396259",
     "accountName": "👦 Arne",
     "name": "Cars 2 : Das Original-Hörspiel zum Film",
+    "renewed": 0,
+    "dueDate": "2024-11-21",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0360585",
+    "accountName": "👦 Arne",
+    "name": "Tonie 8 -  Ein Geburtstagsfest für Lieselotte und andere Geschichten",
     "renewed": 0,
     "dueDate": "2024-11-21",
     "by": "",
@@ -540,22 +470,22 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0360585",
-    "accountName": "👦 Arne",
-    "name": "Tonie 8 -  Ein Geburtstagsfest für Lieselotte und andere Geschichten",
-    "renewed": 0,
-    "dueDate": "2024-11-21",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0307157",
     "accountName": "👦 Arne",
     "name": "Entdecke die Planeten",
     "renewed": 0,
     "dueDate": "2024-11-21",
     "by": "Turnbull, Stephanie",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0381513",
+    "accountName": "👦 Arne",
+    "name": "Die Geschichte vom kleinen Siebenschläfer, der überhaupt keine Angst im Dunkeln hatte",
+    "renewed": 0,
+    "dueDate": "2024-11-21",
+    "by": "Bohlmann, Sabine",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -658,5 +588,75 @@
     "by": "Nguyen-Kim, Mai Thi",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
+  },
+  {
+    "id": "HILD.0378215",
+    "accountName": "👦 Arne",
+    "name": "Ist da jemand?",
+    "renewed": 2,
+    "dueDate": "2024-12-03",
+    "by": "Agee, Jon",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0372309",
+    "accountName": "👦 Arne",
+    "name": "Helfen, teilen, sich vertragen",
+    "renewed": 2,
+    "dueDate": "2024-12-03",
+    "by": "Rübel, Doris",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0389646",
+    "accountName": "👦 Arne",
+    "name": "Wieso? Weshalb? Warum? junior - Der Wald : Hörspiel für die Allerkleinsten",
+    "renewed": 2,
+    "dueDate": "2024-12-03",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0372069",
+    "accountName": "👦 Arne",
+    "name": "Tabaluga, das Bilderbuch zum Film",
+    "renewed": 2,
+    "dueDate": "2024-12-03",
+    "by": "Taube, Anna",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0359026",
+    "accountName": "👦 Arne",
+    "name": "Dinosaurier",
+    "renewed": 2,
+    "dueDate": "2024-12-03",
+    "by": "Neubauer, Annette",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0354284",
+    "accountName": "👦 Arne",
+    "name": "Tiptoi - Unser Zuhause",
+    "renewed": 2,
+    "dueDate": "2024-12-03",
+    "by": "Leykamm, Martina",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0409830",
+    "accountName": "👦 Arne",
+    "name": "Elektrische Luftpumpe für Camping",
+    "renewed": 2,
+    "dueDate": "2024-12-03",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": false
   }
 ]
