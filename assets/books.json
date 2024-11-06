@@ -87,7 +87,7 @@
     "dueDate": "2024-12-03",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406487",
@@ -97,7 +97,7 @@
     "dueDate": "2024-12-03",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0388760",
@@ -107,7 +107,7 @@
     "dueDate": "2024-12-03",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0392771",
@@ -117,7 +117,7 @@
     "dueDate": "2024-12-03",
     "by": "Man-Kong, Mary",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0392487",
@@ -127,7 +127,7 @@
     "dueDate": "2024-12-03",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0346770",
@@ -137,7 +137,7 @@
     "dueDate": "2024-12-03",
     "by": "Reich, Stefanie",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0380675",
@@ -147,7 +147,7 @@
     "dueDate": "2024-12-03",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0372757",
@@ -157,7 +157,7 @@
     "dueDate": "2024-12-03",
     "by": "Schomburg, Andrea",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0361601",
@@ -167,7 +167,7 @@
     "dueDate": "2024-12-03",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0410120",
@@ -177,7 +177,7 @@
     "dueDate": "2024-12-03",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0372769",
