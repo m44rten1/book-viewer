@@ -227,7 +227,7 @@
     "dueDate": "2024-12-07",
     "by": "Marton, Eleonora",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0345115",
@@ -237,7 +237,7 @@
     "dueDate": "2024-12-07",
     "by": "Kawamura, Yayo",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0386414",
@@ -247,7 +247,7 @@
     "dueDate": "2024-12-07",
     "by": "Kaden, Outi",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0346304",
@@ -257,7 +257,7 @@
     "dueDate": "2024-12-07",
     "by": "Vogel, Maja von",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0377675",
@@ -267,7 +267,7 @@
     "dueDate": "2024-12-07",
     "by": "Leroy, Benjamin",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0375345",
@@ -277,7 +277,7 @@
     "dueDate": "2024-12-07",
     "by": "Zora",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0384248",
@@ -287,7 +287,7 @@
     "dueDate": "2024-12-07",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0378348",
