@@ -120,12 +120,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0404452",
+    "id": "HILD.0389096",
     "accountName": "💪 Maarten",
-    "name": "Woher kommt die Liebe?",
+    "name": "Logisches Denken",
     "renewed": 1,
     "dueDate": "2024-11-16",
-    "by": "Kulot, Daniela",
+    "by": "Neubauer, Annette",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -156,16 +156,6 @@
     "renewed": 1,
     "dueDate": "2024-11-16",
     "by": "Tober, Heike",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0389096",
-    "accountName": "💪 Maarten",
-    "name": "Logisches Denken",
-    "renewed": 1,
-    "dueDate": "2024-11-16",
-    "by": "Neubauer, Annette",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -288,6 +278,16 @@
     "by": "",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
+  },
+  {
+    "id": "HILD.0404452",
+    "accountName": "💪 Maarten",
+    "name": "Woher kommt die Liebe?",
+    "renewed": 2,
+    "dueDate": "2024-12-12",
+    "by": "Kulot, Daniela",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
   },
   {
     "id": "HILD.0378348",
