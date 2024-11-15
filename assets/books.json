@@ -120,46 +120,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0389096",
-    "accountName": "💪 Maarten",
-    "name": "Logisches Denken",
-    "renewed": 1,
-    "dueDate": "2024-11-16",
-    "by": "Neubauer, Annette",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0372769",
-    "accountName": "💪 Maarten",
-    "name": "Leise, leise, sagt die Meise",
-    "renewed": 1,
-    "dueDate": "2024-11-16",
-    "by": "Wessel, Kathrin",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0411446",
-    "accountName": "💪 Maarten",
-    "name": "Wir teilen mit unseren Freunden",
-    "renewed": 1,
-    "dueDate": "2024-11-16",
-    "by": "Lambert, Jonny",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406521",
-    "accountName": "💪 Maarten",
-    "name": "Zahlen und Mengen : 4-6 Jahre : Zahlenraum bis 10 und erstes Rechnen",
-    "renewed": 1,
-    "dueDate": "2024-11-16",
-    "by": "Tober, Heike",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0412041",
     "accountName": "💪 Maarten",
     "name": "Mikrobenmannschaft",
@@ -210,6 +170,16 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0386414",
+    "accountName": "💪 Maarten",
+    "name": "Wirbel um das Weihnachtsfest : Warmherziges Bilderbuch ab 3 Jahre",
+    "renewed": 0,
+    "dueDate": "2024-12-07",
+    "by": "Kaden, Outi",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0409892",
     "accountName": "💪 Maarten",
     "name": "Hausmonster",
@@ -226,16 +196,6 @@
     "renewed": 0,
     "dueDate": "2024-12-07",
     "by": "Kawamura, Yayo",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0386414",
-    "accountName": "💪 Maarten",
-    "name": "Wirbel um das Weihnachtsfest : Warmherziges Bilderbuch ab 3 Jahre",
-    "renewed": 0,
-    "dueDate": "2024-12-07",
-    "by": "Kaden, Outi",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -286,6 +246,46 @@
     "renewed": 2,
     "dueDate": "2024-12-12",
     "by": "Kulot, Daniela",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0389096",
+    "accountName": "💪 Maarten",
+    "name": "Logisches Denken",
+    "renewed": 2,
+    "dueDate": "2024-12-13",
+    "by": "Neubauer, Annette",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0406521",
+    "accountName": "💪 Maarten",
+    "name": "Zahlen und Mengen : 4-6 Jahre : Zahlenraum bis 10 und erstes Rechnen",
+    "renewed": 2,
+    "dueDate": "2024-12-13",
+    "by": "Tober, Heike",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0372769",
+    "accountName": "💪 Maarten",
+    "name": "Leise, leise, sagt die Meise",
+    "renewed": 2,
+    "dueDate": "2024-12-13",
+    "by": "Wessel, Kathrin",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0411446",
+    "accountName": "💪 Maarten",
+    "name": "Wir teilen mit unseren Freunden",
+    "renewed": 2,
+    "dueDate": "2024-12-13",
+    "by": "Lambert, Jonny",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
