@@ -197,7 +197,7 @@
     "dueDate": "2024-12-14",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406520",
@@ -207,7 +207,7 @@
     "dueDate": "2024-12-14",
     "by": "Neubauer, Annette",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0389063",
@@ -217,7 +217,7 @@
     "dueDate": "2024-12-14",
     "by": "Dulleck, Nina",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0231336",
@@ -227,7 +227,7 @@
     "dueDate": "2024-12-14",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0233892",
@@ -237,7 +237,7 @@
     "dueDate": "2024-12-14",
     "by": "Weinhold, Angela",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0383088",
@@ -247,7 +247,7 @@
     "dueDate": "2024-12-14",
     "by": "Auer, Margit",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0368890",
@@ -257,7 +257,7 @@
     "dueDate": "2024-12-14",
     "by": "Heinisch, Carsten",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0368352",
@@ -267,7 +267,7 @@
     "dueDate": "2024-12-14",
     "by": "Heine, Helme",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0352056",
@@ -277,7 +277,7 @@
     "dueDate": "2024-12-14",
     "by": "Geisler, Dagmar",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0260165",
@@ -287,7 +287,7 @@
     "dueDate": "2024-12-14",
     "by": "Voigt, Silke",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0385929",
@@ -297,7 +297,7 @@
     "dueDate": "2024-12-14",
     "by": "Campanella, Marco",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0387212",
