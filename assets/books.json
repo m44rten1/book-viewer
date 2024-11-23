@@ -247,7 +247,7 @@
     "dueDate": "2024-12-14",
     "by": "Auer, Margit",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
+    "isRenewable": false
   },
   {
     "id": "HILD.0368890",
@@ -300,14 +300,14 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0411693",
+    "id": "HILD.0409830",
     "accountName": "👦 Arne",
-    "name": "Warum leuchten Sterne?",
-    "renewed": 1,
-    "dueDate": "2024-11-26",
-    "by": "Nguyen-Kim, Mai Thi",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
+    "name": "Elektrische Luftpumpe für Camping",
+    "renewed": 2,
+    "dueDate": "2024-12-03",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": false
   },
   {
     "id": "HILD.0372069",
@@ -317,16 +317,6 @@
     "dueDate": "2024-12-03",
     "by": "Taube, Anna",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0409830",
-    "accountName": "👦 Arne",
-    "name": "Elektrische Luftpumpe für Camping",
-    "renewed": 2,
-    "dueDate": "2024-12-03",
-    "by": "",
-    "type": "Serviceartikel",
     "isRenewable": false
   },
   {
@@ -350,13 +340,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0407605",
+    "id": "HILD.0396259",
     "accountName": "👦 Arne",
-    "name": "Guck mal tief ins Weltall",
+    "name": "Cars 2 : Das Original-Hörspiel zum Film",
     "renewed": 1,
     "dueDate": "2024-12-17",
-    "by": "Schwarz, Regina",
-    "type": "Kinder-/Jugendbuch",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -377,6 +367,16 @@
     "dueDate": "2024-12-17",
     "by": "",
     "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0407605",
+    "accountName": "👦 Arne",
+    "name": "Guck mal tief ins Weltall",
+    "renewed": 1,
+    "dueDate": "2024-12-17",
+    "by": "Schwarz, Regina",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -440,16 +440,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0396259",
-    "accountName": "👦 Arne",
-    "name": "Cars 2 : Das Original-Hörspiel zum Film",
-    "renewed": 1,
-    "dueDate": "2024-12-17",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0165653",
     "accountName": "👦 Arne",
     "name": "Frederick",
@@ -498,5 +488,15 @@
     "by": "Herzog, Annette",
     "type": "CD Kinder",
     "isRenewable": true
+  },
+  {
+    "id": "HILD.0411693",
+    "accountName": "👦 Arne",
+    "name": "Warum leuchten Sterne?",
+    "renewed": 2,
+    "dueDate": "2024-12-21",
+    "by": "Nguyen-Kim, Mai Thi",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
   }
 ]
