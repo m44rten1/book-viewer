@@ -120,26 +120,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0412041",
-    "accountName": "💪 Maarten",
-    "name": "Mikrobenmannschaft",
-    "renewed": 0,
-    "dueDate": "2024-11-30",
-    "by": "Gravel, Élise",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0357177",
-    "accountName": "💪 Maarten",
-    "name": "Fahrzeuge : klapp auf und entdecke die Fahrzeuge von innen und außen! : mit über 30 Klappen!",
-    "renewed": 0,
-    "dueDate": "2024-11-30",
-    "by": "Martin, Ruth",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0386414",
     "accountName": "💪 Maarten",
     "name": "Wirbel um das Weihnachtsfest : Warmherziges Bilderbuch ab 3 Jahre",
@@ -190,6 +170,16 @@
     "isRenewable": false
   },
   {
+    "id": "HILD.0231336",
+    "accountName": "💪 Maarten",
+    "name": "Das große Bastelbuch mit der Maus",
+    "renewed": 0,
+    "dueDate": "2024-12-14",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0411383",
     "accountName": "💪 Maarten",
     "name": "Mini Torso",
@@ -220,12 +210,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0231336",
+    "id": "HILD.0385929",
     "accountName": "💪 Maarten",
-    "name": "Das große Bastelbuch mit der Maus",
+    "name": "Leo Lausemaus wird großer Bruder",
     "renewed": 0,
     "dueDate": "2024-12-14",
-    "by": "",
+    "by": "Campanella, Marco",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -290,14 +280,24 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0385929",
+    "id": "HILD.0357177",
     "accountName": "💪 Maarten",
-    "name": "Leo Lausemaus wird großer Bruder",
-    "renewed": 0,
-    "dueDate": "2024-12-14",
-    "by": "Campanella, Marco",
+    "name": "Fahrzeuge : klapp auf und entdecke die Fahrzeuge von innen und außen! : mit über 30 Klappen!",
+    "renewed": 1,
+    "dueDate": "2025-01-03",
+    "by": "Martin, Ruth",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0412041",
+    "accountName": "💪 Maarten",
+    "name": "Mikrobenmannschaft",
+    "renewed": 1,
+    "dueDate": "2025-01-03",
+    "by": "Gravel, Élise",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
   },
   {
     "id": "HILD.0409830",
