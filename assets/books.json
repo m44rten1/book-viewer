@@ -120,22 +120,22 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0386414",
-    "accountName": "💪 Maarten",
-    "name": "Wirbel um das Weihnachtsfest : Warmherziges Bilderbuch ab 3 Jahre",
-    "renewed": 0,
-    "dueDate": "2024-12-07",
-    "by": "Kaden, Outi",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0409892",
     "accountName": "💪 Maarten",
     "name": "Hausmonster",
     "renewed": 0,
     "dueDate": "2024-12-07",
     "by": "Marton, Eleonora",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0386414",
+    "accountName": "💪 Maarten",
+    "name": "Wirbel um das Weihnachtsfest : Warmherziges Bilderbuch ab 3 Jahre",
+    "renewed": 0,
+    "dueDate": "2024-12-07",
+    "by": "Kaden, Outi",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -180,42 +180,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0411383",
-    "accountName": "💪 Maarten",
-    "name": "Mini Torso",
-    "renewed": 0,
-    "dueDate": "2024-12-14",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406520",
-    "accountName": "💪 Maarten",
-    "name": "Buchstaben : 4-6 Jahre : Laute hören und Buchstaben kennenlernen",
-    "renewed": 0,
-    "dueDate": "2024-12-14",
-    "by": "Neubauer, Annette",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0389063",
     "accountName": "💪 Maarten",
     "name": "Der Kokosnuss-Klau",
     "renewed": 0,
     "dueDate": "2024-12-14",
     "by": "Dulleck, Nina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0385929",
-    "accountName": "💪 Maarten",
-    "name": "Leo Lausemaus wird großer Bruder",
-    "renewed": 0,
-    "dueDate": "2024-12-14",
-    "by": "Campanella, Marco",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -230,6 +200,16 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0385929",
+    "accountName": "💪 Maarten",
+    "name": "Leo Lausemaus wird großer Bruder",
+    "renewed": 0,
+    "dueDate": "2024-12-14",
+    "by": "Campanella, Marco",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0383088",
     "accountName": "💪 Maarten",
     "name": "Der Hausschuh-Dieb",
@@ -238,6 +218,26 @@
     "by": "Auer, Margit",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
+  },
+  {
+    "id": "HILD.0406520",
+    "accountName": "💪 Maarten",
+    "name": "Buchstaben : 4-6 Jahre : Laute hören und Buchstaben kennenlernen",
+    "renewed": 0,
+    "dueDate": "2024-12-14",
+    "by": "Neubauer, Annette",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411383",
+    "accountName": "💪 Maarten",
+    "name": "Mini Torso",
+    "renewed": 0,
+    "dueDate": "2024-12-14",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": true
   },
   {
     "id": "HILD.0368890",
@@ -280,73 +280,143 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0357177",
+    "id": "HILD.0411693",
     "accountName": "💪 Maarten",
-    "name": "Fahrzeuge : klapp auf und entdecke die Fahrzeuge von innen und außen! : mit über 30 Klappen!",
-    "renewed": 1,
+    "name": "Warum leuchten Sterne?",
+    "renewed": 0,
     "dueDate": "2025-01-03",
-    "by": "Martin, Ruth",
+    "by": "Nguyen-Kim, Mai Thi",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
-    "id": "HILD.0412041",
+    "id": "HILD.0412445",
     "accountName": "💪 Maarten",
-    "name": "Mikrobenmannschaft",
-    "renewed": 1,
+    "name": "Planeten",
+    "renewed": 0,
     "dueDate": "2025-01-03",
-    "by": "Gravel, Élise",
+    "by": "Stott, Carole",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
-    "id": "HILD.0409830",
-    "accountName": "👦 Arne",
-    "name": "Elektrische Luftpumpe für Camping",
-    "renewed": 2,
-    "dueDate": "2024-12-03",
+    "id": "HILD.0411101",
+    "accountName": "💪 Maarten",
+    "name": "Triceratops will nicht teilen!",
+    "renewed": 0,
+    "dueDate": "2025-01-03",
+    "by": "Frattini, Stéphane",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0411105",
+    "accountName": "💪 Maarten",
+    "name": "Tyrannosaurus ist wütend!",
+    "renewed": 0,
+    "dueDate": "2025-01-03",
+    "by": "Frattini, Stéphane",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0385938",
+    "accountName": "💪 Maarten",
+    "name": "Ungeheuerlich : ein kleiner Drache taucht auf",
+    "renewed": 0,
+    "dueDate": "2025-01-03",
+    "by": "Baumgart, Klaus",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0406970",
+    "accountName": "💪 Maarten",
+    "name": "Zungen Raus! : Das knuffige-wuffige Merkspiel",
+    "renewed": 0,
+    "dueDate": "2025-01-03",
     "by": "",
-    "type": "Serviceartikel",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0396262",
+    "accountName": "💪 Maarten",
+    "name": "Paw Patrol : Schneller als die Feuerwehr und 4 spannende Abenteuer",
+    "renewed": 0,
+    "dueDate": "2025-01-03",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0380642",
+    "accountName": "💪 Maarten",
+    "name": "Tonie 164 -   Benjamin Blümchen Gute-Nacht-Geschichten - Die Märchennacht im Zoo",
+    "renewed": 0,
+    "dueDate": "2025-01-03",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": false
   },
   {
     "id": "HILD.0372069",
-    "accountName": "👦 Arne",
+    "accountName": "💪 Maarten",
     "name": "Tabaluga, das Bilderbuch zum Film",
-    "renewed": 2,
-    "dueDate": "2024-12-03",
+    "renewed": 0,
+    "dueDate": "2025-01-03",
     "by": "Taube, Anna",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
-    "id": "HILD.0389646",
-    "accountName": "👦 Arne",
-    "name": "Wieso? Weshalb? Warum? junior - Der Wald : Hörspiel für die Allerkleinsten",
-    "renewed": 2,
-    "dueDate": "2024-12-03",
-    "by": "",
-    "type": "CD Kinder",
+    "id": "HILD.0367397",
+    "accountName": "💪 Maarten",
+    "name": "Erstes Englisch",
+    "renewed": 0,
+    "dueDate": "2025-01-03",
+    "by": "Reichert, Katharina [Künstler]",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
-    "id": "HILD.0387212",
-    "accountName": "👦 Arne",
-    "name": "Halloween- & Spuklieder",
-    "renewed": 1,
-    "dueDate": "2024-12-17",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
+    "id": "HILD.0364555",
+    "accountName": "💪 Maarten",
+    "name": "Das Schlechte Laune Monster",
+    "renewed": 0,
+    "dueDate": "2025-01-03",
+    "by": "Jamieson, Tom",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
   },
   {
-    "id": "HILD.0396259",
+    "id": "HILD.0364334",
+    "accountName": "💪 Maarten",
+    "name": "Der kleine Bagger : Abenteuer auf der Baustelle",
+    "renewed": 0,
+    "dueDate": "2025-01-03",
+    "by": "Lomp, Stephan",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0413382",
+    "accountName": "💪 Maarten",
+    "name": "",
+    "renewed": 0,
+    "dueDate": "2025-01-03",
+    "by": "",
+    "type": "",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0217016",
     "accountName": "👦 Arne",
-    "name": "Cars 2 : Das Original-Hörspiel zum Film",
+    "name": "Kissenschlacht",
     "renewed": 1,
     "dueDate": "2024-12-17",
     "by": "",
-    "type": "CD Kinder",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -367,16 +437,6 @@
     "dueDate": "2024-12-17",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0407605",
-    "accountName": "👦 Arne",
-    "name": "Guck mal tief ins Weltall",
-    "renewed": 1,
-    "dueDate": "2024-12-17",
-    "by": "Schwarz, Regina",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -410,13 +470,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0217016",
+    "id": "HILD.0387212",
     "accountName": "👦 Arne",
-    "name": "Kissenschlacht",
+    "name": "Halloween- & Spuklieder",
     "renewed": 1,
     "dueDate": "2024-12-17",
     "by": "",
-    "type": "Kinder-/Jugendbuch",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -440,32 +500,32 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0396259",
+    "accountName": "👦 Arne",
+    "name": "Cars 2 : Das Original-Hörspiel zum Film",
+    "renewed": 1,
+    "dueDate": "2024-12-17",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0407605",
+    "accountName": "👦 Arne",
+    "name": "Guck mal tief ins Weltall",
+    "renewed": 1,
+    "dueDate": "2024-12-17",
+    "by": "Schwarz, Regina",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0165653",
     "accountName": "👦 Arne",
     "name": "Frederick",
     "renewed": 1,
     "dueDate": "2024-12-18",
     "by": "Lionni, Leo",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0397591",
-    "accountName": "👦 Arne",
-    "name": "Kastanien-Bastelset",
-    "renewed": 1,
-    "dueDate": "2024-12-18",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0376186",
-    "accountName": "👦 Arne",
-    "name": "Mollys Flug zum Mond",
-    "renewed": 1,
-    "dueDate": "2024-12-18",
-    "by": "Beedie, Duncan",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -480,6 +540,26 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0376186",
+    "accountName": "👦 Arne",
+    "name": "Mollys Flug zum Mond",
+    "renewed": 1,
+    "dueDate": "2024-12-18",
+    "by": "Beedie, Duncan",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0397591",
+    "accountName": "👦 Arne",
+    "name": "Kastanien-Bastelset",
+    "renewed": 1,
+    "dueDate": "2024-12-18",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0411749",
     "accountName": "👦 Arne",
     "name": "Mulles Zaubersteinchen",
@@ -488,15 +568,5 @@
     "by": "Herzog, Annette",
     "type": "CD Kinder",
     "isRenewable": true
-  },
-  {
-    "id": "HILD.0411693",
-    "accountName": "👦 Arne",
-    "name": "Warum leuchten Sterne?",
-    "renewed": 2,
-    "dueDate": "2024-12-21",
-    "by": "Nguyen-Kim, Mai Thi",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
   }
 ]
