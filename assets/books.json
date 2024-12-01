@@ -1,105 +1,5 @@
 [
   {
-    "id": "HILD.0346770",
-    "accountName": "❤️ Maren",
-    "name": "Ganz schön groß und klitzeklein - was können das für Tiere sein?",
-    "renewed": 1,
-    "dueDate": "2024-12-03",
-    "by": "Reich, Stefanie",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0361601",
-    "accountName": "❤️ Maren",
-    "name": "Tonie 49 - Die Sendung mit dem Elefanten - Schlaf schön : Die schönsten Geschichten und Lieder zum Einschlafen und Träumen",
-    "renewed": 1,
-    "dueDate": "2024-12-03",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0372757",
-    "accountName": "❤️ Maren",
-    "name": "Tut-tut, töff-töff, tatü-tata",
-    "renewed": 1,
-    "dueDate": "2024-12-03",
-    "by": "Schomburg, Andrea",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0380675",
-    "accountName": "❤️ Maren",
-    "name": "Tonie 166 - Die Biene Maja - Der Schmetterlingsball",
-    "renewed": 1,
-    "dueDate": "2024-12-03",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0388760",
-    "accountName": "❤️ Maren",
-    "name": "Sternenschweif : Geheimnisvolle Verwandlung",
-    "renewed": 1,
-    "dueDate": "2024-12-03",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0392487",
-    "accountName": "❤️ Maren",
-    "name": "Tiptoi Cars : Das rasante Rennspiel",
-    "renewed": 1,
-    "dueDate": "2024-12-03",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0392771",
-    "accountName": "❤️ Maren",
-    "name": "Paw Patrol: The Movie : Buch zum Film",
-    "renewed": 1,
-    "dueDate": "2024-12-03",
-    "by": "Man-Kong, Mary",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406487",
-    "accountName": "❤️ Maren",
-    "name": "Mama Muh und die Krähe",
-    "renewed": 1,
-    "dueDate": "2024-12-03",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0407693",
-    "accountName": "❤️ Maren",
-    "name": "Tiggers großes Abenteuer : mit Winnie Puuh und seinen Freunden",
-    "renewed": 1,
-    "dueDate": "2024-12-03",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0410120",
-    "accountName": "❤️ Maren",
-    "name": "Drachen weinen nicht & Mondsüchtig",
-    "renewed": 1,
-    "dueDate": "2024-12-03",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0388670",
     "accountName": "❤️ Maren",
     "name": "Pawtastische 5 Minuten-Einsätze",
@@ -120,6 +20,76 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0346770",
+    "accountName": "❤️ Maren",
+    "name": "Ganz schön groß und klitzeklein - was können das für Tiere sein?",
+    "renewed": 2,
+    "dueDate": "2025-01-03",
+    "by": "Reich, Stefanie",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0361601",
+    "accountName": "❤️ Maren",
+    "name": "Tonie 49 - Die Sendung mit dem Elefanten - Schlaf schön : Die schönsten Geschichten und Lieder zum Einschlafen und Träumen",
+    "renewed": 2,
+    "dueDate": "2025-01-03",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0372757",
+    "accountName": "❤️ Maren",
+    "name": "Tut-tut, töff-töff, tatü-tata",
+    "renewed": 2,
+    "dueDate": "2025-01-03",
+    "by": "Schomburg, Andrea",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0380675",
+    "accountName": "❤️ Maren",
+    "name": "Tonie 166 - Die Biene Maja - Der Schmetterlingsball",
+    "renewed": 2,
+    "dueDate": "2025-01-03",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0388760",
+    "accountName": "❤️ Maren",
+    "name": "Sternenschweif : Geheimnisvolle Verwandlung",
+    "renewed": 2,
+    "dueDate": "2025-01-03",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0392487",
+    "accountName": "❤️ Maren",
+    "name": "Tiptoi Cars : Das rasante Rennspiel",
+    "renewed": 2,
+    "dueDate": "2025-01-03",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0392771",
+    "accountName": "❤️ Maren",
+    "name": "Paw Patrol: The Movie : Buch zum Film",
+    "renewed": 2,
+    "dueDate": "2025-01-03",
+    "by": "Man-Kong, Mary",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
     "id": "HILD.0397675",
     "accountName": "❤️ Maren",
     "name": "Das ultimative Paw-Patrol-Vorlesebuch",
@@ -127,6 +97,36 @@
     "dueDate": "2025-01-03",
     "by": "",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0406487",
+    "accountName": "❤️ Maren",
+    "name": "Mama Muh und die Krähe",
+    "renewed": 2,
+    "dueDate": "2025-01-03",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0407693",
+    "accountName": "❤️ Maren",
+    "name": "Tiggers großes Abenteuer : mit Winnie Puuh und seinen Freunden",
+    "renewed": 2,
+    "dueDate": "2025-01-03",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0410120",
+    "accountName": "❤️ Maren",
+    "name": "Drachen weinen nicht & Mondsüchtig",
+    "renewed": 2,
+    "dueDate": "2025-01-03",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": false
   },
   {
