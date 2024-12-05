@@ -130,36 +130,6 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0409892",
-    "accountName": "💪 Maarten",
-    "name": "Hausmonster",
-    "renewed": 0,
-    "dueDate": "2024-12-07",
-    "by": "Marton, Eleonora",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0386414",
-    "accountName": "💪 Maarten",
-    "name": "Wirbel um das Weihnachtsfest : Warmherziges Bilderbuch ab 3 Jahre",
-    "renewed": 0,
-    "dueDate": "2024-12-07",
-    "by": "Kaden, Outi",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0384248",
-    "accountName": "💪 Maarten",
-    "name": "Backen mit Kids - Weihnachten : 50 kinderleichte Mitmach-Rezepte",
-    "renewed": 0,
-    "dueDate": "2024-12-07",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0404452",
     "accountName": "💪 Maarten",
     "name": "Woher kommt die Liebe?",
@@ -180,12 +150,12 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0231336",
+    "id": "HILD.0406520",
     "accountName": "💪 Maarten",
-    "name": "Das große Bastelbuch mit der Maus",
+    "name": "Buchstaben : 4-6 Jahre : Laute hören und Buchstaben kennenlernen",
     "renewed": 0,
     "dueDate": "2024-12-14",
-    "by": "",
+    "by": "Neubauer, Annette",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -230,23 +200,13 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0406520",
+    "id": "HILD.0231336",
     "accountName": "💪 Maarten",
-    "name": "Buchstaben : 4-6 Jahre : Laute hören und Buchstaben kennenlernen",
-    "renewed": 0,
-    "dueDate": "2024-12-14",
-    "by": "Neubauer, Annette",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0411383",
-    "accountName": "💪 Maarten",
-    "name": "Mini Torso",
+    "name": "Das große Bastelbuch mit der Maus",
     "renewed": 0,
     "dueDate": "2024-12-14",
     "by": "",
-    "type": "Serviceartikel",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -290,22 +250,32 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0411383",
+    "accountName": "💪 Maarten",
+    "name": "Mini Torso",
+    "renewed": 0,
+    "dueDate": "2024-12-14",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411105",
+    "accountName": "💪 Maarten",
+    "name": "Tyrannosaurus ist wütend!",
+    "renewed": 0,
+    "dueDate": "2025-01-03",
+    "by": "Frattini, Stéphane",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
     "id": "HILD.0411693",
     "accountName": "💪 Maarten",
     "name": "Warum leuchten Sterne?",
     "renewed": 0,
     "dueDate": "2025-01-03",
     "by": "Nguyen-Kim, Mai Thi",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0412445",
-    "accountName": "💪 Maarten",
-    "name": "Planeten",
-    "renewed": 0,
-    "dueDate": "2025-01-03",
-    "by": "Stott, Carole",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -320,22 +290,22 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0411105",
+    "id": "HILD.0412445",
     "accountName": "💪 Maarten",
-    "name": "Tyrannosaurus ist wütend!",
+    "name": "Planeten",
     "renewed": 0,
     "dueDate": "2025-01-03",
-    "by": "Frattini, Stéphane",
+    "by": "Stott, Carole",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
-    "id": "HILD.0385938",
+    "id": "HILD.0409892",
     "accountName": "💪 Maarten",
-    "name": "Ungeheuerlich : ein kleiner Drache taucht auf",
-    "renewed": 0,
+    "name": "Hausmonster",
+    "renewed": 1,
     "dueDate": "2025-01-03",
-    "by": "Baumgart, Klaus",
+    "by": "Marton, Eleonora",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -350,6 +320,16 @@
     "isRenewable": false
   },
   {
+    "id": "HILD.0385938",
+    "accountName": "💪 Maarten",
+    "name": "Ungeheuerlich : ein kleiner Drache taucht auf",
+    "renewed": 0,
+    "dueDate": "2025-01-03",
+    "by": "Baumgart, Klaus",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
     "id": "HILD.0396262",
     "accountName": "💪 Maarten",
     "name": "Paw Patrol : Schneller als die Feuerwehr und 4 spannende Abenteuer",
@@ -357,6 +337,26 @@
     "dueDate": "2025-01-03",
     "by": "",
     "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0386414",
+    "accountName": "💪 Maarten",
+    "name": "Wirbel um das Weihnachtsfest : Warmherziges Bilderbuch ab 3 Jahre",
+    "renewed": 1,
+    "dueDate": "2025-01-03",
+    "by": "Kaden, Outi",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0384248",
+    "accountName": "💪 Maarten",
+    "name": "Backen mit Kids - Weihnachten : 50 kinderleichte Mitmach-Rezepte",
+    "renewed": 1,
+    "dueDate": "2025-01-03",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
