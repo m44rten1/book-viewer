@@ -97,7 +97,7 @@
     "dueDate": "2025-01-03",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406487",
@@ -267,7 +267,7 @@
     "dueDate": "2025-01-03",
     "by": "Frattini, Stéphane",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0411693",
@@ -277,7 +277,7 @@
     "dueDate": "2025-01-03",
     "by": "Nguyen-Kim, Mai Thi",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0411101",
@@ -287,7 +287,7 @@
     "dueDate": "2025-01-03",
     "by": "Frattini, Stéphane",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0412445",
@@ -297,7 +297,7 @@
     "dueDate": "2025-01-03",
     "by": "Stott, Carole",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0409892",
@@ -307,7 +307,7 @@
     "dueDate": "2025-01-03",
     "by": "Marton, Eleonora",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406970",
@@ -317,7 +317,7 @@
     "dueDate": "2025-01-03",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0385938",
@@ -327,7 +327,7 @@
     "dueDate": "2025-01-03",
     "by": "Baumgart, Klaus",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0396262",
@@ -337,7 +337,7 @@
     "dueDate": "2025-01-03",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0386414",
@@ -347,7 +347,7 @@
     "dueDate": "2025-01-03",
     "by": "Kaden, Outi",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0384248",
@@ -357,7 +357,7 @@
     "dueDate": "2025-01-03",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0380642",
@@ -367,7 +367,7 @@
     "dueDate": "2025-01-03",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0372069",
@@ -377,7 +377,7 @@
     "dueDate": "2025-01-03",
     "by": "Taube, Anna",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0367397",
@@ -387,7 +387,7 @@
     "dueDate": "2025-01-03",
     "by": "Reichert, Katharina [Künstler]",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0364555",
@@ -397,7 +397,7 @@
     "dueDate": "2025-01-03",
     "by": "Jamieson, Tom",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0364334",
@@ -407,17 +407,17 @@
     "dueDate": "2025-01-03",
     "by": "Lomp, Stephan",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0413382",
     "accountName": "💪 Maarten",
-    "name": "",
+    "name": "Paw Patrol - Jungle Pups - Marshall",
     "renewed": 0,
     "dueDate": "2025-01-03",
     "by": "",
-    "type": "",
-    "isRenewable": false
+    "type": "CD Kinder",
+    "isRenewable": true
   },
   {
     "id": "HILD.0217016",
