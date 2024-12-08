@@ -397,7 +397,7 @@
     "dueDate": "2025-01-04",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0217016",
@@ -567,7 +567,7 @@
     "dueDate": "2025-01-04",
     "by": "Gaudin, Jean-Charles",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0390676",
@@ -577,7 +577,7 @@
     "dueDate": "2025-01-04",
     "by": "Isogawa, Yoshihito",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0390732",
@@ -587,7 +587,7 @@
     "dueDate": "2025-01-04",
     "by": "Gater, Will",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0368264",
@@ -597,7 +597,7 @@
     "dueDate": "2025-01-04",
     "by": "Rieckhoff, Sibylle",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0392305",
@@ -607,7 +607,7 @@
     "dueDate": "2025-01-04",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0366056",
@@ -617,7 +617,7 @@
     "dueDate": "2025-01-04",
     "by": "Baur, Manfred",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0349939",
@@ -627,7 +627,7 @@
     "dueDate": "2025-01-04",
     "by": "Franco, Cathy",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0404607",
@@ -637,7 +637,7 @@
     "dueDate": "2025-01-04",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406489",
@@ -647,7 +647,7 @@
     "dueDate": "2025-01-04",
     "by": "Kerr, Judith",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406558",
@@ -657,7 +657,7 @@
     "dueDate": "2025-01-04",
     "by": "Paxton, Jennifer Z.",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0385810",
@@ -667,6 +667,6 @@
     "dueDate": "2025-01-04",
     "by": "Gaudin, Jean-Charles",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   }
 ]
