@@ -130,102 +130,22 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0231336",
+    "id": "HILD.0413382",
     "accountName": "💪 Maarten",
-    "name": "Das große Bastelbuch mit der Maus",
+    "name": "Paw Patrol - Jungle Pups - Marshall",
     "renewed": 0,
-    "dueDate": "2024-12-14",
+    "dueDate": "2025-01-03",
     "by": "",
-    "type": "Kinder-/Jugendbuch",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
-    "id": "HILD.0406520",
+    "id": "HILD.0384248",
     "accountName": "💪 Maarten",
-    "name": "Buchstaben : 4-6 Jahre : Laute hören und Buchstaben kennenlernen",
-    "renewed": 0,
-    "dueDate": "2024-12-14",
-    "by": "Neubauer, Annette",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0260165",
-    "accountName": "💪 Maarten",
-    "name": "Erste Zahlen",
-    "renewed": 0,
-    "dueDate": "2024-12-14",
-    "by": "Voigt, Silke",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0352056",
-    "accountName": "💪 Maarten",
-    "name": "Zum Glück gibt es Geschwister!",
-    "renewed": 0,
-    "dueDate": "2024-12-14",
-    "by": "Geisler, Dagmar",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0411383",
-    "accountName": "💪 Maarten",
-    "name": "Mini Torso",
-    "renewed": 0,
-    "dueDate": "2024-12-14",
+    "name": "Backen mit Kids - Weihnachten : 50 kinderleichte Mitmach-Rezepte",
+    "renewed": 1,
+    "dueDate": "2025-01-03",
     "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0368352",
-    "accountName": "💪 Maarten",
-    "name": "Tabaluga : die Suche nach dem Feuer",
-    "renewed": 0,
-    "dueDate": "2024-12-14",
-    "by": "Heine, Helme",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0368890",
-    "accountName": "💪 Maarten",
-    "name": "Super-Erfinder : große Ideen - nachbauen und verstehen",
-    "renewed": 0,
-    "dueDate": "2024-12-14",
-    "by": "Heinisch, Carsten",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0385929",
-    "accountName": "💪 Maarten",
-    "name": "Leo Lausemaus wird großer Bruder",
-    "renewed": 0,
-    "dueDate": "2024-12-14",
-    "by": "Campanella, Marco",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0233892",
-    "accountName": "💪 Maarten",
-    "name": "Experimentieren und Entdecken",
-    "renewed": 0,
-    "dueDate": "2024-12-14",
-    "by": "Weinhold, Angela",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0389063",
-    "accountName": "💪 Maarten",
-    "name": "Der Kokosnuss-Klau",
-    "renewed": 0,
-    "dueDate": "2024-12-14",
-    "by": "Dulleck, Nina",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -290,16 +210,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0385938",
-    "accountName": "💪 Maarten",
-    "name": "Ungeheuerlich : ein kleiner Drache taucht auf",
-    "renewed": 0,
-    "dueDate": "2025-01-03",
-    "by": "Baumgart, Klaus",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0396262",
     "accountName": "💪 Maarten",
     "name": "Paw Patrol : Schneller als die Feuerwehr und 4 spannende Abenteuer",
@@ -320,12 +230,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0384248",
+    "id": "HILD.0385938",
     "accountName": "💪 Maarten",
-    "name": "Backen mit Kids - Weihnachten : 50 kinderleichte Mitmach-Rezepte",
-    "renewed": 1,
+    "name": "Ungeheuerlich : ein kleiner Drache taucht auf",
+    "renewed": 0,
     "dueDate": "2025-01-03",
-    "by": "",
+    "by": "Baumgart, Klaus",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -380,16 +290,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0413382",
-    "accountName": "💪 Maarten",
-    "name": "Paw Patrol - Jungle Pups - Marshall",
-    "renewed": 0,
-    "dueDate": "2025-01-03",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0403521",
     "accountName": "💪 Maarten",
     "name": "Meta Quest 2 : VR-Headset",
@@ -397,6 +297,106 @@
     "dueDate": "2025-01-04",
     "by": "",
     "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0385929",
+    "accountName": "💪 Maarten",
+    "name": "Leo Lausemaus wird großer Bruder",
+    "renewed": 1,
+    "dueDate": "2025-01-08",
+    "by": "Campanella, Marco",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0233892",
+    "accountName": "💪 Maarten",
+    "name": "Experimentieren und Entdecken",
+    "renewed": 1,
+    "dueDate": "2025-01-08",
+    "by": "Weinhold, Angela",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0389063",
+    "accountName": "💪 Maarten",
+    "name": "Der Kokosnuss-Klau",
+    "renewed": 1,
+    "dueDate": "2025-01-08",
+    "by": "Dulleck, Nina",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0368890",
+    "accountName": "💪 Maarten",
+    "name": "Super-Erfinder : große Ideen - nachbauen und verstehen",
+    "renewed": 1,
+    "dueDate": "2025-01-08",
+    "by": "Heinisch, Carsten",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0406520",
+    "accountName": "💪 Maarten",
+    "name": "Buchstaben : 4-6 Jahre : Laute hören und Buchstaben kennenlernen",
+    "renewed": 1,
+    "dueDate": "2025-01-08",
+    "by": "Neubauer, Annette",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0368352",
+    "accountName": "💪 Maarten",
+    "name": "Tabaluga : die Suche nach dem Feuer",
+    "renewed": 1,
+    "dueDate": "2025-01-08",
+    "by": "Heine, Helme",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411383",
+    "accountName": "💪 Maarten",
+    "name": "Mini Torso",
+    "renewed": 1,
+    "dueDate": "2025-01-08",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0352056",
+    "accountName": "💪 Maarten",
+    "name": "Zum Glück gibt es Geschwister!",
+    "renewed": 1,
+    "dueDate": "2025-01-08",
+    "by": "Geisler, Dagmar",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0260165",
+    "accountName": "💪 Maarten",
+    "name": "Erste Zahlen",
+    "renewed": 1,
+    "dueDate": "2025-01-08",
+    "by": "Voigt, Silke",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0231336",
+    "accountName": "💪 Maarten",
+    "name": "Das große Bastelbuch mit der Maus",
+    "renewed": 1,
+    "dueDate": "2025-01-08",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
