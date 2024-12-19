@@ -1,15 +1,5 @@
 [
   {
-    "id": "HILD.0346770",
-    "accountName": "❤️ Maren",
-    "name": "Ganz schön groß und klitzeklein - was können das für Tiere sein?",
-    "renewed": 2,
-    "dueDate": "2025-01-03",
-    "by": "Reich, Stefanie",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0361601",
     "accountName": "❤️ Maren",
     "name": "Tonie 49 - Die Sendung mit dem Elefanten - Schlaf schön : Die schönsten Geschichten und Lieder zum Einschlafen und Träumen",
@@ -156,16 +146,6 @@
     "renewed": 0,
     "dueDate": "2025-01-03",
     "by": "Stott, Carole",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0411693",
-    "accountName": "💪 Maarten",
-    "name": "Warum leuchten Sterne?",
-    "renewed": 0,
-    "dueDate": "2025-01-03",
-    "by": "Nguyen-Kim, Mai Thi",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -350,12 +330,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0368352",
+    "id": "HILD.0352056",
     "accountName": "💪 Maarten",
-    "name": "Tabaluga : die Suche nach dem Feuer",
+    "name": "Zum Glück gibt es Geschwister!",
     "renewed": 1,
     "dueDate": "2025-01-08",
-    "by": "Heine, Helme",
+    "by": "Geisler, Dagmar",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -367,16 +347,6 @@
     "dueDate": "2025-01-08",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0352056",
-    "accountName": "💪 Maarten",
-    "name": "Zum Glück gibt es Geschwister!",
-    "renewed": 1,
-    "dueDate": "2025-01-08",
-    "by": "Geisler, Dagmar",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -400,23 +370,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0385810",
+    "id": "HILD.0406489",
     "accountName": "👦 Arne",
-    "name": "Die Muskeln",
+    "name": "Mog, der vergessliche Kater : Die schönsten Geschichten",
     "renewed": 0,
     "dueDate": "2025-01-04",
-    "by": "Gaudin, Jean-Charles",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406558",
-    "accountName": "👦 Arne",
-    "name": "Das Museum des Körpers",
-    "renewed": 0,
-    "dueDate": "2025-01-04",
-    "by": "Paxton, Jennifer Z.",
-    "type": "Kinder-/Jugendbuch",
+    "by": "Kerr, Judith",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -427,6 +387,36 @@
     "dueDate": "2025-01-04",
     "by": "",
     "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0349939",
+    "accountName": "👦 Arne",
+    "name": "Der Körper : eine Entdeckungsreise",
+    "renewed": 0,
+    "dueDate": "2025-01-04",
+    "by": "Franco, Cathy",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0366056",
+    "accountName": "👦 Arne",
+    "name": "Tonie 77 - Was ist was Raumfahrt ; Der Mond",
+    "renewed": 0,
+    "dueDate": "2025-01-04",
+    "by": "Baur, Manfred",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0406558",
+    "accountName": "👦 Arne",
+    "name": "Das Museum des Körpers",
+    "renewed": 0,
+    "dueDate": "2025-01-04",
+    "by": "Paxton, Jennifer Z.",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -450,16 +440,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0382386",
-    "accountName": "👦 Arne",
-    "name": "Das Skelett",
-    "renewed": 0,
-    "dueDate": "2025-01-04",
-    "by": "Gaudin, Jean-Charles",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0404607",
     "accountName": "👦 Arne",
     "name": "Der Grolltroll - Das Liederalbum : Lieder zum Grollen, Schmollen und Wieder-fröhlich-Sein!",
@@ -470,59 +450,49 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0406489",
+    "id": "HILD.0382386",
     "accountName": "👦 Arne",
-    "name": "Mog, der vergessliche Kater : Die schönsten Geschichten",
+    "name": "Das Skelett",
     "renewed": 0,
     "dueDate": "2025-01-04",
-    "by": "Kerr, Judith",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0368264",
-    "accountName": "👦 Arne",
-    "name": "Rotz-Alarm",
-    "renewed": 0,
-    "dueDate": "2025-01-04",
-    "by": "Rieckhoff, Sibylle",
+    "by": "Gaudin, Jean-Charles",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
-    "id": "HILD.0366056",
+    "id": "HILD.0385810",
     "accountName": "👦 Arne",
-    "name": "Tonie 77 - Was ist was Raumfahrt ; Der Mond",
+    "name": "Die Muskeln",
     "renewed": 0,
     "dueDate": "2025-01-04",
-    "by": "Baur, Manfred",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0349939",
-    "accountName": "👦 Arne",
-    "name": "Der Körper : eine Entdeckungsreise",
-    "renewed": 0,
-    "dueDate": "2025-01-04",
-    "by": "Franco, Cathy",
+    "by": "Gaudin, Jean-Charles",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
-    "id": "HILD.0376703",
+    "id": "HILD.0389098",
     "accountName": "👦 Arne",
-    "name": "Lotti kann nicht pupsen",
+    "name": "Tiere im Garten",
     "renewed": 2,
     "dueDate": "2025-01-11",
-    "by": "Satzger, Elke",
+    "by": "Neubauer, Annette",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
-    "id": "HILD.0380797",
+    "id": "HILD.0396259",
     "accountName": "👦 Arne",
-    "name": "Stadt Memo Hilden",
+    "name": "Cars 2 : Das Original-Hörspiel zum Film",
+    "renewed": 2,
+    "dueDate": "2025-01-11",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0391283",
+    "accountName": "👦 Arne",
+    "name": "Das Dinosaurier-Quiz",
     "renewed": 2,
     "dueDate": "2025-01-11",
     "by": "",
@@ -530,9 +500,9 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0360585",
+    "id": "HILD.0387212",
     "accountName": "👦 Arne",
-    "name": "Tonie 8 -  Ein Geburtstagsfest für Lieselotte und andere Geschichten",
+    "name": "Halloween- & Spuklieder",
     "renewed": 2,
     "dueDate": "2025-01-11",
     "by": "",
@@ -550,23 +520,33 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0387212",
+    "id": "HILD.0380797",
     "accountName": "👦 Arne",
-    "name": "Halloween- & Spuklieder",
+    "name": "Stadt Memo Hilden",
+    "renewed": 2,
+    "dueDate": "2025-01-11",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0376703",
+    "accountName": "👦 Arne",
+    "name": "Lotti kann nicht pupsen",
+    "renewed": 2,
+    "dueDate": "2025-01-11",
+    "by": "Satzger, Elke",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0360585",
+    "accountName": "👦 Arne",
+    "name": "Tonie 8 -  Ein Geburtstagsfest für Lieselotte und andere Geschichten",
     "renewed": 2,
     "dueDate": "2025-01-11",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0389098",
-    "accountName": "👦 Arne",
-    "name": "Tiere im Garten",
-    "renewed": 2,
-    "dueDate": "2025-01-11",
-    "by": "Neubauer, Annette",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
@@ -580,16 +560,6 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0391283",
-    "accountName": "👦 Arne",
-    "name": "Das Dinosaurier-Quiz",
-    "renewed": 2,
-    "dueDate": "2025-01-11",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0307157",
     "accountName": "👦 Arne",
     "name": "Entdecke die Planeten",
@@ -597,16 +567,6 @@
     "dueDate": "2025-01-11",
     "by": "Turnbull, Stephanie",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0396259",
-    "accountName": "👦 Arne",
-    "name": "Cars 2 : Das Original-Hörspiel zum Film",
-    "renewed": 2,
-    "dueDate": "2025-01-11",
-    "by": "",
-    "type": "CD Kinder",
     "isRenewable": false
   },
   {
