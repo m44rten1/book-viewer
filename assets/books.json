@@ -200,22 +200,22 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0386414",
-    "accountName": "💪 Maarten",
-    "name": "Wirbel um das Weihnachtsfest : Warmherziges Bilderbuch ab 3 Jahre",
-    "renewed": 1,
-    "dueDate": "2025-01-03",
-    "by": "Kaden, Outi",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0385938",
     "accountName": "💪 Maarten",
     "name": "Ungeheuerlich : ein kleiner Drache taucht auf",
     "renewed": 0,
     "dueDate": "2025-01-03",
     "by": "Baumgart, Klaus",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0386414",
+    "accountName": "💪 Maarten",
+    "name": "Wirbel um das Weihnachtsfest : Warmherziges Bilderbuch ab 3 Jahre",
+    "renewed": 1,
+    "dueDate": "2025-01-03",
+    "by": "Kaden, Outi",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -370,43 +370,23 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0406489",
-    "accountName": "👦 Arne",
-    "name": "Mog, der vergessliche Kater : Die schönsten Geschichten",
+    "id": "HILD.0392029",
+    "accountName": "💪 Maarten",
+    "name": "Minibeamer",
     "renewed": 0,
-    "dueDate": "2025-01-04",
-    "by": "Kerr, Judith",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0392305",
-    "accountName": "👦 Arne",
-    "name": "Miffy",
-    "renewed": 0,
-    "dueDate": "2025-01-04",
+    "dueDate": "2025-01-16",
     "by": "",
-    "type": "CD Kinder",
+    "type": "Serviceartikel",
     "isRenewable": true
   },
   {
-    "id": "HILD.0349939",
+    "id": "HILD.0390676",
     "accountName": "👦 Arne",
-    "name": "Der Körper : eine Entdeckungsreise",
+    "name": "Das LEGO®-Boost-Ideenbuch",
     "renewed": 0,
     "dueDate": "2025-01-04",
-    "by": "Franco, Cathy",
+    "by": "Isogawa, Yoshihito",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0366056",
-    "accountName": "👦 Arne",
-    "name": "Tonie 77 - Was ist was Raumfahrt ; Der Mond",
-    "renewed": 0,
-    "dueDate": "2025-01-04",
-    "by": "Baur, Manfred",
-    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -430,23 +410,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0390676",
+    "id": "HILD.0385810",
     "accountName": "👦 Arne",
-    "name": "Das LEGO®-Boost-Ideenbuch",
+    "name": "Die Muskeln",
     "renewed": 0,
     "dueDate": "2025-01-04",
-    "by": "Isogawa, Yoshihito",
+    "by": "Gaudin, Jean-Charles",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0404607",
-    "accountName": "👦 Arne",
-    "name": "Der Grolltroll - Das Liederalbum : Lieder zum Grollen, Schmollen und Wieder-fröhlich-Sein!",
-    "renewed": 0,
-    "dueDate": "2025-01-04",
-    "by": "",
-    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -460,22 +430,72 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0385810",
+    "id": "HILD.0406489",
     "accountName": "👦 Arne",
-    "name": "Die Muskeln",
+    "name": "Mog, der vergessliche Kater : Die schönsten Geschichten",
     "renewed": 0,
     "dueDate": "2025-01-04",
-    "by": "Gaudin, Jean-Charles",
+    "by": "Kerr, Judith",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0404607",
+    "accountName": "👦 Arne",
+    "name": "Der Grolltroll - Das Liederalbum : Lieder zum Grollen, Schmollen und Wieder-fröhlich-Sein!",
+    "renewed": 0,
+    "dueDate": "2025-01-04",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0366056",
+    "accountName": "👦 Arne",
+    "name": "Tonie 77 - Was ist was Raumfahrt ; Der Mond",
+    "renewed": 0,
+    "dueDate": "2025-01-04",
+    "by": "Baur, Manfred",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0349939",
+    "accountName": "👦 Arne",
+    "name": "Der Körper : eine Entdeckungsreise",
+    "renewed": 0,
+    "dueDate": "2025-01-04",
+    "by": "Franco, Cathy",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
-    "id": "HILD.0389098",
+    "id": "HILD.0392305",
     "accountName": "👦 Arne",
-    "name": "Tiere im Garten",
+    "name": "Miffy",
+    "renewed": 0,
+    "dueDate": "2025-01-04",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0360585",
+    "accountName": "👦 Arne",
+    "name": "Tonie 8 -  Ein Geburtstagsfest für Lieselotte und andere Geschichten",
     "renewed": 2,
     "dueDate": "2025-01-11",
-    "by": "Neubauer, Annette",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0376703",
+    "accountName": "👦 Arne",
+    "name": "Lotti kann nicht pupsen",
+    "renewed": 2,
+    "dueDate": "2025-01-11",
+    "by": "Satzger, Elke",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -490,36 +510,6 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0391283",
-    "accountName": "👦 Arne",
-    "name": "Das Dinosaurier-Quiz",
-    "renewed": 2,
-    "dueDate": "2025-01-11",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0387212",
-    "accountName": "👦 Arne",
-    "name": "Halloween- & Spuklieder",
-    "renewed": 2,
-    "dueDate": "2025-01-11",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0217016",
-    "accountName": "👦 Arne",
-    "name": "Kissenschlacht",
-    "renewed": 2,
-    "dueDate": "2025-01-11",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0380797",
     "accountName": "👦 Arne",
     "name": "Stadt Memo Hilden",
@@ -530,23 +520,13 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0376703",
+    "id": "HILD.0381513",
     "accountName": "👦 Arne",
-    "name": "Lotti kann nicht pupsen",
+    "name": "Die Geschichte vom kleinen Siebenschläfer, der überhaupt keine Angst im Dunkeln hatte",
     "renewed": 2,
     "dueDate": "2025-01-11",
-    "by": "Satzger, Elke",
+    "by": "Bohlmann, Sabine",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0360585",
-    "accountName": "👦 Arne",
-    "name": "Tonie 8 -  Ein Geburtstagsfest für Lieselotte und andere Geschichten",
-    "renewed": 2,
-    "dueDate": "2025-01-11",
-    "by": "",
-    "type": "CD Kinder",
     "isRenewable": false
   },
   {
@@ -570,13 +550,53 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0381513",
+    "id": "HILD.0387212",
     "accountName": "👦 Arne",
-    "name": "Die Geschichte vom kleinen Siebenschläfer, der überhaupt keine Angst im Dunkeln hatte",
+    "name": "Halloween- & Spuklieder",
     "renewed": 2,
     "dueDate": "2025-01-11",
-    "by": "Bohlmann, Sabine",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0389098",
+    "accountName": "👦 Arne",
+    "name": "Tiere im Garten",
+    "renewed": 2,
+    "dueDate": "2025-01-11",
+    "by": "Neubauer, Annette",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0217016",
+    "accountName": "👦 Arne",
+    "name": "Kissenschlacht",
+    "renewed": 2,
+    "dueDate": "2025-01-11",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0391283",
+    "accountName": "👦 Arne",
+    "name": "Das Dinosaurier-Quiz",
+    "renewed": 2,
+    "dueDate": "2025-01-11",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0411749",
+    "accountName": "👦 Arne",
+    "name": "Mulles Zaubersteinchen",
+    "renewed": 2,
+    "dueDate": "2025-01-14",
+    "by": "Herzog, Annette",
+    "type": "CD Kinder",
     "isRenewable": false
   },
   {
@@ -620,13 +640,103 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0411749",
+    "id": "HILD.0403487",
     "accountName": "👦 Arne",
-    "name": "Mulles Zaubersteinchen",
-    "renewed": 2,
-    "dueDate": "2025-01-14",
-    "by": "Herzog, Annette",
+    "name": "Tempo, kleine Klapperschlange!",
+    "renewed": 0,
+    "dueDate": "2025-01-16",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0378348",
+    "accountName": "👦 Arne",
+    "name": "Wie geht's denn nun zum Mond?",
+    "renewed": 0,
+    "dueDate": "2025-01-16",
+    "by": "Walder, Claudia",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0375887",
+    "accountName": "👦 Arne",
+    "name": "Wie funktioniert denn das? : die Welt um mich herum : mit über 70 Klappen",
+    "renewed": 0,
+    "dueDate": "2025-01-16",
+    "by": "Tognetti, Stefano",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411430",
+    "accountName": "👦 Arne",
+    "name": "Die Fellfreunde tauchen ab!",
+    "renewed": 0,
+    "dueDate": "2025-01-16",
+    "by": "De Lon, Nora",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0228655",
+    "accountName": "👦 Arne",
+    "name": "Weltall : erforsche unser Sonnensystem",
+    "renewed": 0,
+    "dueDate": "2025-01-16",
+    "by": "Graham, Ian",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411781",
+    "accountName": "👦 Arne",
+    "name": "Clever Tonie - Alles über Sterne + Planeten",
+    "renewed": 0,
+    "dueDate": "2025-01-16",
+    "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411782",
+    "accountName": "👦 Arne",
+    "name": "Clever Tonie - Alles über Vulkane",
+    "renewed": 0,
+    "dueDate": "2025-01-16",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411920",
+    "accountName": "👦 Arne",
+    "name": "Clever Tonie - Leo und die Abenteuermaschine/Leo und die Mondlandung",
+    "renewed": 0,
+    "dueDate": "2025-01-16",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0412142",
+    "accountName": "👦 Arne",
+    "name": "Das Raumfahrtbuch",
+    "renewed": 0,
+    "dueDate": "2025-01-16",
+    "by": "Van der Veken, Jan",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0413488",
+    "accountName": "👦 Arne",
+    "name": "Es war einmal ... der Weltraum : Die Adaption der Kult-Zeichentrickserie",
+    "renewed": 0,
+    "dueDate": "2025-01-16",
+    "by": "Lambert, Christophe",
+    "type": "Comics / Mangas",
+    "isRenewable": true
   }
 ]
