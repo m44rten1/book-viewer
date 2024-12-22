@@ -377,7 +377,7 @@
     "dueDate": "2025-01-16",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": true
+    "isRenewable": false
   },
   {
     "id": "HILD.0390676",
