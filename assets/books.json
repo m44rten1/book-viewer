@@ -30,66 +30,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0260165",
-    "accountName": "💪 Maarten",
-    "name": "Erste Zahlen",
-    "renewed": 1,
-    "dueDate": "2025-01-08",
-    "by": "Voigt, Silke",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0352056",
-    "accountName": "💪 Maarten",
-    "name": "Zum Glück gibt es Geschwister!",
-    "renewed": 1,
-    "dueDate": "2025-01-08",
-    "by": "Geisler, Dagmar",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0411383",
-    "accountName": "💪 Maarten",
-    "name": "Mini Torso",
-    "renewed": 1,
-    "dueDate": "2025-01-08",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0385929",
-    "accountName": "💪 Maarten",
-    "name": "Leo Lausemaus wird großer Bruder",
-    "renewed": 1,
-    "dueDate": "2025-01-08",
-    "by": "Campanella, Marco",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406520",
-    "accountName": "💪 Maarten",
-    "name": "Buchstaben : 4-6 Jahre : Laute hören und Buchstaben kennenlernen",
-    "renewed": 1,
-    "dueDate": "2025-01-08",
-    "by": "Neubauer, Annette",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0389063",
-    "accountName": "💪 Maarten",
-    "name": "Der Kokosnuss-Klau",
-    "renewed": 1,
-    "dueDate": "2025-01-08",
-    "by": "Dulleck, Nina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0392029",
     "accountName": "💪 Maarten",
     "name": "Minibeamer",
@@ -97,6 +37,76 @@
     "dueDate": "2025-01-16",
     "by": "",
     "type": "Serviceartikel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0413382",
+    "accountName": "💪 Maarten",
+    "name": "Paw Patrol - Jungle Pups - Marshall",
+    "renewed": 1,
+    "dueDate": "2025-01-28",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0406970",
+    "accountName": "💪 Maarten",
+    "name": "Zungen Raus! : Das knuffige-wuffige Merkspiel",
+    "renewed": 1,
+    "dueDate": "2025-01-28",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0364334",
+    "accountName": "💪 Maarten",
+    "name": "Der kleine Bagger : Abenteuer auf der Baustelle",
+    "renewed": 1,
+    "dueDate": "2025-01-28",
+    "by": "Lomp, Stephan",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0367397",
+    "accountName": "💪 Maarten",
+    "name": "Erstes Englisch",
+    "renewed": 1,
+    "dueDate": "2025-01-28",
+    "by": "Reichert, Katharina [Künstler]",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0372069",
+    "accountName": "💪 Maarten",
+    "name": "Tabaluga, das Bilderbuch zum Film",
+    "renewed": 1,
+    "dueDate": "2025-01-28",
+    "by": "Taube, Anna",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0380642",
+    "accountName": "💪 Maarten",
+    "name": "Tonie 164 -   Benjamin Blümchen Gute-Nacht-Geschichten - Die Märchennacht im Zoo",
+    "renewed": 1,
+    "dueDate": "2025-01-28",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0384248",
+    "accountName": "💪 Maarten",
+    "name": "Backen mit Kids - Weihnachten : 50 kinderleichte Mitmach-Rezepte",
+    "renewed": 2,
+    "dueDate": "2025-01-28",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
@@ -130,26 +140,6 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0406970",
-    "accountName": "💪 Maarten",
-    "name": "Zungen Raus! : Das knuffige-wuffige Merkspiel",
-    "renewed": 1,
-    "dueDate": "2025-01-28",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0413382",
-    "accountName": "💪 Maarten",
-    "name": "Paw Patrol - Jungle Pups - Marshall",
-    "renewed": 1,
-    "dueDate": "2025-01-28",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0396262",
     "accountName": "💪 Maarten",
     "name": "Paw Patrol : Schneller als die Feuerwehr und 4 spannende Abenteuer",
@@ -160,56 +150,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0384248",
-    "accountName": "💪 Maarten",
-    "name": "Backen mit Kids - Weihnachten : 50 kinderleichte Mitmach-Rezepte",
-    "renewed": 2,
-    "dueDate": "2025-01-28",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0380642",
-    "accountName": "💪 Maarten",
-    "name": "Tonie 164 -   Benjamin Blümchen Gute-Nacht-Geschichten - Die Märchennacht im Zoo",
-    "renewed": 1,
-    "dueDate": "2025-01-28",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0372069",
-    "accountName": "💪 Maarten",
-    "name": "Tabaluga, das Bilderbuch zum Film",
-    "renewed": 1,
-    "dueDate": "2025-01-28",
-    "by": "Taube, Anna",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0367397",
-    "accountName": "💪 Maarten",
-    "name": "Erstes Englisch",
-    "renewed": 1,
-    "dueDate": "2025-01-28",
-    "by": "Reichert, Katharina [Künstler]",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0364334",
-    "accountName": "💪 Maarten",
-    "name": "Der kleine Bagger : Abenteuer auf der Baustelle",
-    "renewed": 1,
-    "dueDate": "2025-01-28",
-    "by": "Lomp, Stephan",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0403521",
     "accountName": "💪 Maarten",
     "name": "Meta Quest 2 : VR-Headset",
@@ -217,16 +157,6 @@
     "dueDate": "2025-01-29",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0388945",
-    "accountName": "💪 Maarten",
-    "name": "Vegetarisch abnehmen nach dem 20:80 Prinzip : 20% Verhalten ändern - 80% Essgewohnheiten behalten",
-    "renewed": 0,
-    "dueDate": "2025-01-30",
-    "by": "Riedl, Matthias",
-    "type": "Sachbuch",
     "isRenewable": true
   },
   {
@@ -248,6 +178,76 @@
     "by": "Kovárová, Amálie",
     "type": "Roman",
     "isRenewable": true
+  },
+  {
+    "id": "HILD.0388945",
+    "accountName": "💪 Maarten",
+    "name": "Vegetarisch abnehmen nach dem 20:80 Prinzip : 20% Verhalten ändern - 80% Essgewohnheiten behalten",
+    "renewed": 0,
+    "dueDate": "2025-01-30",
+    "by": "Riedl, Matthias",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0406520",
+    "accountName": "💪 Maarten",
+    "name": "Buchstaben : 4-6 Jahre : Laute hören und Buchstaben kennenlernen",
+    "renewed": 2,
+    "dueDate": "2025-02-04",
+    "by": "Neubauer, Annette",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0352056",
+    "accountName": "💪 Maarten",
+    "name": "Zum Glück gibt es Geschwister!",
+    "renewed": 2,
+    "dueDate": "2025-02-04",
+    "by": "Geisler, Dagmar",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0389063",
+    "accountName": "💪 Maarten",
+    "name": "Der Kokosnuss-Klau",
+    "renewed": 2,
+    "dueDate": "2025-02-04",
+    "by": "Dulleck, Nina",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0385929",
+    "accountName": "💪 Maarten",
+    "name": "Leo Lausemaus wird großer Bruder",
+    "renewed": 2,
+    "dueDate": "2025-02-04",
+    "by": "Campanella, Marco",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0411383",
+    "accountName": "💪 Maarten",
+    "name": "Mini Torso",
+    "renewed": 2,
+    "dueDate": "2025-02-04",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0260165",
+    "accountName": "💪 Maarten",
+    "name": "Erste Zahlen",
+    "renewed": 2,
+    "dueDate": "2025-02-04",
+    "by": "Voigt, Silke",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
   },
   {
     "id": "HILD.0389098",
