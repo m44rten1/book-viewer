@@ -197,7 +197,7 @@
     "dueDate": "2025-02-21",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0234303",
@@ -207,7 +207,7 @@
     "dueDate": "2025-02-21",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0399588",
@@ -217,7 +217,7 @@
     "dueDate": "2025-02-21",
     "by": "Bauer, Sonja",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0393375",
@@ -227,7 +227,7 @@
     "dueDate": "2025-02-21",
     "by": "Harkness, Andy",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0385547",
@@ -237,7 +237,7 @@
     "dueDate": "2025-02-21",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0375742",
@@ -247,7 +247,7 @@
     "dueDate": "2025-02-21",
     "by": "Schell, Valesa",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0375647",
@@ -257,7 +257,7 @@
     "dueDate": "2025-02-21",
     "by": "Daynes, Katie",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0367043",
@@ -267,7 +267,7 @@
     "dueDate": "2025-02-21",
     "by": "Bayer, Frank",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0350570",
@@ -277,7 +277,7 @@
     "dueDate": "2025-02-21",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0389190",
@@ -287,7 +287,7 @@
     "dueDate": "2025-02-21",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0364334",
