@@ -410,52 +410,22 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0385810",
-    "accountName": "👦 Arne",
-    "name": "Die Muskeln",
-    "renewed": 1,
-    "dueDate": "2025-01-29",
-    "by": "Gaudin, Jean-Charles",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0404607",
-    "accountName": "👦 Arne",
-    "name": "Der Grolltroll - Das Liederalbum : Lieder zum Grollen, Schmollen und Wieder-fröhlich-Sein!",
-    "renewed": 1,
-    "dueDate": "2025-01-29",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0390732",
-    "accountName": "👦 Arne",
-    "name": "Wundervolle Welt der Sterne",
-    "renewed": 1,
-    "dueDate": "2025-01-29",
-    "by": "Gater, Will",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0382386",
-    "accountName": "👦 Arne",
-    "name": "Das Skelett",
-    "renewed": 1,
-    "dueDate": "2025-01-29",
-    "by": "Gaudin, Jean-Charles",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0285463",
     "accountName": "👦 Arne",
     "name": "Grundschulwörterbuch Englisch",
     "renewed": 0,
     "dueDate": "2025-01-30",
     "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0378215",
+    "accountName": "👦 Arne",
+    "name": "Ist da jemand?",
+    "renewed": 0,
+    "dueDate": "2025-01-30",
+    "by": "Agee, Jon",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -540,12 +510,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0378215",
+    "id": "HILD.0376395",
     "accountName": "👦 Arne",
-    "name": "Ist da jemand?",
+    "name": "Paco & Knuff : die Alpakas wünschen Gute Nacht!",
     "renewed": 0,
     "dueDate": "2025-01-30",
-    "by": "Agee, Jon",
+    "by": "Allert, Judith",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -590,23 +560,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0376395",
+    "id": "HILD.0411430",
     "accountName": "👦 Arne",
-    "name": "Paco & Knuff : die Alpakas wünschen Gute Nacht!",
-    "renewed": 0,
-    "dueDate": "2025-01-30",
-    "by": "Allert, Judith",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0411781",
-    "accountName": "👦 Arne",
-    "name": "Clever Tonie - Alles über Sterne + Planeten",
+    "name": "Die Fellfreunde tauchen ab!",
     "renewed": 1,
     "dueDate": "2025-02-11",
-    "by": "",
-    "type": "CD Kinder",
+    "by": "De Lon, Nora",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -640,23 +600,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0413488",
+    "id": "HILD.0411781",
     "accountName": "👦 Arne",
-    "name": "Es war einmal ... der Weltraum : Die Adaption der Kult-Zeichentrickserie",
+    "name": "Clever Tonie - Alles über Sterne + Planeten",
     "renewed": 1,
     "dueDate": "2025-02-11",
-    "by": "Lambert, Christophe",
-    "type": "Comics / Mangas",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0411430",
-    "accountName": "👦 Arne",
-    "name": "Die Fellfreunde tauchen ab!",
-    "renewed": 1,
-    "dueDate": "2025-02-11",
-    "by": "De Lon, Nora",
-    "type": "Kinder-/Jugendbuch",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -680,12 +630,52 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0413488",
+    "accountName": "👦 Arne",
+    "name": "Es war einmal ... der Weltraum : Die Adaption der Kult-Zeichentrickserie",
+    "renewed": 1,
+    "dueDate": "2025-02-11",
+    "by": "Lambert, Christophe",
+    "type": "Comics / Mangas",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0404607",
+    "accountName": "👦 Arne",
+    "name": "Der Grolltroll - Das Liederalbum : Lieder zum Grollen, Schmollen und Wieder-fröhlich-Sein!",
+    "renewed": 2,
+    "dueDate": "2025-02-25",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0406489",
+    "accountName": "👦 Arne",
+    "name": "Mog, der vergessliche Kater : Die schönsten Geschichten",
+    "renewed": 2,
+    "dueDate": "2025-02-25",
+    "by": "Kerr, Judith",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
     "id": "HILD.0349939",
     "accountName": "👦 Arne",
     "name": "Der Körper : eine Entdeckungsreise",
     "renewed": 2,
     "dueDate": "2025-02-25",
     "by": "Franco, Cathy",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0382386",
+    "accountName": "👦 Arne",
+    "name": "Das Skelett",
+    "renewed": 2,
+    "dueDate": "2025-02-25",
+    "by": "Gaudin, Jean-Charles",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -710,13 +700,23 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0406489",
+    "id": "HILD.0390732",
     "accountName": "👦 Arne",
-    "name": "Mog, der vergessliche Kater : Die schönsten Geschichten",
+    "name": "Wundervolle Welt der Sterne",
     "renewed": 2,
     "dueDate": "2025-02-25",
-    "by": "Kerr, Judith",
-    "type": "CD Kinder",
+    "by": "Gater, Will",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0385810",
+    "accountName": "👦 Arne",
+    "name": "Die Muskeln",
+    "renewed": 2,
+    "dueDate": "2025-02-25",
+    "by": "Gaudin, Jean-Charles",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   }
 ]
