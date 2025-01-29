@@ -410,6 +410,16 @@
     "isRenewable": false
   },
   {
+    "id": "HILD.0406876",
+    "accountName": "👦 Arne",
+    "name": "Die Fellfreunde auf Dino-Mission!",
+    "renewed": 0,
+    "dueDate": "2025-02-07",
+    "by": "Lon, Nora de",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
     "id": "HILD.0413488",
     "accountName": "👦 Arne",
     "name": "Es war einmal ... der Weltraum : Die Adaption der Kult-Zeichentrickserie",
@@ -460,22 +470,22 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0411430",
-    "accountName": "👦 Arne",
-    "name": "Die Fellfreunde tauchen ab!",
-    "renewed": 1,
-    "dueDate": "2025-02-11",
-    "by": "De Lon, Nora",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0375887",
     "accountName": "👦 Arne",
     "name": "Wie funktioniert denn das? : die Welt um mich herum : mit über 70 Klappen",
     "renewed": 1,
     "dueDate": "2025-02-11",
     "by": "Tognetti, Stefano",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411430",
+    "accountName": "👦 Arne",
+    "name": "Die Fellfreunde tauchen ab!",
+    "renewed": 1,
+    "dueDate": "2025-02-11",
+    "by": "De Lon, Nora",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -497,7 +507,7 @@
     "dueDate": "2025-02-25",
     "by": "Beer, Hans de",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0412088",
@@ -507,7 +517,7 @@
     "dueDate": "2025-02-25",
     "by": "Dietl, Erhard",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0411095",
@@ -517,7 +527,7 @@
     "dueDate": "2025-02-25",
     "by": "Struwe, Jonna",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406489",
@@ -547,7 +557,7 @@
     "dueDate": "2025-02-25",
     "by": "Ottenschläger, Madlen",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0397768",
@@ -557,7 +567,7 @@
     "dueDate": "2025-02-25",
     "by": "Sarnes, Ninette",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0285463",
@@ -567,17 +577,7 @@
     "dueDate": "2025-02-25",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0392305",
-    "accountName": "👦 Arne",
-    "name": "Miffy",
-    "renewed": 2,
-    "dueDate": "2025-02-25",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0343717",
@@ -587,7 +587,17 @@
     "dueDate": "2025-02-25",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0392110",
+    "accountName": "👦 Arne",
+    "name": "Wir entdecken die Dinosaurier",
+    "renewed": 1,
+    "dueDate": "2025-02-25",
+    "by": "Friese, Inka",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
   },
   {
     "id": "HILD.0392055",
@@ -597,7 +607,7 @@
     "dueDate": "2025-02-25",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0390732",
@@ -637,7 +647,7 @@
     "dueDate": "2025-02-25",
     "by": "Agee, Jon",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0376395",
@@ -647,7 +657,7 @@
     "dueDate": "2025-02-25",
     "by": "Allert, Judith",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0367389",
@@ -657,7 +667,7 @@
     "dueDate": "2025-02-25",
     "by": "Nielaender, Peter",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0366056",
@@ -677,7 +687,7 @@
     "dueDate": "2025-02-25",
     "by": "Harvey, Franziska",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0350599",
@@ -687,7 +697,7 @@
     "dueDate": "2025-02-25",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0349939",
@@ -707,16 +717,16 @@
     "dueDate": "2025-02-25",
     "by": "Child, Lauren",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
-    "id": "HILD.0392110",
+    "id": "HILD.0392305",
     "accountName": "👦 Arne",
-    "name": "Wir entdecken die Dinosaurier",
-    "renewed": 1,
+    "name": "Miffy",
+    "renewed": 2,
     "dueDate": "2025-02-25",
-    "by": "Friese, Inka",
-    "type": "Kinder-/Jugendbuch",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": false
   }
 ]
