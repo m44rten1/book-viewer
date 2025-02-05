@@ -117,7 +117,7 @@
     "dueDate": "2025-03-04",
     "by": "De Lon, Nora",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0310834",
@@ -127,7 +127,7 @@
     "dueDate": "2025-03-04",
     "by": "Saint-Exupéry, Antoine de",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406486",
@@ -137,7 +137,7 @@
     "dueDate": "2025-03-04",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406351",
@@ -147,7 +147,7 @@
     "dueDate": "2025-03-04",
     "by": "Holtfreter, Nastja",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0405391",
@@ -157,7 +157,7 @@
     "dueDate": "2025-03-04",
     "by": "Sörensen, Hanna",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0404537",
@@ -167,7 +167,7 @@
     "dueDate": "2025-03-04",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0401831",
@@ -177,7 +177,7 @@
     "dueDate": "2025-03-04",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0400810",
@@ -187,7 +187,7 @@
     "dueDate": "2025-03-04",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0373458",
@@ -197,7 +197,7 @@
     "dueDate": "2025-03-04",
     "by": "Scheffler, Axel",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0399650",
@@ -207,7 +207,7 @@
     "dueDate": "2025-03-04",
     "by": "Tallec, Olivier",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0368348",
@@ -217,7 +217,7 @@
     "dueDate": "2025-03-04",
     "by": "Woodward, John",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0367038",
@@ -227,7 +227,7 @@
     "dueDate": "2025-03-04",
     "by": "Allert, Judith",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0391318",
@@ -237,7 +237,7 @@
     "dueDate": "2025-03-04",
     "by": "Reitmeyer, Andrea",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0285570",
@@ -247,7 +247,7 @@
     "dueDate": "2025-03-04",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0387241",
@@ -257,7 +257,7 @@
     "dueDate": "2025-03-04",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0384777",
@@ -267,7 +267,7 @@
     "dueDate": "2025-03-04",
     "by": "Hoffman, Mary",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0383126",
@@ -277,7 +277,7 @@
     "dueDate": "2025-03-04",
     "by": "Dreller, Christian",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0411774",
@@ -287,7 +287,7 @@
     "dueDate": "2025-03-04",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0364334",
@@ -367,7 +367,7 @@
     "dueDate": "2025-03-04",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0400993",
@@ -377,7 +377,7 @@
     "dueDate": "2025-03-04",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0413488",
@@ -697,6 +697,6 @@
     "dueDate": "2025-03-04",
     "by": "Lon, Nora de",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   }
 ]
