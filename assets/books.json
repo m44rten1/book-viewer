@@ -1,15 +1,5 @@
 [
   {
-    "id": "HILD.0231948",
-    "accountName": "❤️ Maren",
-    "name": "Erdbeerinchens großes Fest : [mit großen Überraschungsklappen]",
-    "renewed": 0,
-    "dueDate": "2025-03-08",
-    "by": "Dahle, Stefanie",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0373462",
     "accountName": "❤️ Maren",
     "name": "Tonie 111 - Räuber Ratte - Superwurm",
@@ -17,26 +7,6 @@
     "dueDate": "2025-03-08",
     "by": "Donaldson, Julia",
     "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0402782",
-    "accountName": "❤️ Maren",
-    "name": "Wir erforschen Sterne und Planeten",
-    "renewed": 0,
-    "dueDate": "2025-03-08",
-    "by": "Humbach, Markus",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0391803",
-    "accountName": "❤️ Maren",
-    "name": "Schätze und Wracks",
-    "renewed": 0,
-    "dueDate": "2025-03-08",
-    "by": "Delafosse, Claude",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -50,52 +20,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0385002",
-    "accountName": "❤️ Maren",
-    "name": "Nachts im Garten",
-    "renewed": 0,
-    "dueDate": "2025-03-08",
-    "by": "Fuhr, Ute",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0382387",
     "accountName": "❤️ Maren",
     "name": "Tief im Meer",
     "renewed": 0,
     "dueDate": "2025-03-08",
     "by": "Delafosse, Claude",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0385010",
-    "accountName": "❤️ Maren",
-    "name": "Unter der Stadt",
-    "renewed": 0,
-    "dueDate": "2025-03-08",
-    "by": "Fuhr, Ute",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0358257",
-    "accountName": "❤️ Maren",
-    "name": "Vulkane und Erdbeben",
-    "renewed": 0,
-    "dueDate": "2025-03-08",
-    "by": "Martin, Claudia",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0346690",
-    "accountName": "❤️ Maren",
-    "name": "Babys und Tierkinder",
-    "renewed": 0,
-    "dueDate": "2025-03-08",
-    "by": "Röderer, Charlotte",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -110,92 +40,22 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0413132",
+    "id": "HILD.0358257",
     "accountName": "❤️ Maren",
-    "name": "Max entdeckt das Weltall",
+    "name": "Vulkane und Erdbeben",
     "renewed": 0,
     "dueDate": "2025-03-08",
-    "by": "Tielmann, Christian",
+    "by": "Martin, Claudia",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
-    "id": "HILD.0367397",
+    "id": "HILD.0391803",
     "accountName": "❤️ Maren",
-    "name": "Erstes Englisch",
+    "name": "Schätze und Wracks",
     "renewed": 0,
-    "dueDate": "2025-03-18",
-    "by": "Reichert, Katharina [Künstler]",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0389190",
-    "accountName": "❤️ Maren",
-    "name": "Go, Doggy, Go!",
-    "renewed": 1,
-    "dueDate": "2025-03-18",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0407517",
-    "accountName": "❤️ Maren",
-    "name": "Despicable me : The Junior Novel",
-    "renewed": 1,
-    "dueDate": "2025-03-18",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0367043",
-    "accountName": "❤️ Maren",
-    "name": "Aufgepasst im Straßenverkehr : praktische Tipps, viele Übungen",
-    "renewed": 1,
-    "dueDate": "2025-03-18",
-    "by": "Bayer, Frank",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0375647",
-    "accountName": "❤️ Maren",
-    "name": "Reise in den Weltraum : mit über 40 Klappen",
-    "renewed": 1,
-    "dueDate": "2025-03-18",
-    "by": "Daynes, Katie",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0375742",
-    "accountName": "❤️ Maren",
-    "name": "Der Brotbackkurs : einfach starten - Profi werden",
-    "renewed": 1,
-    "dueDate": "2025-03-18",
-    "by": "Schell, Valesa",
-    "type": "Sachbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0399588",
-    "accountName": "❤️ Maren",
-    "name": "Sauerteig kann alles : mehr als Brot: Pasta, Knödel, Kuchen & mehr",
-    "renewed": 1,
-    "dueDate": "2025-03-18",
-    "by": "Bauer, Sonja",
-    "type": "Sachbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0393375",
-    "accountName": "❤️ Maren",
-    "name": "Wolfi ist hungrrrig!",
-    "renewed": 1,
-    "dueDate": "2025-03-18",
-    "by": "Harkness, Andy",
+    "dueDate": "2025-03-08",
+    "by": "Delafosse, Claude",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -210,13 +70,53 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0403911",
+    "id": "HILD.0375742",
     "accountName": "❤️ Maren",
-    "name": "Krachfahrzeuge",
-    "renewed": 0,
-    "dueDate": "2025-03-21",
-    "by": "Baumann, Stephan",
+    "name": "Der Brotbackkurs : einfach starten - Profi werden",
+    "renewed": 1,
+    "dueDate": "2025-03-18",
+    "by": "Schell, Valesa",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0393375",
+    "accountName": "❤️ Maren",
+    "name": "Wolfi ist hungrrrig!",
+    "renewed": 1,
+    "dueDate": "2025-03-18",
+    "by": "Harkness, Andy",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0367397",
+    "accountName": "❤️ Maren",
+    "name": "Erstes Englisch",
+    "renewed": 0,
+    "dueDate": "2025-03-18",
+    "by": "Reichert, Katharina [Künstler]",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0399588",
+    "accountName": "❤️ Maren",
+    "name": "Sauerteig kann alles : mehr als Brot: Pasta, Knödel, Kuchen & mehr",
+    "renewed": 1,
+    "dueDate": "2025-03-18",
+    "by": "Bauer, Sonja",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0407517",
+    "accountName": "❤️ Maren",
+    "name": "Despicable me : The Junior Novel",
+    "renewed": 1,
+    "dueDate": "2025-03-18",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -230,13 +130,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0397807",
+    "id": "HILD.0392298",
     "accountName": "❤️ Maren",
-    "name": "Zusammen sind wir kunterbunt",
+    "name": "Das Klo",
     "renewed": 0,
     "dueDate": "2025-03-21",
-    "by": "Hahn, Steffi",
-    "type": "Kinder-/Jugendbuch",
+    "by": "Ruthe, Ralph",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -260,32 +160,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0392298",
-    "accountName": "❤️ Maren",
-    "name": "Das Klo",
-    "renewed": 0,
-    "dueDate": "2025-03-21",
-    "by": "Ruthe, Ralph",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0384012",
     "accountName": "❤️ Maren",
     "name": "Nichts los im Wald",
     "renewed": 0,
     "dueDate": "2025-03-21",
     "by": "Messier, Mireille",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0400581",
-    "accountName": "❤️ Maren",
-    "name": "Alles über den Körper",
-    "renewed": 0,
-    "dueDate": "2025-03-28",
-    "by": "Tober, Heike",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -320,6 +200,26 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0400581",
+    "accountName": "❤️ Maren",
+    "name": "Alles über den Körper",
+    "renewed": 0,
+    "dueDate": "2025-03-28",
+    "by": "Tober, Heike",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0404537",
+    "accountName": "❤️ Maren",
+    "name": "Taschenmikroskop",
+    "renewed": 2,
+    "dueDate": "2025-03-29",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": false
+  },
+  {
     "id": "HILD.0401831",
     "accountName": "❤️ Maren",
     "name": "Paw Patrol - Helfer auf vier Pfoten : Der Piratenschatz",
@@ -327,46 +227,6 @@
     "dueDate": "2025-03-29",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0411774",
-    "accountName": "❤️ Maren",
-    "name": "Zuma",
-    "renewed": 2,
-    "dueDate": "2025-03-29",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0373458",
-    "accountName": "❤️ Maren",
-    "name": "Tonie 109 - Zogg - Zogg",
-    "renewed": 2,
-    "dueDate": "2025-03-29",
-    "by": "Scheffler, Axel",
-    "type": "CD Kinder",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0406486",
-    "accountName": "❤️ Maren",
-    "name": "Paw Patrol - Hundeschau",
-    "renewed": 2,
-    "dueDate": "2025-03-29",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0406351",
-    "accountName": "❤️ Maren",
-    "name": "Koala denkt sich heut‘ was aus",
-    "renewed": 2,
-    "dueDate": "2025-03-29",
-    "by": "Holtfreter, Nastja",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
@@ -380,19 +240,19 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0404537",
+    "id": "HILD.0406351",
     "accountName": "❤️ Maren",
-    "name": "Taschenmikroskop",
+    "name": "Koala denkt sich heut‘ was aus",
     "renewed": 2,
     "dueDate": "2025-03-29",
-    "by": "",
-    "type": "Serviceartikel",
+    "by": "Holtfreter, Nastja",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
-    "id": "HILD.0387241",
+    "id": "HILD.0406486",
     "accountName": "❤️ Maren",
-    "name": "Findet Nemo : Das Original-Hörspiel zum Film",
+    "name": "Paw Patrol - Hundeschau",
     "renewed": 2,
     "dueDate": "2025-03-29",
     "by": "",
@@ -410,23 +270,13 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0310834",
+    "id": "HILD.0387241",
     "accountName": "❤️ Maren",
-    "name": "Der Kleine Prinz : das Kinderbuch",
+    "name": "Findet Nemo : Das Original-Hörspiel zum Film",
     "renewed": 2,
     "dueDate": "2025-03-29",
-    "by": "Saint-Exupéry, Antoine de",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0399999",
-    "accountName": "❤️ Maren",
-    "name": "Die Fellfreunde retten den Tag",
-    "renewed": 2,
-    "dueDate": "2025-03-29",
-    "by": "De Lon, Nora",
-    "type": "Kinder-/Jugendbuch",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": false
   },
   {
@@ -436,56 +286,6 @@
     "renewed": 2,
     "dueDate": "2025-03-29",
     "by": "Tallec, Olivier",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0367038",
-    "accountName": "❤️ Maren",
-    "name": "Im Schneegestöber",
-    "renewed": 2,
-    "dueDate": "2025-03-29",
-    "by": "Allert, Judith",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0383126",
-    "accountName": "❤️ Maren",
-    "name": "Das Sandmännchen unterwegs : Vorlesegeschichten",
-    "renewed": 2,
-    "dueDate": "2025-03-29",
-    "by": "Dreller, Christian",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0368348",
-    "accountName": "❤️ Maren",
-    "name": "Dinosaurier : Lebewesen und Fossilien der Urzeit in über 1000 Bildern",
-    "renewed": 2,
-    "dueDate": "2025-03-29",
-    "by": "Woodward, John",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0285570",
-    "accountName": "❤️ Maren",
-    "name": "Weltraum : Sterne und Planeten",
-    "renewed": 2,
-    "dueDate": "2025-03-29",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0384777",
-    "accountName": "❤️ Maren",
-    "name": "Das große Buch für kleine Umwelthelden",
-    "renewed": 2,
-    "dueDate": "2025-03-29",
-    "by": "Hoffman, Mary",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -500,24 +300,64 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0060339",
-    "accountName": "💪 Maarten",
-    "name": "Der kleine Eisbär und der Angsthase",
-    "renewed": 0,
-    "dueDate": "2025-03-18",
-    "by": "Beer, Hans de",
+    "id": "HILD.0383126",
+    "accountName": "❤️ Maren",
+    "name": "Das Sandmännchen unterwegs : Vorlesegeschichten",
+    "renewed": 2,
+    "dueDate": "2025-03-29",
+    "by": "Dreller, Christian",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
+    "isRenewable": false
   },
   {
-    "id": "HILD.0257685",
-    "accountName": "💪 Maarten",
-    "name": "Weißt du eigentlich, wie lieb ich dich hab? Da und dort und ganz weit fort",
-    "renewed": 0,
-    "dueDate": "2025-03-18",
-    "by": "MacBratney, Sam",
+    "id": "HILD.0373458",
+    "accountName": "❤️ Maren",
+    "name": "Tonie 109 - Zogg - Zogg",
+    "renewed": 2,
+    "dueDate": "2025-03-29",
+    "by": "Scheffler, Axel",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0368348",
+    "accountName": "❤️ Maren",
+    "name": "Dinosaurier : Lebewesen und Fossilien der Urzeit in über 1000 Bildern",
+    "renewed": 2,
+    "dueDate": "2025-03-29",
+    "by": "Woodward, John",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0367038",
+    "accountName": "❤️ Maren",
+    "name": "Im Schneegestöber",
+    "renewed": 2,
+    "dueDate": "2025-03-29",
+    "by": "Allert, Judith",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0285570",
+    "accountName": "❤️ Maren",
+    "name": "Weltraum : Sterne und Planeten",
+    "renewed": 2,
+    "dueDate": "2025-03-29",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0411774",
+    "accountName": "❤️ Maren",
+    "name": "Zuma",
+    "renewed": 2,
+    "dueDate": "2025-03-29",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
   },
   {
     "id": "HILD.0354213",
@@ -537,26 +377,6 @@
     "dueDate": "2025-03-18",
     "by": "Preußler, Otfried",
     "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0376194",
-    "accountName": "💪 Maarten",
-    "name": "Hui und Pfui",
-    "renewed": 0,
-    "dueDate": "2025-03-18",
-    "by": "Heine, Helme",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0379364",
-    "accountName": "💪 Maarten",
-    "name": "Coinx",
-    "renewed": 0,
-    "dueDate": "2025-03-18",
-    "by": "",
-    "type": "Spiel",
     "isRenewable": true
   },
   {
@@ -580,142 +400,12 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0400993",
-    "accountName": "💪 Maarten",
-    "name": "Lesen lernen mit der PAW Patrol",
-    "renewed": 2,
-    "dueDate": "2025-03-29",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0413488",
-    "accountName": "👦 Arne",
-    "name": "Es war einmal ... der Weltraum : Die Adaption der Kult-Zeichentrickserie",
-    "renewed": 2,
-    "dueDate": "2025-03-08",
-    "by": "Lambert, Christophe",
-    "type": "Comics / Mangas",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0412142",
-    "accountName": "👦 Arne",
-    "name": "Das Raumfahrtbuch",
-    "renewed": 2,
-    "dueDate": "2025-03-08",
-    "by": "Van der Veken, Jan",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0411920",
-    "accountName": "👦 Arne",
-    "name": "Clever Tonie - Leo und die Abenteuermaschine/Leo und die Mondlandung",
-    "renewed": 2,
-    "dueDate": "2025-03-08",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0411782",
-    "accountName": "👦 Arne",
-    "name": "Clever Tonie - Alles über Vulkane",
-    "renewed": 2,
-    "dueDate": "2025-03-08",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0411781",
-    "accountName": "👦 Arne",
-    "name": "Clever Tonie - Alles über Sterne + Planeten",
-    "renewed": 2,
-    "dueDate": "2025-03-08",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0375887",
-    "accountName": "👦 Arne",
-    "name": "Wie funktioniert denn das? : die Welt um mich herum : mit über 70 Klappen",
-    "renewed": 2,
-    "dueDate": "2025-03-08",
-    "by": "Tognetti, Stefano",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0411430",
-    "accountName": "👦 Arne",
-    "name": "Die Fellfreunde tauchen ab!",
-    "renewed": 2,
-    "dueDate": "2025-03-08",
-    "by": "De Lon, Nora",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0285463",
-    "accountName": "👦 Arne",
-    "name": "Grundschulwörterbuch Englisch",
-    "renewed": 2,
-    "dueDate": "2025-03-22",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0412088",
     "accountName": "👦 Arne",
     "name": "Die Olchis und der kleine Drache Mücke",
     "renewed": 2,
     "dueDate": "2025-03-22",
     "by": "Dietl, Erhard",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0411095",
-    "accountName": "👦 Arne",
-    "name": "Die Haltestelle der Madame Vromant",
-    "renewed": 2,
-    "dueDate": "2025-03-22",
-    "by": "Struwe, Jonna",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0399577",
-    "accountName": "👦 Arne",
-    "name": "Ella spricht tausend Sprachen",
-    "renewed": 2,
-    "dueDate": "2025-03-22",
-    "by": "Ottenschläger, Madlen",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0397768",
-    "accountName": "👦 Arne",
-    "name": "Wo tut's denn weh?",
-    "renewed": 2,
-    "dueDate": "2025-03-22",
-    "by": "Sarnes, Ninette",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0393466",
-    "accountName": "👦 Arne",
-    "name": "Bruno : kurze Geschichten für lange Nächte",
-    "renewed": 2,
-    "dueDate": "2025-03-22",
-    "by": "Beer, Hans de",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -730,22 +420,12 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0378215",
+    "id": "HILD.0354273",
     "accountName": "👦 Arne",
-    "name": "Ist da jemand?",
+    "name": "Tiptoi - Merken und Konzentrieren",
     "renewed": 2,
     "dueDate": "2025-03-22",
-    "by": "Agee, Jon",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0376395",
-    "accountName": "👦 Arne",
-    "name": "Paco & Knuff : die Alpakas wünschen Gute Nacht!",
-    "renewed": 2,
-    "dueDate": "2025-03-22",
-    "by": "Allert, Judith",
+    "by": "Harvey, Franziska",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -760,49 +440,39 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0354273",
+    "id": "HILD.0378215",
     "accountName": "👦 Arne",
-    "name": "Tiptoi - Merken und Konzentrieren",
+    "name": "Ist da jemand?",
     "renewed": 2,
     "dueDate": "2025-03-22",
-    "by": "Harvey, Franziska",
+    "by": "Agee, Jon",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
-    "id": "HILD.0350599",
+    "id": "HILD.0397768",
     "accountName": "👦 Arne",
-    "name": "Ratzeputz",
+    "name": "Wo tut's denn weh?",
     "renewed": 2,
     "dueDate": "2025-03-22",
-    "by": "",
-    "type": "Spiel",
+    "by": "Sarnes, Ninette",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
-    "id": "HILD.0343717",
+    "id": "HILD.0285463",
     "accountName": "👦 Arne",
-    "name": "Sag's mir! Junior",
+    "name": "Grundschulwörterbuch Englisch",
     "renewed": 2,
     "dueDate": "2025-03-22",
     "by": "",
-    "type": "Spiel",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
-    "id": "HILD.0391215",
+    "id": "HILD.0411755",
     "accountName": "👦 Arne",
-    "name": "Wo ist der Grüffelo?",
-    "renewed": 0,
-    "dueDate": "2025-03-28",
-    "by": "Scheffler, Axel",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406748",
-    "accountName": "👦 Arne",
-    "name": "Fantasiereisen mit Faultier Mo : 8 besondere Orte zum Entspannen",
+    "name": "Emil Grünbär und die Bande - Abenteuer im Wald",
     "renewed": 0,
     "dueDate": "2025-03-28",
     "by": "",
@@ -820,19 +490,9 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0411755",
+    "id": "HILD.0406748",
     "accountName": "👦 Arne",
-    "name": "Emil Grünbär und die Bande - Abenteuer im Wald",
-    "renewed": 0,
-    "dueDate": "2025-03-28",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0366057",
-    "accountName": "👦 Arne",
-    "name": "Tonie 84 - 30 Lieblings-Kinderlieder - Spiel- & Bewegungslieder",
+    "name": "Fantasiereisen mit Faultier Mo : 8 besondere Orte zum Entspannen",
     "renewed": 0,
     "dueDate": "2025-03-28",
     "by": "",
@@ -850,13 +510,73 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0406876",
+    "id": "HILD.0391215",
     "accountName": "👦 Arne",
-    "name": "Die Fellfreunde auf Dino-Mission!",
-    "renewed": 1,
-    "dueDate": "2025-03-29",
-    "by": "Lon, Nora de",
+    "name": "Wo ist der Grüffelo?",
+    "renewed": 0,
+    "dueDate": "2025-03-28",
+    "by": "Scheffler, Axel",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0366057",
+    "accountName": "👦 Arne",
+    "name": "Tonie 84 - 30 Lieblings-Kinderlieder - Spiel- & Bewegungslieder",
+    "renewed": 0,
+    "dueDate": "2025-03-28",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0392499",
+    "accountName": "👦 Arne",
+    "name": "Verfühlt nochmal! : Fühlen, erkennen und benennen",
+    "renewed": 0,
+    "dueDate": "2025-04-01",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0389647",
+    "accountName": "👦 Arne",
+    "name": "Paw Patrol : Die Rettung der Meeresschildkröten",
+    "renewed": 0,
+    "dueDate": "2025-04-01",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0409609",
+    "accountName": "👦 Arne",
+    "name": "Tiptoi - Die flinken Sprach-Hörnchen",
+    "renewed": 0,
+    "dueDate": "2025-04-01",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0383927",
+    "accountName": "👦 Arne",
+    "name": "Am Himmel und im Weltall",
+    "renewed": 0,
+    "dueDate": "2025-04-01",
+    "by": "Delafosse, Claude",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0391980",
+    "accountName": "👦 Arne",
+    "name": "Cubissimo",
+    "renewed": 0,
+    "dueDate": "2025-04-01",
+    "by": "",
+    "type": "Spiel",
     "isRenewable": true
   }
 ]
