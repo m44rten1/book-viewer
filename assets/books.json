@@ -400,6 +400,46 @@
     "isRenewable": false
   },
   {
+    "id": "HILD.0344847",
+    "accountName": "💪 Maarten",
+    "name": "Lego-Tricks : die Geheimtipps der Lego-Profis",
+    "renewed": 0,
+    "dueDate": "2025-04-03",
+    "by": "Klang, Joachim",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0359026",
+    "accountName": "💪 Maarten",
+    "name": "Dinosaurier",
+    "renewed": 0,
+    "dueDate": "2025-04-03",
+    "by": "Neubauer, Annette",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0367465",
+    "accountName": "💪 Maarten",
+    "name": "Technik zu Hause : spannendes Entdeckerwissen rund um Technik zu Hause!",
+    "renewed": 0,
+    "dueDate": "2025-04-03",
+    "by": "Humbach, Markus",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0412017",
+    "accountName": "💪 Maarten",
+    "name": "Darro Drache und die Sache mit dem Mut",
+    "renewed": 0,
+    "dueDate": "2025-04-03",
+    "by": "Neudert, Cee",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0412088",
     "accountName": "👦 Arne",
     "name": "Die Olchis und der kleine Drache Mücke",
