@@ -240,6 +240,16 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0411805",
+    "accountName": "💪 Maarten",
+    "name": "Skye",
+    "renewed": 0,
+    "dueDate": "2025-04-08",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
     "id": "HILD.0354213",
     "accountName": "💪 Maarten",
     "name": "Der Sternenpirat",
