@@ -1,65 +1,5 @@
 [
   {
-    "id": "HILD.0382387",
-    "accountName": "❤️ Maren",
-    "name": "Tief im Meer",
-    "renewed": 1,
-    "dueDate": "2025-04-02",
-    "by": "Delafosse, Claude",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0311089",
-    "accountName": "❤️ Maren",
-    "name": "Hexen, Elfen und Gespenster",
-    "renewed": 1,
-    "dueDate": "2025-04-02",
-    "by": "Delafosse, Claude",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0358257",
-    "accountName": "❤️ Maren",
-    "name": "Vulkane und Erdbeben",
-    "renewed": 1,
-    "dueDate": "2025-04-02",
-    "by": "Martin, Claudia",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0391803",
-    "accountName": "❤️ Maren",
-    "name": "Schätze und Wracks",
-    "renewed": 1,
-    "dueDate": "2025-04-02",
-    "by": "Delafosse, Claude",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0373462",
-    "accountName": "❤️ Maren",
-    "name": "Tonie 111 - Räuber Ratte - Superwurm",
-    "renewed": 1,
-    "dueDate": "2025-04-02",
-    "by": "Donaldson, Julia",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0390608",
-    "accountName": "❤️ Maren",
-    "name": "Weltraum",
-    "renewed": 1,
-    "dueDate": "2025-04-02",
-    "by": "Kessel, Carola von",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0409830",
     "accountName": "❤️ Maren",
     "name": "Elektrische Luftpumpe für Camping",
@@ -67,6 +7,16 @@
     "dueDate": "2025-04-10",
     "by": "",
     "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0367397",
+    "accountName": "❤️ Maren",
+    "name": "Erstes Englisch",
+    "renewed": 1,
+    "dueDate": "2025-04-12",
+    "by": "Reichert, Katharina [Künstler]",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -90,16 +40,6 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0234303",
-    "accountName": "❤️ Maren",
-    "name": "Entdecke die Ritter",
-    "renewed": 2,
-    "dueDate": "2025-04-12",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0375742",
     "accountName": "❤️ Maren",
     "name": "Der Brotbackkurs : einfach starten - Profi werden",
@@ -110,12 +50,22 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0367397",
+    "id": "HILD.0234303",
     "accountName": "❤️ Maren",
-    "name": "Erstes Englisch",
-    "renewed": 1,
+    "name": "Entdecke die Ritter",
+    "renewed": 2,
     "dueDate": "2025-04-12",
-    "by": "Reichert, Katharina [Künstler]",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0360804",
+    "accountName": "❤️ Maren",
+    "name": "Das kleine 1 × 1",
+    "renewed": 1,
+    "dueDate": "2025-04-15",
+    "by": "Hagemann, Antje",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -147,16 +97,6 @@
     "dueDate": "2025-04-15",
     "by": "Ruthe, Ralph",
     "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0360804",
-    "accountName": "❤️ Maren",
-    "name": "Das kleine 1 × 1",
-    "renewed": 1,
-    "dueDate": "2025-04-15",
-    "by": "Hagemann, Antje",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -210,12 +150,72 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0359026",
+    "id": "HILD.0373462",
+    "accountName": "❤️ Maren",
+    "name": "Tonie 111 - Räuber Ratte - Superwurm",
+    "renewed": 2,
+    "dueDate": "2025-04-29",
+    "by": "Donaldson, Julia",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0358257",
+    "accountName": "❤️ Maren",
+    "name": "Vulkane und Erdbeben",
+    "renewed": 2,
+    "dueDate": "2025-04-29",
+    "by": "Martin, Claudia",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0382387",
+    "accountName": "❤️ Maren",
+    "name": "Tief im Meer",
+    "renewed": 2,
+    "dueDate": "2025-04-29",
+    "by": "Delafosse, Claude",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0390608",
+    "accountName": "❤️ Maren",
+    "name": "Weltraum",
+    "renewed": 2,
+    "dueDate": "2025-04-29",
+    "by": "Kessel, Carola von",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0391803",
+    "accountName": "❤️ Maren",
+    "name": "Schätze und Wracks",
+    "renewed": 2,
+    "dueDate": "2025-04-29",
+    "by": "Delafosse, Claude",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0311089",
+    "accountName": "❤️ Maren",
+    "name": "Hexen, Elfen und Gespenster",
+    "renewed": 2,
+    "dueDate": "2025-04-29",
+    "by": "Delafosse, Claude",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0412017",
     "accountName": "💪 Maarten",
-    "name": "Dinosaurier",
+    "name": "Darro Drache und die Sache mit dem Mut",
     "renewed": 0,
     "dueDate": "2025-04-03",
-    "by": "Neubauer, Annette",
+    "by": "Neudert, Cee",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -226,16 +226,6 @@
     "renewed": 0,
     "dueDate": "2025-04-03",
     "by": "Humbach, Markus",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0412017",
-    "accountName": "💪 Maarten",
-    "name": "Darro Drache und die Sache mit dem Mut",
-    "renewed": 0,
-    "dueDate": "2025-04-03",
-    "by": "Neudert, Cee",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -290,63 +280,23 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0389647",
-    "accountName": "👦 Arne",
-    "name": "Paw Patrol : Die Rettung der Meeresschildkröten",
-    "renewed": 0,
-    "dueDate": "2025-04-01",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0409609",
-    "accountName": "👦 Arne",
-    "name": "Tiptoi - Die flinken Sprach-Hörnchen",
-    "renewed": 0,
-    "dueDate": "2025-04-01",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0392499",
-    "accountName": "👦 Arne",
-    "name": "Verfühlt nochmal! : Fühlen, erkennen und benennen",
-    "renewed": 0,
-    "dueDate": "2025-04-01",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0391980",
-    "accountName": "👦 Arne",
-    "name": "Cubissimo",
-    "renewed": 0,
-    "dueDate": "2025-04-01",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0383927",
-    "accountName": "👦 Arne",
-    "name": "Am Himmel und im Weltall",
-    "renewed": 0,
-    "dueDate": "2025-04-01",
-    "by": "Delafosse, Claude",
+    "id": "HILD.0359026",
+    "accountName": "💪 Maarten",
+    "name": "Dinosaurier",
+    "renewed": 1,
+    "dueDate": "2025-04-29",
+    "by": "Neubauer, Annette",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
+    "isRenewable": false
   },
   {
-    "id": "HILD.0357845",
+    "id": "HILD.0222096",
     "accountName": "👦 Arne",
-    "name": "Die kleine Schusselhexe : Bilderbuchgeschichten für unser Erzähltheater",
+    "name": "Komm mit in den Wald",
     "renewed": 0,
     "dueDate": "2025-04-09",
-    "by": "Stohner, Anu",
-    "type": "Sachbuch",
+    "by": "Friese, Inka",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -356,16 +306,6 @@
     "renewed": 0,
     "dueDate": "2025-04-09",
     "by": "Van der Veken, Jan",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0376814",
-    "accountName": "👦 Arne",
-    "name": "Kleiner Eisbär - Wohin fährst du, Lars? : Bilderbuchgeschichten für unser Erzähltheater",
-    "renewed": 0,
-    "dueDate": "2025-04-09",
-    "by": "Beer, Hans de",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -380,13 +320,33 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0222096",
+    "id": "HILD.0357845",
     "accountName": "👦 Arne",
-    "name": "Komm mit in den Wald",
+    "name": "Die kleine Schusselhexe : Bilderbuchgeschichten für unser Erzähltheater",
     "renewed": 0,
     "dueDate": "2025-04-09",
-    "by": "Friese, Inka",
+    "by": "Stohner, Anu",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0376814",
+    "accountName": "👦 Arne",
+    "name": "Kleiner Eisbär - Wohin fährst du, Lars? : Bilderbuchgeschichten für unser Erzähltheater",
+    "renewed": 0,
+    "dueDate": "2025-04-09",
+    "by": "Beer, Hans de",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0303353",
+    "accountName": "👦 Arne",
+    "name": "Hilden : 50er und 60er Jahre : Bildkartenset für Kamishibai",
+    "renewed": 0,
+    "dueDate": "2025-04-09",
+    "by": "",
+    "type": "Spiel",
     "isRenewable": true
   },
   {
@@ -410,53 +370,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0303353",
+    "id": "HILD.0380720",
     "accountName": "👦 Arne",
-    "name": "Hilden : 50er und 60er Jahre : Bildkartenset für Kamishibai",
+    "name": "Tonie 178 - Lieblings-Kinderlieder - Spiel- und Bewegungslieder 2",
     "renewed": 0,
-    "dueDate": "2025-04-09",
+    "dueDate": "2025-04-22",
     "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0398245",
-    "accountName": "👦 Arne",
-    "name": "Mein erstes Buch vom Schach",
-    "renewed": 0,
-    "dueDate": "2025-04-22",
-    "by": "Martin, Jessica E.",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0409892",
-    "accountName": "👦 Arne",
-    "name": "Hausmonster",
-    "renewed": 0,
-    "dueDate": "2025-04-22",
-    "by": "Marton, Eleonora",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0408886",
-    "accountName": "👦 Arne",
-    "name": "Dr.-Oetker Kinderkochschule : Schritt für Schritt zum kleinen Küchenchef",
-    "renewed": 0,
-    "dueDate": "2025-04-22",
-    "by": "König, Michael",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0404186",
-    "accountName": "👦 Arne",
-    "name": "Kleine Übungen für große Gefühle : wie du dich beruhigen kannst, wenn du wütend, aufgeregt, ängstlich oder traurig bist",
-    "renewed": 0,
-    "dueDate": "2025-04-22",
-    "by": "Selby, Sharon",
-    "type": "Kinder-/Jugendbuch",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -470,13 +390,23 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0350730",
+    "id": "HILD.0406748",
     "accountName": "👦 Arne",
-    "name": "Tiptoi - Wissen & Quizzen - Menschlicher Körper",
-    "renewed": 0,
+    "name": "Fantasiereisen mit Faultier Mo : 8 besondere Orte zum Entspannen",
+    "renewed": 1,
     "dueDate": "2025-04-22",
     "by": "",
-    "type": "Spiel",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0398245",
+    "accountName": "👦 Arne",
+    "name": "Mein erstes Buch vom Schach",
+    "renewed": 0,
+    "dueDate": "2025-04-22",
+    "by": "Martin, Jessica E.",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -487,6 +417,16 @@
     "dueDate": "2025-04-22",
     "by": "Easton, Brandon",
     "type": "Comics / Mangas",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0408137",
+    "accountName": "👦 Arne",
+    "name": "Ärger im Doppelpack",
+    "renewed": 0,
+    "dueDate": "2025-04-22",
+    "by": "Ayala, Vita",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -510,23 +450,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0306792",
+    "id": "HILD.0408886",
     "accountName": "👦 Arne",
-    "name": "Die Vulkane",
+    "name": "Dr.-Oetker Kinderkochschule : Schritt für Schritt zum kleinen Küchenchef",
     "renewed": 0,
     "dueDate": "2025-04-22",
-    "by": "Jeunesse, Gallimard",
+    "by": "König, Michael",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406748",
-    "accountName": "👦 Arne",
-    "name": "Fantasiereisen mit Faultier Mo : 8 besondere Orte zum Entspannen",
-    "renewed": 1,
-    "dueDate": "2025-04-22",
-    "by": "",
-    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -536,6 +466,36 @@
     "renewed": 0,
     "dueDate": "2025-04-22",
     "by": "Brooks, Felicity",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0409892",
+    "accountName": "👦 Arne",
+    "name": "Hausmonster",
+    "renewed": 0,
+    "dueDate": "2025-04-22",
+    "by": "Marton, Eleonora",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0380712",
+    "accountName": "👦 Arne",
+    "name": "Tonie 174 - Der glückliche Löwe und andere Löwen-Geschichten von Louise Fatio",
+    "renewed": 0,
+    "dueDate": "2025-04-22",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0306792",
+    "accountName": "👦 Arne",
+    "name": "Die Vulkane",
+    "renewed": 0,
+    "dueDate": "2025-04-22",
+    "by": "Jeunesse, Gallimard",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -550,23 +510,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0380720",
+    "id": "HILD.0404186",
     "accountName": "👦 Arne",
-    "name": "Tonie 178 - Lieblings-Kinderlieder - Spiel- und Bewegungslieder 2",
+    "name": "Kleine Übungen für große Gefühle : wie du dich beruhigen kannst, wenn du wütend, aufgeregt, ängstlich oder traurig bist",
     "renewed": 0,
     "dueDate": "2025-04-22",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0380712",
-    "accountName": "👦 Arne",
-    "name": "Tonie 174 - Der glückliche Löwe und andere Löwen-Geschichten von Louise Fatio",
-    "renewed": 0,
-    "dueDate": "2025-04-22",
-    "by": "",
-    "type": "CD Kinder",
+    "by": "Selby, Sharon",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -577,26 +527,6 @@
     "dueDate": "2025-04-22",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0308988",
-    "accountName": "👦 Arne",
-    "name": "Das Schiff : mit spannenden Entdeckerfolien",
-    "renewed": 0,
-    "dueDate": "2025-04-22",
-    "by": "Schönfeldt, Sybil",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0256822",
-    "accountName": "👦 Arne",
-    "name": "Hanabi",
-    "renewed": 1,
-    "dueDate": "2025-04-22",
-    "by": "",
-    "type": "Spiel",
     "isRenewable": true
   },
   {
@@ -620,6 +550,26 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0256822",
+    "accountName": "👦 Arne",
+    "name": "Hanabi",
+    "renewed": 1,
+    "dueDate": "2025-04-22",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0350730",
+    "accountName": "👦 Arne",
+    "name": "Tiptoi - Wissen & Quizzen - Menschlicher Körper",
+    "renewed": 0,
+    "dueDate": "2025-04-22",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0412302",
     "accountName": "👦 Arne",
     "name": "Frederick und seine Mäusefreunde",
@@ -630,12 +580,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0408137",
+    "id": "HILD.0308988",
     "accountName": "👦 Arne",
-    "name": "Ärger im Doppelpack",
+    "name": "Das Schiff : mit spannenden Entdeckerfolien",
     "renewed": 0,
     "dueDate": "2025-04-22",
-    "by": "Ayala, Vita",
+    "by": "Schönfeldt, Sybil",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -650,26 +600,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0413055",
-    "accountName": "👦 Arne",
-    "name": "Meine Lern-Spiel-Welt - Uhr und Zeit : Uhr lesen und Zeit verstehen",
-    "renewed": 0,
-    "dueDate": "2025-04-24",
-    "by": "Tober, Heike",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0345154",
-    "accountName": "👦 Arne",
-    "name": "Space : coole Projekte für deine Lego Kiste",
-    "renewed": 0,
-    "dueDate": "2025-04-24",
-    "by": "Klang, Joachim",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0407846",
     "accountName": "👦 Arne",
     "name": "Breifrei Express : die schnellsten Rezepte von den Expertinnen des breifreibaby-Blogs",
@@ -680,12 +610,32 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0413055",
+    "accountName": "👦 Arne",
+    "name": "Meine Lern-Spiel-Welt - Uhr und Zeit : Uhr lesen und Zeit verstehen",
+    "renewed": 0,
+    "dueDate": "2025-04-24",
+    "by": "Tober, Heike",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0406520",
     "accountName": "👦 Arne",
     "name": "Buchstaben : 4-6 Jahre : Laute hören und Buchstaben kennenlernen",
     "renewed": 0,
     "dueDate": "2025-04-24",
     "by": "Neubauer, Annette",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0413056",
+    "accountName": "👦 Arne",
+    "name": "Meine Lern-Spiel-Welt: Englisch",
+    "renewed": 0,
+    "dueDate": "2025-04-24",
+    "by": "Seeberg, Helen",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -760,13 +710,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0321824",
+    "id": "HILD.0345154",
     "accountName": "👦 Arne",
-    "name": "Kindersnacks : blitzschnell & supergesund",
+    "name": "Space : coole Projekte für deine Lego Kiste",
     "renewed": 0,
     "dueDate": "2025-04-24",
-    "by": "Johnston, Tanja",
-    "type": "Sachbuch",
+    "by": "Klang, Joachim",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -780,13 +730,63 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0413056",
+    "id": "HILD.0321824",
     "accountName": "👦 Arne",
-    "name": "Meine Lern-Spiel-Welt: Englisch",
+    "name": "Kindersnacks : blitzschnell & supergesund",
     "renewed": 0,
     "dueDate": "2025-04-24",
-    "by": "Seeberg, Helen",
+    "by": "Johnston, Tanja",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0392499",
+    "accountName": "👦 Arne",
+    "name": "Verfühlt nochmal! : Fühlen, erkennen und benennen",
+    "renewed": 1,
+    "dueDate": "2025-04-26",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0391980",
+    "accountName": "👦 Arne",
+    "name": "Cubissimo",
+    "renewed": 1,
+    "dueDate": "2025-04-26",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0383927",
+    "accountName": "👦 Arne",
+    "name": "Am Himmel und im Weltall",
+    "renewed": 1,
+    "dueDate": "2025-04-26",
+    "by": "Delafosse, Claude",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0409609",
+    "accountName": "👦 Arne",
+    "name": "Tiptoi - Die flinken Sprach-Hörnchen",
+    "renewed": 1,
+    "dueDate": "2025-04-26",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0389647",
+    "accountName": "👦 Arne",
+    "name": "Paw Patrol : Die Rettung der Meeresschildkröten",
+    "renewed": 1,
+    "dueDate": "2025-04-26",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": true
   }
 ]
