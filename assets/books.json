@@ -167,7 +167,7 @@
     "dueDate": "2025-05-06",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0365183",
@@ -817,7 +817,7 @@
     "dueDate": "2025-05-06",
     "by": "Beer, Hans de",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0360618",
@@ -827,7 +827,7 @@
     "dueDate": "2025-05-06",
     "by": "Dietl, Erhard",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0357845",
@@ -837,7 +837,7 @@
     "dueDate": "2025-05-06",
     "by": "Stohner, Anu",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0303353",
@@ -847,7 +847,7 @@
     "dueDate": "2025-05-06",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0412142",
@@ -857,7 +857,7 @@
     "dueDate": "2025-05-06",
     "by": "Van der Veken, Jan",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0301367",
@@ -867,7 +867,7 @@
     "dueDate": "2025-05-06",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0301311",
@@ -877,7 +877,7 @@
     "dueDate": "2025-05-06",
     "by": "Mair, Martina",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0222096",
@@ -887,6 +887,6 @@
     "dueDate": "2025-05-06",
     "by": "Friese, Inka",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   }
 ]
