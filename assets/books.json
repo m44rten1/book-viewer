@@ -377,7 +377,7 @@
     "dueDate": "2025-05-20",
     "by": "Donaldson, Julia",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0391980",
@@ -757,7 +757,7 @@
     "dueDate": "2025-05-20",
     "by": "Täufer, Elisa",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0413055",
@@ -767,7 +767,7 @@
     "dueDate": "2025-05-20",
     "by": "Tober, Heike",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0321824",
@@ -777,7 +777,7 @@
     "dueDate": "2025-05-20",
     "by": "Johnston, Tanja",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0407846",
@@ -787,7 +787,7 @@
     "dueDate": "2025-05-20",
     "by": "Merz, Lena",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0409394",
@@ -797,7 +797,7 @@
     "dueDate": "2025-05-20",
     "by": "Lobis, Maria",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0380445",
@@ -807,7 +807,7 @@
     "dueDate": "2025-05-20",
     "by": "Riedl, Matthias",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406520",
@@ -817,7 +817,7 @@
     "dueDate": "2025-05-20",
     "by": "Neubauer, Annette",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406351",
@@ -827,7 +827,7 @@
     "dueDate": "2025-05-20",
     "by": "Holtfreter, Nastja",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0383126",
@@ -837,7 +837,7 @@
     "dueDate": "2025-05-20",
     "by": "Dreller, Christian",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0401258",
@@ -847,7 +847,7 @@
     "dueDate": "2025-05-20",
     "by": "Rösch, Alexander",
     "type": "Comics / Mangas",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0399613",
@@ -857,7 +857,7 @@
     "dueDate": "2025-05-20",
     "by": "Serdarusic, Maria",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0386119",
@@ -867,7 +867,7 @@
     "dueDate": "2025-05-20",
     "by": "Hidalgo, Carolin",
     "type": "Comics / Mangas",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0413056",
@@ -877,6 +877,6 @@
     "dueDate": "2025-05-20",
     "by": "Seeberg, Helen",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   }
 ]
