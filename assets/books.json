@@ -567,7 +567,7 @@
     "dueDate": "2025-05-27",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0222096",
