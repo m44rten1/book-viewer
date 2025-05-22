@@ -220,16 +220,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0391978",
-    "accountName": "💪 Maarten",
-    "name": "Little Cooperation",
-    "renewed": 1,
-    "dueDate": "2025-05-28",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0375637",
     "accountName": "💪 Maarten",
     "name": "Wenn ich groß bin, werde ich Astromaus",
@@ -277,6 +267,16 @@
     "dueDate": "2025-05-28",
     "by": "",
     "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0391978",
+    "accountName": "💪 Maarten",
+    "name": "Little Cooperation",
+    "renewed": 1,
+    "dueDate": "2025-05-28",
+    "by": "",
+    "type": "Spiel",
     "isRenewable": true
   },
   {
@@ -420,23 +420,23 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0391839",
+    "id": "HILD.0391331",
     "accountName": "💪 Maarten",
-    "name": "Ozobot Evo Starter Kit",
+    "name": "Karuba Junior : ... ein kooperatives Legespiel",
     "renewed": 0,
     "dueDate": "2025-06-07",
     "by": "",
-    "type": "Serviceartikel",
+    "type": "Spiel",
     "isRenewable": true
   },
   {
-    "id": "HILD.0385543",
+    "id": "HILD.0376461",
     "accountName": "💪 Maarten",
-    "name": "Kleiner Vogel, großer Hunger : ... ein fröhlich freches Sammelspiel!",
+    "name": "Gebäude aus LEGO-Steinen - Häuser, Ladenzeilen, Zubehör",
     "renewed": 0,
     "dueDate": "2025-06-07",
-    "by": "Rogasch, Tim",
-    "type": "Spiel",
+    "by": "Lyles, Brian",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -490,16 +490,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0376461",
-    "accountName": "💪 Maarten",
-    "name": "Gebäude aus LEGO-Steinen - Häuser, Ladenzeilen, Zubehör",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "Lyles, Brian",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0415685",
     "accountName": "💪 Maarten",
     "name": "Aristocats : Das Original-Hörspiel zur TV-Serie",
@@ -507,6 +497,16 @@
     "dueDate": "2025-06-07",
     "by": "",
     "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0385543",
+    "accountName": "💪 Maarten",
+    "name": "Kleiner Vogel, großer Hunger : ... ein fröhlich freches Sammelspiel!",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "Rogasch, Tim",
+    "type": "Spiel",
     "isRenewable": true
   },
   {
@@ -520,32 +520,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0391331",
-    "accountName": "💪 Maarten",
-    "name": "Karuba Junior : ... ein kooperatives Legespiel",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0400595",
     "accountName": "💪 Maarten",
     "name": "Kunterbunte Kinderküche",
     "renewed": 1,
     "dueDate": "2025-06-17",
     "by": "Karmel, Annabel",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0400000",
-    "accountName": "💪 Maarten",
-    "name": "Die Fellfreunde auf tierischer Mission",
-    "renewed": 1,
-    "dueDate": "2025-06-17",
-    "by": "De Lon, Nora",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -590,22 +570,22 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0400000",
+    "accountName": "💪 Maarten",
+    "name": "Die Fellfreunde auf tierischer Mission",
+    "renewed": 1,
+    "dueDate": "2025-06-17",
+    "by": "De Lon, Nora",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0389100",
     "accountName": "💪 Maarten",
     "name": "LEGO-Spaß mit Kindern : kreative Modelle für Eltern und Kinder zum gemeinsamen Bauen",
     "renewed": 1,
     "dueDate": "2025-06-17",
     "by": "Nash, Warren",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0397691",
-    "accountName": "💪 Maarten",
-    "name": "Auf Umwelt-Mission",
-    "renewed": 1,
-    "dueDate": "2025-06-17",
-    "by": "",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -620,12 +600,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0397586",
+    "id": "HILD.0397691",
     "accountName": "💪 Maarten",
-    "name": "Frieda im Unverpackt-Laden",
+    "name": "Auf Umwelt-Mission",
     "renewed": 1,
     "dueDate": "2025-06-17",
-    "by": "König, Katharina",
+    "by": "",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -646,6 +626,16 @@
     "renewed": 1,
     "dueDate": "2025-06-17",
     "by": "Tibo, Gilles",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0397586",
+    "accountName": "💪 Maarten",
+    "name": "Frieda im Unverpackt-Laden",
+    "renewed": 1,
+    "dueDate": "2025-06-17",
+    "by": "König, Katharina",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -760,16 +750,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0408137",
-    "accountName": "👦 Arne",
-    "name": "Ärger im Doppelpack",
-    "renewed": 2,
-    "dueDate": "2025-06-11",
-    "by": "Ayala, Vita",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0412302",
     "accountName": "👦 Arne",
     "name": "Frederick und seine Mäusefreunde",
@@ -777,6 +757,16 @@
     "dueDate": "2025-06-11",
     "by": "",
     "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0409892",
+    "accountName": "👦 Arne",
+    "name": "Hausmonster",
+    "renewed": 2,
+    "dueDate": "2025-06-11",
+    "by": "Marton, Eleonora",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
@@ -810,12 +800,12 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0409892",
+    "id": "HILD.0408137",
     "accountName": "👦 Arne",
-    "name": "Hausmonster",
+    "name": "Ärger im Doppelpack",
     "renewed": 2,
     "dueDate": "2025-06-11",
-    "by": "Marton, Eleonora",
+    "by": "Ayala, Vita",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -848,6 +838,16 @@
     "by": "Wieslander, Jujja",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
+  },
+  {
+    "id": "HILD.0407846",
+    "accountName": "👦 Arne",
+    "name": "Breifrei Express : die schnellsten Rezepte von den Expertinnen des breifreibaby-Blogs",
+    "renewed": 2,
+    "dueDate": "2025-06-14",
+    "by": "Merz, Lena",
+    "type": "Sachbuch",
+    "isRenewable": false
   },
   {
     "id": "HILD.0413056",
@@ -890,6 +890,16 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0401258",
+    "accountName": "👦 Arne",
+    "name": "Hier kommt Spider-Man",
+    "renewed": 2,
+    "dueDate": "2025-06-14",
+    "by": "Rösch, Alexander",
+    "type": "Comics / Mangas",
+    "isRenewable": false
+  },
+  {
     "id": "HILD.0406520",
     "accountName": "👦 Arne",
     "name": "Buchstaben : 4-6 Jahre : Laute hören und Buchstaben kennenlernen",
@@ -900,16 +910,6 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0407846",
-    "accountName": "👦 Arne",
-    "name": "Breifrei Express : die schnellsten Rezepte von den Expertinnen des breifreibaby-Blogs",
-    "renewed": 2,
-    "dueDate": "2025-06-14",
-    "by": "Merz, Lena",
-    "type": "Sachbuch",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0380445",
     "accountName": "👦 Arne",
     "name": "Das Kochbuch der ersten 1000 Tage : so schenken Sie Ihrem Kind lebenslange Gesundheit",
@@ -917,16 +917,6 @@
     "dueDate": "2025-06-14",
     "by": "Riedl, Matthias",
     "type": "Sachbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0401258",
-    "accountName": "👦 Arne",
-    "name": "Hier kommt Spider-Man",
-    "renewed": 2,
-    "dueDate": "2025-06-14",
-    "by": "Rösch, Alexander",
-    "type": "Comics / Mangas",
     "isRenewable": false
   },
   {
@@ -986,6 +976,46 @@
     "renewed": 1,
     "dueDate": "2025-06-17",
     "by": "Alves, Katja",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0406021",
+    "accountName": "👦 Arne",
+    "name": "Alfonso geht angeln",
+    "renewed": 0,
+    "dueDate": "2025-06-18",
+    "by": "Hare, John",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0398115",
+    "accountName": "👦 Arne",
+    "name": "Häuser : Schritt für Schritt zum LEGO Baumeister",
+    "renewed": 0,
+    "dueDate": "2025-06-18",
+    "by": "Dolan, Hannah",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0391317",
+    "accountName": "👦 Arne",
+    "name": "Hase ahoi!",
+    "renewed": 0,
+    "dueDate": "2025-06-18",
+    "by": "Rueda, Claudia",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0388586",
+    "accountName": "👦 Arne",
+    "name": "Tief im Ozean",
+    "renewed": 0,
+    "dueDate": "2025-06-18",
+    "by": "Hare, John",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   }
