@@ -170,13 +170,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0411805",
+    "id": "HILD.0375637",
     "accountName": "💪 Maarten",
-    "name": "Skye",
+    "name": "Wenn ich groß bin, werde ich Astromaus",
     "renewed": 1,
-    "dueDate": "2025-05-27",
-    "by": "",
-    "type": "CD Kinder",
+    "dueDate": "2025-05-28",
+    "by": "Smallman, Steve",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -187,16 +187,6 @@
     "dueDate": "2025-05-28",
     "by": "",
     "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0375637",
-    "accountName": "💪 Maarten",
-    "name": "Wenn ich groß bin, werde ich Astromaus",
-    "renewed": 1,
-    "dueDate": "2025-05-28",
-    "by": "Smallman, Steve",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -217,16 +207,6 @@
     "dueDate": "2025-06-07",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0376188",
-    "accountName": "💪 Maarten",
-    "name": "Ein Passwort für die Pippilothek",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "Pauli, Lorenz",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -310,6 +290,16 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0376188",
+    "accountName": "💪 Maarten",
+    "name": "Ein Passwort für die Pippilothek",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "Pauli, Lorenz",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0385543",
     "accountName": "💪 Maarten",
     "name": "Kleiner Vogel, großer Hunger : ... ein fröhlich freches Sammelspiel!",
@@ -330,13 +320,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0413809",
+    "id": "HILD.0356225",
     "accountName": "💪 Maarten",
-    "name": "Kleine Experten...treffen auf Dinosaurier",
+    "name": "Der Baum",
     "renewed": 0,
     "dueDate": "2025-06-07",
-    "by": "",
-    "type": "CD Kinder",
+    "by": "Spilsbury, Richard",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -350,26 +340,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0415685",
-    "accountName": "💪 Maarten",
-    "name": "Aristocats : Das Original-Hörspiel zur TV-Serie",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0356225",
-    "accountName": "💪 Maarten",
-    "name": "Der Baum",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "Spilsbury, Richard",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0359024",
     "accountName": "💪 Maarten",
     "name": "Baustellenfahrzeuge",
@@ -380,32 +350,32 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0400595",
+    "id": "HILD.0415685",
     "accountName": "💪 Maarten",
-    "name": "Kunterbunte Kinderküche",
-    "renewed": 1,
-    "dueDate": "2025-06-17",
-    "by": "Karmel, Annabel",
-    "type": "Kinder-/Jugendbuch",
+    "name": "Aristocats : Das Original-Hörspiel zur TV-Serie",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
-    "id": "HILD.0407447",
+    "id": "HILD.0413809",
     "accountName": "💪 Maarten",
-    "name": "Die Super-Welpen sind nicht zu stoppen!",
-    "renewed": 1,
-    "dueDate": "2025-06-17",
-    "by": "Lon, Nora de",
-    "type": "Kinder-/Jugendbuch",
+    "name": "Kleine Experten...treffen auf Dinosaurier",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
-    "id": "HILD.0350846",
+    "id": "HILD.0389100",
     "accountName": "💪 Maarten",
-    "name": "Ran ans Gemüse! : mein vegetarisches Kochbuch",
+    "name": "LEGO-Spaß mit Kindern : kreative Modelle für Eltern und Kinder zum gemeinsamen Bauen",
     "renewed": 1,
     "dueDate": "2025-06-17",
-    "by": "Mitchem, James",
+    "by": "Nash, Warren",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -420,12 +390,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0375300",
+    "id": "HILD.0262500",
     "accountName": "💪 Maarten",
-    "name": "Meine schönsten Lieder für unterwegs",
+    "name": "Wenn Waldo Waschbär wütend wird",
     "renewed": 1,
     "dueDate": "2025-06-17",
-    "by": "Neudert, Cee",
+    "by": "Mauder, Katharina",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -440,22 +410,22 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0262500",
+    "id": "HILD.0375300",
     "accountName": "💪 Maarten",
-    "name": "Wenn Waldo Waschbär wütend wird",
+    "name": "Meine schönsten Lieder für unterwegs",
     "renewed": 1,
     "dueDate": "2025-06-17",
-    "by": "Mauder, Katharina",
+    "by": "Neudert, Cee",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
-    "id": "HILD.0389100",
+    "id": "HILD.0400595",
     "accountName": "💪 Maarten",
-    "name": "LEGO-Spaß mit Kindern : kreative Modelle für Eltern und Kinder zum gemeinsamen Bauen",
+    "name": "Kunterbunte Kinderküche",
     "renewed": 1,
     "dueDate": "2025-06-17",
-    "by": "Nash, Warren",
+    "by": "Karmel, Annabel",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -467,6 +437,26 @@
     "dueDate": "2025-06-17",
     "by": "",
     "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0350846",
+    "accountName": "💪 Maarten",
+    "name": "Ran ans Gemüse! : mein vegetarisches Kochbuch",
+    "renewed": 1,
+    "dueDate": "2025-06-17",
+    "by": "Mitchem, James",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0407447",
+    "accountName": "💪 Maarten",
+    "name": "Die Super-Welpen sind nicht zu stoppen!",
+    "renewed": 1,
+    "dueDate": "2025-06-17",
+    "by": "Lon, Nora de",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -487,7 +477,7 @@
     "dueDate": "2025-06-21",
     "by": "Amend, Lars",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0415964",
@@ -497,7 +487,7 @@
     "dueDate": "2025-06-21",
     "by": "Hanika, Beate Teresa",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0415969",
@@ -507,6 +497,16 @@
     "dueDate": "2025-06-21",
     "by": "Šrámková, Barbora",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411805",
+    "accountName": "💪 Maarten",
+    "name": "Skye",
+    "renewed": 2,
+    "dueDate": "2025-06-21",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": false
   },
   {
@@ -517,7 +517,7 @@
     "dueDate": "2025-06-21",
     "by": "Burk, Peter",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0408261",
@@ -527,7 +527,7 @@
     "dueDate": "2025-06-21",
     "by": "Rippel, Jörg",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406536",
@@ -537,7 +537,7 @@
     "dueDate": "2025-06-21",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0405737",
@@ -547,7 +547,7 @@
     "dueDate": "2025-06-21",
     "by": "Bodenmüller, Eva",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0375727",
@@ -557,7 +557,7 @@
     "dueDate": "2025-06-21",
     "by": "Kreihe, Susann",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0373744",
@@ -567,7 +567,7 @@
     "dueDate": "2025-06-21",
     "by": "Speulhof, Barbara van den",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0368123",
@@ -577,7 +577,7 @@
     "dueDate": "2025-06-21",
     "by": "Merz, Lena",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0365858",
@@ -587,7 +587,7 @@
     "dueDate": "2025-06-21",
     "by": "Martens, Andrea",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0348316",
@@ -597,7 +597,7 @@
     "dueDate": "2025-06-21",
     "by": "Weckerle, Michael",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0303274",
@@ -607,7 +607,7 @@
     "dueDate": "2025-06-21",
     "by": "Zunner, Marianne",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0415996",
@@ -617,7 +617,7 @@
     "dueDate": "2025-06-21",
     "by": "Völk, Julie",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0222096",
