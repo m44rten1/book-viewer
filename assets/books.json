@@ -170,31 +170,151 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0375637",
-    "accountName": "💪 Maarten",
-    "name": "Wenn ich groß bin, werde ich Astromaus",
-    "renewed": 1,
-    "dueDate": "2025-05-28",
-    "by": "Smallman, Steve",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0391978",
-    "accountName": "💪 Maarten",
-    "name": "Little Cooperation",
-    "renewed": 1,
-    "dueDate": "2025-05-28",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0392305",
     "accountName": "💪 Maarten",
     "name": "Miffy",
     "renewed": 1,
     "dueDate": "2025-06-04",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0376461",
+    "accountName": "💪 Maarten",
+    "name": "Gebäude aus LEGO-Steinen - Häuser, Ladenzeilen, Zubehör",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "Lyles, Brian",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0388373",
+    "accountName": "💪 Maarten",
+    "name": "Nachts auf dem Bauernhof",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "Hugo, Pierre de",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0385543",
+    "accountName": "💪 Maarten",
+    "name": "Kleiner Vogel, großer Hunger : ... ein fröhlich freches Sammelspiel!",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "Rogasch, Tim",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0397746",
+    "accountName": "💪 Maarten",
+    "name": "Paw Patrol - Der Delfin-Freund : 4 spannende Abenteuer",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0376188",
+    "accountName": "💪 Maarten",
+    "name": "Ein Passwort für die Pippilothek",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "Pauli, Lorenz",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0412450",
+    "accountName": "💪 Maarten",
+    "name": "Welcher Baum ist das? : 4-7 Jahre",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "Hiller, Julia",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0412854",
+    "accountName": "💪 Maarten",
+    "name": "Meerschweinchentage",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "Funke, Cornelia",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0413809",
+    "accountName": "💪 Maarten",
+    "name": "Kleine Experten...treffen auf Dinosaurier",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0415685",
+    "accountName": "💪 Maarten",
+    "name": "Aristocats : Das Original-Hörspiel zur TV-Serie",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0400807",
+    "accountName": "💪 Maarten",
+    "name": "Wir zwei machen uns Mut",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "Engler, Michael",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0404453",
+    "accountName": "💪 Maarten",
+    "name": "Ritter Ragnar Drachenherz",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "Thumser, Anette",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0359024",
+    "accountName": "💪 Maarten",
+    "name": "Baustellenfahrzeuge",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "Späth, Ralph",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0356225",
+    "accountName": "💪 Maarten",
+    "name": "Der Baum",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "Spilsbury, Richard",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0404603",
+    "accountName": "💪 Maarten",
+    "name": "Badetag und drei weitere schafsinnige Geschichten",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
     "by": "",
     "type": "CD Kinder",
     "isRenewable": true
@@ -210,126 +330,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0406426",
-    "accountName": "💪 Maarten",
-    "name": "Und das gibt's noch nicht?",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "Colot, Marie",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0412450",
-    "accountName": "💪 Maarten",
-    "name": "Welcher Baum ist das? : 4-7 Jahre",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "Hiller, Julia",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0404603",
-    "accountName": "💪 Maarten",
-    "name": "Badetag und drei weitere schafsinnige Geschichten",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0404453",
-    "accountName": "💪 Maarten",
-    "name": "Ritter Ragnar Drachenherz",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "Thumser, Anette",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0400807",
-    "accountName": "💪 Maarten",
-    "name": "Wir zwei machen uns Mut",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "Engler, Michael",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0397746",
-    "accountName": "💪 Maarten",
-    "name": "Paw Patrol - Der Delfin-Freund : 4 spannende Abenteuer",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0388373",
-    "accountName": "💪 Maarten",
-    "name": "Nachts auf dem Bauernhof",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "Hugo, Pierre de",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0376461",
-    "accountName": "💪 Maarten",
-    "name": "Gebäude aus LEGO-Steinen - Häuser, Ladenzeilen, Zubehör",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "Lyles, Brian",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0376188",
-    "accountName": "💪 Maarten",
-    "name": "Ein Passwort für die Pippilothek",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "Pauli, Lorenz",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0385543",
-    "accountName": "💪 Maarten",
-    "name": "Kleiner Vogel, großer Hunger : ... ein fröhlich freches Sammelspiel!",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "Rogasch, Tim",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0412854",
-    "accountName": "💪 Maarten",
-    "name": "Meerschweinchentage",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "Funke, Cornelia",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0356225",
-    "accountName": "💪 Maarten",
-    "name": "Der Baum",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "Spilsbury, Richard",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0305160",
     "accountName": "💪 Maarten",
     "name": "Honigbienchen",
@@ -340,82 +340,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0359024",
+    "id": "HILD.0406426",
     "accountName": "💪 Maarten",
-    "name": "Baustellenfahrzeuge",
+    "name": "Und das gibt's noch nicht?",
     "renewed": 0,
     "dueDate": "2025-06-07",
-    "by": "Späth, Ralph",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0415685",
-    "accountName": "💪 Maarten",
-    "name": "Aristocats : Das Original-Hörspiel zur TV-Serie",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0413809",
-    "accountName": "💪 Maarten",
-    "name": "Kleine Experten...treffen auf Dinosaurier",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0389100",
-    "accountName": "💪 Maarten",
-    "name": "LEGO-Spaß mit Kindern : kreative Modelle für Eltern und Kinder zum gemeinsamen Bauen",
-    "renewed": 1,
-    "dueDate": "2025-06-17",
-    "by": "Nash, Warren",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0365184",
-    "accountName": "💪 Maarten",
-    "name": "Tonie 73 - Post für den Tiger",
-    "renewed": 1,
-    "dueDate": "2025-06-17",
-    "by": "Janosch",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0262500",
-    "accountName": "💪 Maarten",
-    "name": "Wenn Waldo Waschbär wütend wird",
-    "renewed": 1,
-    "dueDate": "2025-06-17",
-    "by": "Mauder, Katharina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0397691",
-    "accountName": "💪 Maarten",
-    "name": "Auf Umwelt-Mission",
-    "renewed": 1,
-    "dueDate": "2025-06-17",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0375300",
-    "accountName": "💪 Maarten",
-    "name": "Meine schönsten Lieder für unterwegs",
-    "renewed": 1,
-    "dueDate": "2025-06-17",
-    "by": "Neudert, Cee",
+    "by": "Colot, Marie",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -430,22 +360,42 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0409830",
+    "id": "HILD.0397691",
     "accountName": "💪 Maarten",
-    "name": "Elektrische Luftpumpe für Camping",
+    "name": "Auf Umwelt-Mission",
     "renewed": 1,
     "dueDate": "2025-06-17",
     "by": "",
-    "type": "Serviceartikel",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
-    "id": "HILD.0350846",
+    "id": "HILD.0262500",
     "accountName": "💪 Maarten",
-    "name": "Ran ans Gemüse! : mein vegetarisches Kochbuch",
+    "name": "Wenn Waldo Waschbär wütend wird",
     "renewed": 1,
     "dueDate": "2025-06-17",
-    "by": "Mitchem, James",
+    "by": "Mauder, Katharina",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0397586",
+    "accountName": "💪 Maarten",
+    "name": "Frieda im Unverpackt-Laden",
+    "renewed": 1,
+    "dueDate": "2025-06-17",
+    "by": "König, Katharina",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0389100",
+    "accountName": "💪 Maarten",
+    "name": "LEGO-Spaß mit Kindern : kreative Modelle für Eltern und Kinder zum gemeinsamen Bauen",
+    "renewed": 1,
+    "dueDate": "2025-06-17",
+    "by": "Nash, Warren",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -460,14 +410,54 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0397586",
+    "id": "HILD.0375300",
     "accountName": "💪 Maarten",
-    "name": "Frieda im Unverpackt-Laden",
+    "name": "Meine schönsten Lieder für unterwegs",
     "renewed": 1,
     "dueDate": "2025-06-17",
-    "by": "König, Katharina",
+    "by": "Neudert, Cee",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
+  },
+  {
+    "id": "HILD.0365184",
+    "accountName": "💪 Maarten",
+    "name": "Tonie 73 - Post für den Tiger",
+    "renewed": 1,
+    "dueDate": "2025-06-17",
+    "by": "Janosch",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0350846",
+    "accountName": "💪 Maarten",
+    "name": "Ran ans Gemüse! : mein vegetarisches Kochbuch",
+    "renewed": 1,
+    "dueDate": "2025-06-17",
+    "by": "Mitchem, James",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0409830",
+    "accountName": "💪 Maarten",
+    "name": "Elektrische Luftpumpe für Camping",
+    "renewed": 1,
+    "dueDate": "2025-06-17",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411805",
+    "accountName": "💪 Maarten",
+    "name": "Skye",
+    "renewed": 2,
+    "dueDate": "2025-06-21",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
   },
   {
     "id": "HILD.0415942",
@@ -498,16 +488,6 @@
     "by": "Šrámková, Barbora",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
-  },
-  {
-    "id": "HILD.0411805",
-    "accountName": "💪 Maarten",
-    "name": "Skye",
-    "renewed": 2,
-    "dueDate": "2025-06-21",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": false
   },
   {
     "id": "HILD.0229940",
@@ -618,6 +598,26 @@
     "by": "Völk, Julie",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
+  },
+  {
+    "id": "HILD.0391978",
+    "accountName": "💪 Maarten",
+    "name": "Little Cooperation",
+    "renewed": 2,
+    "dueDate": "2025-06-24",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0375637",
+    "accountName": "💪 Maarten",
+    "name": "Wenn ich groß bin, werde ich Astromaus",
+    "renewed": 2,
+    "dueDate": "2025-06-24",
+    "by": "Smallman, Steve",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
   },
   {
     "id": "HILD.0222096",
