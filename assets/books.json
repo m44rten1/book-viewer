@@ -180,13 +180,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0376461",
+    "id": "HILD.0415685",
     "accountName": "💪 Maarten",
-    "name": "Gebäude aus LEGO-Steinen - Häuser, Ladenzeilen, Zubehör",
+    "name": "Aristocats : Das Original-Hörspiel zur TV-Serie",
     "renewed": 0,
     "dueDate": "2025-06-07",
-    "by": "Lyles, Brian",
-    "type": "Kinder-/Jugendbuch",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -250,9 +250,9 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0413809",
+    "id": "HILD.0411804",
     "accountName": "💪 Maarten",
-    "name": "Kleine Experten...treffen auf Dinosaurier",
+    "name": "Chase",
     "renewed": 0,
     "dueDate": "2025-06-07",
     "by": "",
@@ -260,13 +260,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0415685",
+    "id": "HILD.0376461",
     "accountName": "💪 Maarten",
-    "name": "Aristocats : Das Original-Hörspiel zur TV-Serie",
+    "name": "Gebäude aus LEGO-Steinen - Häuser, Ladenzeilen, Zubehör",
     "renewed": 0,
     "dueDate": "2025-06-07",
-    "by": "",
-    "type": "CD Kinder",
+    "by": "Lyles, Brian",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -320,16 +320,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0411804",
-    "accountName": "💪 Maarten",
-    "name": "Chase",
-    "renewed": 0,
-    "dueDate": "2025-06-07",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0305160",
     "accountName": "💪 Maarten",
     "name": "Honigbienchen",
@@ -350,6 +340,16 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0413809",
+    "accountName": "💪 Maarten",
+    "name": "Kleine Experten...treffen auf Dinosaurier",
+    "renewed": 0,
+    "dueDate": "2025-06-07",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0400595",
     "accountName": "💪 Maarten",
     "name": "Kunterbunte Kinderküche",
@@ -357,6 +357,16 @@
     "dueDate": "2025-06-17",
     "by": "Karmel, Annabel",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0409830",
+    "accountName": "💪 Maarten",
+    "name": "Elektrische Luftpumpe für Camping",
+    "renewed": 1,
+    "dueDate": "2025-06-17",
+    "by": "",
+    "type": "Serviceartikel",
     "isRenewable": true
   },
   {
@@ -440,16 +450,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0409830",
-    "accountName": "💪 Maarten",
-    "name": "Elektrische Luftpumpe für Camping",
-    "renewed": 1,
-    "dueDate": "2025-06-17",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0411805",
     "accountName": "💪 Maarten",
     "name": "Skye",
@@ -490,22 +490,22 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0229940",
-    "accountName": "💪 Maarten",
-    "name": "Gebäude modernisieren - Energie sparen",
-    "renewed": 0,
-    "dueDate": "2025-06-21",
-    "by": "Burk, Peter",
-    "type": "Sachbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0408261",
     "accountName": "💪 Maarten",
     "name": "Balkonkraftwerke : verstehen und einfach einsteigen. Der Ratgeber zum Energiesparen mit vielen Tipps",
     "renewed": 0,
     "dueDate": "2025-06-21",
     "by": "Rippel, Jörg",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0229940",
+    "accountName": "💪 Maarten",
+    "name": "Gebäude modernisieren - Energie sparen",
+    "renewed": 0,
+    "dueDate": "2025-06-21",
+    "by": "Burk, Peter",
     "type": "Sachbuch",
     "isRenewable": true
   },
@@ -597,6 +597,16 @@
     "dueDate": "2025-06-21",
     "by": "Völk, Julie",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0396262",
+    "accountName": "💪 Maarten",
+    "name": "Paw Patrol : Schneller als die Feuerwehr und 4 spannende Abenteuer",
+    "renewed": 0,
+    "dueDate": "2025-06-24",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
