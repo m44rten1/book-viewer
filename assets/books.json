@@ -710,23 +710,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0388983",
+    "id": "HILD.0391317",
     "accountName": "👦 Arne",
-    "name": "Alles rollt! : mein Buch der Fahrzeuge",
+    "name": "Hase ahoi!",
     "renewed": 0,
-    "dueDate": "2025-06-14",
-    "by": "Fiedler, Max",
+    "dueDate": "2025-06-18",
+    "by": "Rueda, Claudia",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0408459",
-    "accountName": "👦 Arne",
-    "name": "Stanzerset Formen 2",
-    "renewed": 0,
-    "dueDate": "2025-06-14",
-    "by": "",
-    "type": "Serviceartikel",
     "isRenewable": true
   },
   {
@@ -736,16 +726,6 @@
     "renewed": 0,
     "dueDate": "2025-06-18",
     "by": "Hare, John",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0391317",
-    "accountName": "👦 Arne",
-    "name": "Hase ahoi!",
-    "renewed": 0,
-    "dueDate": "2025-06-18",
-    "by": "Rueda, Claudia",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -790,16 +770,6 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0369135",
-    "accountName": "👦 Arne",
-    "name": "LEGO City ; 05  - Raumfahrt - LUNA 15 antwortet nicht",
-    "renewed": 0,
-    "dueDate": "2025-07-02",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0369142",
     "accountName": "👦 Arne",
     "name": "LEGO City ; 12 - Polizei - In den Greifern der Motorradbande",
@@ -820,6 +790,26 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0410260",
+    "accountName": "👦 Arne",
+    "name": "Roboter! : spannendes Wissen rund um Roboter und was sie alles können!",
+    "renewed": 0,
+    "dueDate": "2025-07-02",
+    "by": "Holst, Christian",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0369135",
+    "accountName": "👦 Arne",
+    "name": "LEGO City ; 05  - Raumfahrt - LUNA 15 antwortet nicht",
+    "renewed": 0,
+    "dueDate": "2025-07-02",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0402597",
     "accountName": "👦 Arne",
     "name": "Dschungel : Das Geheimnis des vergessenen Tempels",
@@ -830,13 +820,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0410260",
+    "id": "HILD.0409830",
     "accountName": "👦 Arne",
-    "name": "Roboter! : spannendes Wissen rund um Roboter und was sie alles können!",
+    "name": "Elektrische Luftpumpe für Camping",
     "renewed": 0,
-    "dueDate": "2025-07-02",
-    "by": "Holst, Christian",
-    "type": "Kinder-/Jugendbuch",
+    "dueDate": "2025-07-08",
+    "by": "",
+    "type": "Serviceartikel",
     "isRenewable": true
   },
   {
@@ -850,13 +840,113 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0409830",
+    "id": "HILD.0408459",
     "accountName": "👦 Arne",
-    "name": "Elektrische Luftpumpe für Camping",
-    "renewed": 0,
-    "dueDate": "2025-07-08",
+    "name": "Stanzerset Formen 2",
+    "renewed": 1,
+    "dueDate": "2025-07-09",
     "by": "",
     "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0413382",
+    "accountName": "👦 Arne",
+    "name": "Paw Patrol - Jungle Pups - Marshall",
+    "renewed": 0,
+    "dueDate": "2025-07-09",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411680",
+    "accountName": "👦 Arne",
+    "name": "Fantasy Manga zeichnen",
+    "renewed": 0,
+    "dueDate": "2025-07-09",
+    "by": "Liliyth",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0399714",
+    "accountName": "👦 Arne",
+    "name": "Spidey und seine Forscherfreunde",
+    "renewed": 0,
+    "dueDate": "2025-07-09",
+    "by": "Shinick, Kevin",
+    "type": "Comics / Mangas",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0408097",
+    "accountName": "👦 Arne",
+    "name": "Einfache Strichfiguren zeichnen : für Sketchnotes, Flipcharts, Bullet Journal etc",
+    "renewed": 0,
+    "dueDate": "2025-07-09",
+    "by": "Roßa, Nadine",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0393245",
+    "accountName": "👦 Arne",
+    "name": "Spider-Man & Venom : geballte Ladung",
+    "renewed": 0,
+    "dueDate": "2025-07-09",
+    "by": "Tamaki, Mariko",
+    "type": "Comics / Mangas",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0393016",
+    "accountName": "👦 Arne",
+    "name": "Schockierende Ereignisse",
+    "renewed": 0,
+    "dueDate": "2025-07-09",
+    "by": "Easton, Brandon",
+    "type": "Comics / Mangas",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0388983",
+    "accountName": "👦 Arne",
+    "name": "Alles rollt! : mein Buch der Fahrzeuge",
+    "renewed": 1,
+    "dueDate": "2025-07-09",
+    "by": "Fiedler, Max",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0384893",
+    "accountName": "👦 Arne",
+    "name": "Die Kunst des Zeichnens - Comic, Cartoon",
+    "renewed": 0,
+    "dueDate": "2025-07-09",
+    "by": "Krabbe, Wiebke",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0380612",
+    "accountName": "👦 Arne",
+    "name": "The face : zeichnen - vom Gesicht zum Porträt",
+    "renewed": 0,
+    "dueDate": "2025-07-09",
+    "by": "Simon, Melinda",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0413810",
+    "accountName": "👦 Arne",
+    "name": "Marvel Spidey und seine Super-Freunde : Raketen-Rhino & 3 weitere spannende Abenteuer",
+    "renewed": 0,
+    "dueDate": "2025-07-09",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": true
   }
 ]
