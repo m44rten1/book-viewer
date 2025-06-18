@@ -517,7 +517,7 @@
     "dueDate": "2025-07-15",
     "by": "Rippel, Jörg",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0415942",
@@ -527,7 +527,7 @@
     "dueDate": "2025-07-15",
     "by": "Amend, Lars",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0229940",
@@ -537,7 +537,7 @@
     "dueDate": "2025-07-15",
     "by": "Burk, Peter",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0397691",
@@ -567,7 +567,7 @@
     "dueDate": "2025-07-15",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0405737",
@@ -577,7 +577,7 @@
     "dueDate": "2025-07-15",
     "by": "Bodenmüller, Eva",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0400595",
@@ -597,7 +597,7 @@
     "dueDate": "2025-07-15",
     "by": "Zunner, Marianne",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0397586",
@@ -627,7 +627,7 @@
     "dueDate": "2025-07-15",
     "by": "Kreihe, Susann",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0375300",
@@ -647,7 +647,7 @@
     "dueDate": "2025-07-15",
     "by": "Speulhof, Barbara van den",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0368123",
@@ -657,7 +657,7 @@
     "dueDate": "2025-07-15",
     "by": "Merz, Lena",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0365858",
@@ -667,7 +667,7 @@
     "dueDate": "2025-07-15",
     "by": "Martens, Andrea",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0365184",
@@ -697,7 +697,7 @@
     "dueDate": "2025-07-15",
     "by": "Weckerle, Michael",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0415964",
@@ -707,7 +707,7 @@
     "dueDate": "2025-07-15",
     "by": "Hanika, Beate Teresa",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0357119",
@@ -917,7 +917,7 @@
     "dueDate": "2025-07-15",
     "by": "Hare, John",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0398115",
@@ -927,7 +927,7 @@
     "dueDate": "2025-07-15",
     "by": "Dolan, Hannah",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0391317",
@@ -937,7 +937,7 @@
     "dueDate": "2025-07-15",
     "by": "Rueda, Claudia",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0388586",
@@ -947,6 +947,6 @@
     "dueDate": "2025-07-15",
     "by": "Hare, John",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   }
 ]
