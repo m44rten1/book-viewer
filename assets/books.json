@@ -230,22 +230,22 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0396262",
-    "accountName": "💪 Maarten",
-    "name": "Paw Patrol : Schneller als die Feuerwehr und 4 spannende Abenteuer",
-    "renewed": 0,
-    "dueDate": "2025-06-24",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0376461",
     "accountName": "💪 Maarten",
     "name": "Gebäude aus LEGO-Steinen - Häuser, Ladenzeilen, Zubehör",
     "renewed": 1,
     "dueDate": "2025-07-02",
     "by": "Lyles, Brian",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0412854",
+    "accountName": "💪 Maarten",
+    "name": "Meerschweinchentage",
+    "renewed": 1,
+    "dueDate": "2025-07-02",
+    "by": "Funke, Cornelia",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -276,16 +276,6 @@
     "renewed": 1,
     "dueDate": "2025-07-02",
     "by": "Hiller, Julia",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0412854",
-    "accountName": "💪 Maarten",
-    "name": "Meerschweinchentage",
-    "renewed": 1,
-    "dueDate": "2025-07-02",
-    "by": "Funke, Cornelia",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -360,6 +350,16 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0381514",
+    "accountName": "💪 Maarten",
+    "name": "Foxtrott",
+    "renewed": 0,
+    "dueDate": "2025-07-05",
+    "by": "Heine, Helme",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0408116",
     "accountName": "💪 Maarten",
     "name": "Nachhilfe mit Schurken",
@@ -406,16 +406,6 @@
     "renewed": 0,
     "dueDate": "2025-07-05",
     "by": "Zehrer, Klaus Cäsar",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0381514",
-    "accountName": "💪 Maarten",
-    "name": "Foxtrott",
-    "renewed": 0,
-    "dueDate": "2025-07-05",
-    "by": "Heine, Helme",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -510,16 +500,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0415942",
-    "accountName": "💪 Maarten",
-    "name": "Weil ich mutig bin",
-    "renewed": 1,
-    "dueDate": "2025-07-15",
-    "by": "Amend, Lars",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0407447",
     "accountName": "💪 Maarten",
     "name": "Die Super-Welpen sind nicht zu stoppen!",
@@ -528,6 +508,16 @@
     "by": "Lon, Nora de",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
+  },
+  {
+    "id": "HILD.0415942",
+    "accountName": "💪 Maarten",
+    "name": "Weil ich mutig bin",
+    "renewed": 1,
+    "dueDate": "2025-07-15",
+    "by": "Amend, Lars",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
   },
   {
     "id": "HILD.0229940",
@@ -697,6 +687,16 @@
     "dueDate": "2025-07-15",
     "by": "Hanika, Beate Teresa",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0396262",
+    "accountName": "💪 Maarten",
+    "name": "Paw Patrol : Schneller als die Feuerwehr und 4 spannende Abenteuer",
+    "renewed": 1,
+    "dueDate": "2025-07-18",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
