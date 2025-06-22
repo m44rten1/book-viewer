@@ -1,25 +1,5 @@
 [
   {
-    "id": "HILD.0411772",
-    "accountName": "❤️ Maren",
-    "name": "Schüttel den Apfelbaum",
-    "renewed": 1,
-    "dueDate": "2025-06-25",
-    "by": "Sternbaum, Nico",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0409608",
-    "accountName": "❤️ Maren",
-    "name": "Gesund & lecker : 20 Rezepte",
-    "renewed": 1,
-    "dueDate": "2025-06-25",
-    "by": "Wenz, Birgit",
-    "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0375336",
     "accountName": "❤️ Maren",
     "name": "Matti kann schon fast alles",
@@ -120,6 +100,16 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0409254",
+    "accountName": "❤️ Maren",
+    "name": "Paw Patrol - Hier kommt Tracker",
+    "renewed": 1,
+    "dueDate": "2025-07-08",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0412017",
     "accountName": "❤️ Maren",
     "name": "Darro Drache und die Sache mit dem Mut",
@@ -150,13 +140,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0409254",
+    "id": "HILD.0397286",
     "accountName": "❤️ Maren",
-    "name": "Paw Patrol - Hier kommt Tracker",
+    "name": "Die Vulkaninsel",
     "renewed": 1,
     "dueDate": "2025-07-08",
-    "by": "",
-    "type": "CD Kinder",
+    "by": "Hare, John",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -166,16 +156,6 @@
     "renewed": 1,
     "dueDate": "2025-07-08",
     "by": "Dolan, Hannah",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0397286",
-    "accountName": "❤️ Maren",
-    "name": "Die Vulkaninsel",
-    "renewed": 1,
-    "dueDate": "2025-07-08",
-    "by": "Hare, John",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -228,6 +208,26 @@
     "by": "",
     "type": "Spiel",
     "isRenewable": true
+  },
+  {
+    "id": "HILD.0409608",
+    "accountName": "❤️ Maren",
+    "name": "Gesund & lecker : 20 Rezepte",
+    "renewed": 2,
+    "dueDate": "2025-07-19",
+    "by": "Wenz, Birgit",
+    "type": "Serviceartikel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0411772",
+    "accountName": "❤️ Maren",
+    "name": "Schüttel den Apfelbaum",
+    "renewed": 2,
+    "dueDate": "2025-07-19",
+    "by": "Sternbaum, Nico",
+    "type": "CD Kinder",
+    "isRenewable": false
   },
   {
     "id": "HILD.0376461",
