@@ -937,7 +937,7 @@
     "dueDate": "2025-08-05",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0411680",
@@ -947,7 +947,7 @@
     "dueDate": "2025-08-05",
     "by": "Liliyth",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0399714",
@@ -957,7 +957,7 @@
     "dueDate": "2025-08-05",
     "by": "Shinick, Kevin",
     "type": "Comics / Mangas",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0408097",
@@ -967,7 +967,7 @@
     "dueDate": "2025-08-05",
     "by": "Roßa, Nadine",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0393245",
@@ -977,7 +977,7 @@
     "dueDate": "2025-08-05",
     "by": "Tamaki, Mariko",
     "type": "Comics / Mangas",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0393016",
@@ -987,7 +987,7 @@
     "dueDate": "2025-08-05",
     "by": "Easton, Brandon",
     "type": "Comics / Mangas",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0388983",
@@ -1007,7 +1007,7 @@
     "dueDate": "2025-08-05",
     "by": "Simon, Melinda",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0413810",
@@ -1017,6 +1017,6 @@
     "dueDate": "2025-08-05",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   }
 ]
