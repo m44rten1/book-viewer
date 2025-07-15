@@ -380,16 +380,6 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0396262",
-    "accountName": "💪 Maarten",
-    "name": "Paw Patrol : Schneller als die Feuerwehr und 4 spannende Abenteuer",
-    "renewed": 1,
-    "dueDate": "2025-07-18",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0412854",
     "accountName": "💪 Maarten",
     "name": "Meerschweinchentage",
@@ -667,6 +657,16 @@
     "dueDate": "2025-08-09",
     "by": "",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0396262",
+    "accountName": "💪 Maarten",
+    "name": "Paw Patrol : Schneller als die Feuerwehr und 4 spannende Abenteuer",
+    "renewed": 2,
+    "dueDate": "2025-08-12",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": false
   },
   {
