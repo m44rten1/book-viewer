@@ -347,7 +347,7 @@
     "dueDate": "2025-08-12",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406486",
@@ -357,7 +357,7 @@
     "dueDate": "2025-08-12",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0411774",
@@ -367,7 +367,7 @@
     "dueDate": "2025-08-12",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0350570",
@@ -377,7 +377,7 @@
     "dueDate": "2025-08-12",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0412854",
