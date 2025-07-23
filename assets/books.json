@@ -790,16 +790,6 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0388368",
-    "accountName": "👦 Arne",
-    "name": "Strand und Meer : Tier- und Pflanzenwelt",
-    "renewed": 0,
-    "dueDate": "2025-07-26",
-    "by": "Evans, Harriet",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0389184",
     "accountName": "👦 Arne",
     "name": "Lebensgroß : Dinosaurier",
@@ -896,6 +886,16 @@
     "renewed": 2,
     "dueDate": "2025-08-09",
     "by": "Hare, John",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0388368",
+    "accountName": "👦 Arne",
+    "name": "Strand und Meer : Tier- und Pflanzenwelt",
+    "renewed": 1,
+    "dueDate": "2025-08-20",
+    "by": "Evans, Harriet",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   }
