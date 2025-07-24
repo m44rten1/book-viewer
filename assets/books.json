@@ -790,46 +790,6 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0389184",
-    "accountName": "👦 Arne",
-    "name": "Lebensgroß : Dinosaurier",
-    "renewed": 0,
-    "dueDate": "2025-07-26",
-    "by": "Frey, Raimund",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0396555",
-    "accountName": "👦 Arne",
-    "name": "Leon, der kleine Pinguin : drei Gutenachtgeschichten",
-    "renewed": 0,
-    "dueDate": "2025-07-26",
-    "by": "Jadoul, Émile",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0400435",
-    "accountName": "👦 Arne",
-    "name": "WIR alle",
-    "renewed": 0,
-    "dueDate": "2025-07-26",
-    "by": "Kunkel, Daniela",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0407264",
-    "accountName": "👦 Arne",
-    "name": "Unter mir das Meer",
-    "renewed": 0,
-    "dueDate": "2025-07-26",
-    "by": "Guillain, Charlotte",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0409675",
     "accountName": "👦 Arne",
     "name": "Sticken : alle Techniken und über 200 Muster",
@@ -897,6 +857,66 @@
     "dueDate": "2025-08-20",
     "by": "Evans, Harriet",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0389184",
+    "accountName": "👦 Arne",
+    "name": "Lebensgroß : Dinosaurier",
+    "renewed": 1,
+    "dueDate": "2025-08-20",
+    "by": "Frey, Raimund",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0389466",
+    "accountName": "👦 Arne",
+    "name": "Magnefix : Das magische Reaktionsspiel",
+    "renewed": 0,
+    "dueDate": "2025-08-20",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0396185",
+    "accountName": "👦 Arne",
+    "name": "Cubeez",
+    "renewed": 0,
+    "dueDate": "2025-08-20",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0396555",
+    "accountName": "👦 Arne",
+    "name": "Leon, der kleine Pinguin : drei Gutenachtgeschichten",
+    "renewed": 1,
+    "dueDate": "2025-08-20",
+    "by": "Jadoul, Émile",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0400435",
+    "accountName": "👦 Arne",
+    "name": "WIR alle",
+    "renewed": 1,
+    "dueDate": "2025-08-20",
+    "by": "Kunkel, Daniela",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0407264",
+    "accountName": "👦 Arne",
+    "name": "Unter mir das Meer",
+    "renewed": 1,
+    "dueDate": "2025-08-20",
+    "by": "Guillain, Charlotte",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
   }
 ]
