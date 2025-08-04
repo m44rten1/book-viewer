@@ -600,16 +600,6 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0415488",
-    "accountName": "👦 Arne",
-    "name": "Trau Dich Koalabär / Gecko und das Glück des Lebens / Der Wal, der immer mehr wollte : Die Bilderbuch-Bestseller als Hörbuch",
-    "renewed": 0,
-    "dueDate": "2025-08-06",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0388586",
     "accountName": "👦 Arne",
     "name": "Tief im Ozean",
@@ -715,6 +705,16 @@
     "name": "Marvel Spidey und seine Super-Freunde : Raketen-Rhino & 3 weitere spannende Abenteuer",
     "renewed": 2,
     "dueDate": "2025-08-30",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0415488",
+    "accountName": "👦 Arne",
+    "name": "Trau Dich Koalabär / Gecko und das Glück des Lebens / Der Wal, der immer mehr wollte : Die Bilderbuch-Bestseller als Hörbuch",
+    "renewed": 1,
+    "dueDate": "2025-09-02",
     "by": "",
     "type": "CD Kinder",
     "isRenewable": false
