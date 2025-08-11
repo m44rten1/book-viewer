@@ -1,15 +1,5 @@
 [
   {
-    "id": "HILD.0417281",
-    "accountName": "❤️ Maren",
-    "name": "Wurf-Ei",
-    "renewed": 0,
-    "dueDate": "2025-08-15",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0416566",
     "accountName": "❤️ Maren",
     "name": "Schwungtuch mit 8 Griffen",
@@ -150,16 +140,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0388051",
-    "accountName": "❤️ Maren",
-    "name": "Disney Winnie Puuh auf großer Reise : Das Original-Hörspiel zum Kinofilm",
-    "renewed": 1,
-    "dueDate": "2025-08-26",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0348821",
     "accountName": "❤️ Maren",
     "name": "Weltall : das Universum in spektakulären Bildern",
@@ -167,6 +147,16 @@
     "dueDate": "2025-08-26",
     "by": "Dinwiddie, Robert",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0388051",
+    "accountName": "❤️ Maren",
+    "name": "Disney Winnie Puuh auf großer Reise : Das Original-Hörspiel zum Kinofilm",
+    "renewed": 1,
+    "dueDate": "2025-08-26",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -360,6 +350,16 @@
     "isRenewable": false
   },
   {
+    "id": "HILD.0411774",
+    "accountName": "❤️ Maren",
+    "name": "Zuma",
+    "renewed": 2,
+    "dueDate": "2025-09-06",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
     "id": "HILD.0406486",
     "accountName": "❤️ Maren",
     "name": "Paw Patrol - Hundeschau",
@@ -370,13 +370,13 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0411774",
+    "id": "HILD.0417281",
     "accountName": "❤️ Maren",
-    "name": "Zuma",
-    "renewed": 2,
-    "dueDate": "2025-09-06",
+    "name": "Wurf-Ei",
+    "renewed": 1,
+    "dueDate": "2025-09-09",
     "by": "",
-    "type": "CD Kinder",
+    "type": "Serviceartikel",
     "isRenewable": false
   },
   {
