@@ -217,7 +217,7 @@
     "dueDate": "2025-09-17",
     "by": "Isogawa, Yoshihito",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0403462",
@@ -227,7 +227,7 @@
     "dueDate": "2025-09-17",
     "by": "Dolan, Hannah",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0404537",
@@ -237,7 +237,7 @@
     "dueDate": "2025-09-17",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406738",
@@ -247,7 +247,7 @@
     "dueDate": "2025-09-17",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0409831",
@@ -257,7 +257,7 @@
     "dueDate": "2025-09-17",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0410731",
@@ -267,7 +267,7 @@
     "dueDate": "2025-09-17",
     "by": "Dolan, Hannah",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0415434",
@@ -277,7 +277,7 @@
     "dueDate": "2025-09-17",
     "by": "Challoner, Jack",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0321824",
@@ -320,16 +320,6 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0390767",
-    "accountName": "💪 Maarten",
-    "name": "Magic Fermentation : Fermentieren, bis die Gläser überschwappen",
-    "renewed": 0,
-    "dueDate": "2025-08-23",
-    "by": "Kruse, Marcel",
-    "type": "Sachbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0407846",
     "accountName": "💪 Maarten",
     "name": "Breifrei Express : die schnellsten Rezepte von den Expertinnen des breifreibaby-Blogs",
@@ -368,6 +358,16 @@
     "by": "Dormeyer, Thea",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
+  },
+  {
+    "id": "HILD.0390767",
+    "accountName": "💪 Maarten",
+    "name": "Magic Fermentation : Fermentieren, bis die Gläser überschwappen",
+    "renewed": 1,
+    "dueDate": "2025-09-17",
+    "by": "Kruse, Marcel",
+    "type": "Sachbuch",
+    "isRenewable": true
   },
   {
     "id": "HILD.0409830",
