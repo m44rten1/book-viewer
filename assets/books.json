@@ -250,6 +250,46 @@
     "isRenewable": false
   },
   {
+    "id": "HILD.0393216",
+    "accountName": "💪 Maarten",
+    "name": "Der Rausch",
+    "renewed": 0,
+    "dueDate": "2025-09-11",
+    "by": "Lindholm, Tobias",
+    "type": "DVD / Blu-Ray",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0380506",
+    "accountName": "💪 Maarten",
+    "name": "Das perfekte Geheimnis",
+    "renewed": 0,
+    "dueDate": "2025-09-11",
+    "by": "Riedel, Egon",
+    "type": "DVD / Blu-Ray",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0399084",
+    "accountName": "💪 Maarten",
+    "name": "Wunderschön",
+    "renewed": 0,
+    "dueDate": "2025-09-11",
+    "by": "Stahl, Lena",
+    "type": "DVD / Blu-Ray",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0407307",
+    "accountName": "💪 Maarten",
+    "name": "Im Taxi mit Madeleine",
+    "renewed": 0,
+    "dueDate": "2025-09-11",
+    "by": "Rombi, Philippe",
+    "type": "DVD / Blu-Ray",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0390767",
     "accountName": "💪 Maarten",
     "name": "Magic Fermentation : Fermentieren, bis die Gläser überschwappen",
@@ -257,6 +297,106 @@
     "dueDate": "2025-09-17",
     "by": "Kruse, Marcel",
     "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0180093",
+    "accountName": "💪 Maarten",
+    "name": "Geniale Papierflieger - direkt aus der Tüftlerwerkstatt : mit Mustervorlagen auf CD-ROM ; über 1000 Variationen möglich",
+    "renewed": 0,
+    "dueDate": "2025-09-25",
+    "by": "Bounford, Trevor",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0185773",
+    "accountName": "💪 Maarten",
+    "name": "Skandinavisch einfach : sympathisch und natürlich wohnen",
+    "renewed": 0,
+    "dueDate": "2025-09-25",
+    "by": "Norrman, Sara",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0354563",
+    "accountName": "💪 Maarten",
+    "name": "Mocktails : drinks to drive : ohne Alkohol: coole Cocktails mit Kräutern und Früchten",
+    "renewed": 0,
+    "dueDate": "2025-09-25",
+    "by": "Wiedermann, Stefan Adrian",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0365019",
+    "accountName": "💪 Maarten",
+    "name": "Scandinavian Style : das Einrichtungshandbuch Raum für Raum",
+    "renewed": 0,
+    "dueDate": "2025-09-25",
+    "by": "Torp, Allan",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0368116",
+    "accountName": "💪 Maarten",
+    "name": "My Scandinavian Home : der Traum vom einfachen Wohnen",
+    "renewed": 0,
+    "dueDate": "2025-09-25",
+    "by": "Brantmark, Niki",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0372604",
+    "accountName": "💪 Maarten",
+    "name": "Lego-Autos bauen!",
+    "renewed": 0,
+    "dueDate": "2025-09-25",
+    "by": "Blackert, Peter",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0375659",
+    "accountName": "💪 Maarten",
+    "name": "Tonie 127 - Der König der Löwen",
+    "renewed": 0,
+    "dueDate": "2025-09-25",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0392029",
+    "accountName": "💪 Maarten",
+    "name": "Minibeamer",
+    "renewed": 0,
+    "dueDate": "2025-09-25",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0412706",
+    "accountName": "💪 Maarten",
+    "name": "LEGO-Filme mit Stop Motion : Kreative Filme mit LEGO-Figuren : vom Setaufbau über Spezialeffekte bis zur Nachbereitung",
+    "renewed": 0,
+    "dueDate": "2025-09-25",
+    "by": "Altendorfer, Alexander",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0417097",
+    "accountName": "💪 Maarten",
+    "name": "Entdecke das Weltall : fantastische Bauideen und spannendes Wissen über unser Universum",
+    "renewed": 0,
+    "dueDate": "2025-09-25",
+    "by": "Hubbard, Arwen",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
