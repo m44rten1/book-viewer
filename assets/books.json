@@ -1,111 +1,11 @@
 [
   {
-    "id": "HILD.0416070",
-    "accountName": "❤️ Maren",
-    "name": "Sag mal Aaah! : auf Entdeckungstour in der Kinderarztpraxis",
-    "renewed": 1,
-    "dueDate": "2025-09-02",
-    "by": "Babor, Florian",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0392333",
-    "accountName": "❤️ Maren",
-    "name": "Pixi Wissen -  Planeten und Sterne",
-    "renewed": 1,
-    "dueDate": "2025-09-02",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0411764",
-    "accountName": "❤️ Maren",
-    "name": "Rettung für T-Rex",
-    "renewed": 1,
-    "dueDate": "2025-09-02",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0403103",
-    "accountName": "❤️ Maren",
-    "name": "Mini Heißluftföhn",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0397526",
-    "accountName": "❤️ Maren",
-    "name": "Das große Kacka-Buch",
-    "renewed": 1,
-    "dueDate": "2025-09-02",
-    "by": "Belhadj, Nadja",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0386448",
-    "accountName": "❤️ Maren",
-    "name": "Meine liebsten Marvel-Geschichten",
-    "renewed": 1,
-    "dueDate": "2025-09-02",
-    "by": "Albrecht, Anke",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0387242",
-    "accountName": "❤️ Maren",
-    "name": "Die Monster AG : Das Original-Hörspiel zum Kinofilm",
-    "renewed": 1,
-    "dueDate": "2025-09-02",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406491",
-    "accountName": "❤️ Maren",
-    "name": "Paw Patrol - Neuer Fellfreund",
-    "renewed": 1,
-    "dueDate": "2025-09-03",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0350846",
     "accountName": "❤️ Maren",
     "name": "Ran ans Gemüse! : mein vegetarisches Kochbuch",
     "renewed": 1,
     "dueDate": "2025-09-03",
     "by": "Mitchem, James",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0382368",
-    "accountName": "❤️ Maren",
-    "name": "Ritterburg",
-    "renewed": 1,
-    "dueDate": "2025-09-03",
-    "by": "Schnell, Lukas",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0375300",
-    "accountName": "❤️ Maren",
-    "name": "Meine schönsten Lieder für unterwegs",
-    "renewed": 1,
-    "dueDate": "2025-09-03",
-    "by": "Neudert, Cee",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -120,9 +20,39 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0401831",
+    "id": "HILD.0375300",
     "accountName": "❤️ Maren",
-    "name": "Paw Patrol - Helfer auf vier Pfoten : Der Piratenschatz",
+    "name": "Meine schönsten Lieder für unterwegs",
+    "renewed": 1,
+    "dueDate": "2025-09-03",
+    "by": "Neudert, Cee",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0382368",
+    "accountName": "❤️ Maren",
+    "name": "Ritterburg",
+    "renewed": 1,
+    "dueDate": "2025-09-03",
+    "by": "Schnell, Lukas",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0406491",
+    "accountName": "❤️ Maren",
+    "name": "Paw Patrol - Neuer Fellfreund",
+    "renewed": 1,
+    "dueDate": "2025-09-03",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411774",
+    "accountName": "❤️ Maren",
+    "name": "Zuma",
     "renewed": 2,
     "dueDate": "2025-09-06",
     "by": "",
@@ -140,9 +70,9 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0411774",
+    "id": "HILD.0401831",
     "accountName": "❤️ Maren",
-    "name": "Zuma",
+    "name": "Paw Patrol - Helfer auf vier Pfoten : Der Piratenschatz",
     "renewed": 2,
     "dueDate": "2025-09-06",
     "by": "",
@@ -180,16 +110,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0403462",
-    "accountName": "❤️ Maren",
-    "name": "Das neue LEGO Ideen Buch",
-    "renewed": 1,
-    "dueDate": "2025-09-17",
-    "by": "Dolan, Hannah",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0404537",
     "accountName": "❤️ Maren",
     "name": "Taschenmikroskop",
@@ -197,26 +117,6 @@
     "dueDate": "2025-09-17",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406738",
-    "accountName": "❤️ Maren",
-    "name": "Das kleine böse Buch",
-    "renewed": 1,
-    "dueDate": "2025-09-17",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0410731",
-    "accountName": "❤️ Maren",
-    "name": "Tiere : Schritt für Schritt zum LEGO Baumeister",
-    "renewed": 1,
-    "dueDate": "2025-09-17",
-    "by": "Dolan, Hannah",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -230,12 +130,42 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0410731",
+    "accountName": "❤️ Maren",
+    "name": "Tiere : Schritt für Schritt zum LEGO Baumeister",
+    "renewed": 1,
+    "dueDate": "2025-09-17",
+    "by": "Dolan, Hannah",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0406738",
+    "accountName": "❤️ Maren",
+    "name": "Das kleine böse Buch",
+    "renewed": 1,
+    "dueDate": "2025-09-17",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0398206",
     "accountName": "❤️ Maren",
     "name": "Das LEGO-Technic-Ideenbuch : clevere Konstruktionen ohne Elektronik",
     "renewed": 1,
     "dueDate": "2025-09-17",
     "by": "Isogawa, Yoshihito",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0403462",
+    "accountName": "❤️ Maren",
+    "name": "Das neue LEGO Ideen Buch",
+    "renewed": 1,
+    "dueDate": "2025-09-17",
+    "by": "Dolan, Hannah",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -247,6 +177,96 @@
     "dueDate": "2025-09-20",
     "by": "",
     "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0391311",
+    "accountName": "❤️ Maren",
+    "name": "Fritz und Frieda : ein Frischling kommt selten allein",
+    "renewed": 0,
+    "dueDate": "2025-09-26",
+    "by": "Böhm, Anna",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0413794",
+    "accountName": "❤️ Maren",
+    "name": "Man ist nie zu klein, um großartig zu sein",
+    "renewed": 0,
+    "dueDate": "2025-09-26",
+    "by": "Andeck, Mara",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0403103",
+    "accountName": "❤️ Maren",
+    "name": "Mini Heißluftföhn",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0397526",
+    "accountName": "❤️ Maren",
+    "name": "Das große Kacka-Buch",
+    "renewed": 2,
+    "dueDate": "2025-09-27",
+    "by": "Belhadj, Nadja",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0392333",
+    "accountName": "❤️ Maren",
+    "name": "Pixi Wissen -  Planeten und Sterne",
+    "renewed": 2,
+    "dueDate": "2025-09-27",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0411764",
+    "accountName": "❤️ Maren",
+    "name": "Rettung für T-Rex",
+    "renewed": 2,
+    "dueDate": "2025-09-27",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0387242",
+    "accountName": "❤️ Maren",
+    "name": "Die Monster AG : Das Original-Hörspiel zum Kinofilm",
+    "renewed": 2,
+    "dueDate": "2025-09-27",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0386448",
+    "accountName": "❤️ Maren",
+    "name": "Meine liebsten Marvel-Geschichten",
+    "renewed": 2,
+    "dueDate": "2025-09-27",
+    "by": "Albrecht, Anke",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0416070",
+    "accountName": "❤️ Maren",
+    "name": "Sag mal Aaah! : auf Entdeckungstour in der Kinderarztpraxis",
+    "renewed": 2,
+    "dueDate": "2025-09-27",
+    "by": "Babor, Florian",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
@@ -400,224 +420,14 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0229940",
+    "id": "HILD.0396185",
     "accountName": "👦 Arne",
-    "name": "Gebäude modernisieren - Energie sparen",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "Burk, Peter",
-    "type": "Sachbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0283823",
-    "accountName": "👦 Arne",
-    "name": "Wir reisen durch Europa",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0415488",
-    "accountName": "👦 Arne",
-    "name": "Trau Dich Koalabär / Gecko und das Glück des Lebens / Der Wal, der immer mehr wollte : Die Bilderbuch-Bestseller als Hörbuch",
+    "name": "Cubeez",
     "renewed": 1,
-    "dueDate": "2025-09-02",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0409889",
-    "accountName": "👦 Arne",
-    "name": "Das Monster vom blauen Planeten",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "Funke, Cornelia",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406536",
-    "accountName": "👦 Arne",
-    "name": "Edurino ergonomischer Eingabestift : Farbe: pink",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406025",
-    "accountName": "👦 Arne",
-    "name": "Das kann ich auch!",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "Teckentrup, Britta",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0405737",
-    "accountName": "👦 Arne",
-    "name": "Klimasicher bauen und sanieren",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "Bodenmüller, Eva",
-    "type": "Sachbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0399640",
-    "accountName": "👦 Arne",
-    "name": "Super Pups : der Held mit dem Raketen-Po",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "Frey, Franziska",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0398191",
-    "accountName": "👦 Arne",
-    "name": "Totem Zen",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0397779",
-    "accountName": "👦 Arne",
-    "name": "Konrad oder Warum nicht alle Krokodile gleich sind",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "Stejnar, Christian",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0397214",
-    "accountName": "👦 Arne",
-    "name": "Würfelkönig: Das Brettspiel",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0415688",
-    "accountName": "👦 Arne",
-    "name": "Toto und der Mann im Mond",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0385718",
-    "accountName": "👦 Arne",
-    "name": "Piff Paff & Friends",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0382696",
-    "accountName": "👦 Arne",
-    "name": "Spider-Man reist ins Abenteuer",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "Glass, Calliope",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0379222",
-    "accountName": "👦 Arne",
-    "name": "Little Town",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "Taguchi, Aya",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0376213",
-    "accountName": "👦 Arne",
-    "name": "Disney Winnie Puuh : Die schönsten Geschichten aus dem Hundert-Morgen-Wald",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "Disney",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0375727",
-    "accountName": "👦 Arne",
-    "name": "Meal Prep on Ice : vorkochen, einfrieren, mitnehmen, genießen",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "Kreihe, Susann",
-    "type": "Sachbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0373632",
-    "accountName": "👦 Arne",
-    "name": "Wie man ein Zottorunkel zähmt",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "Schomburg, Andrea",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0368123",
-    "accountName": "👦 Arne",
-    "name": "Meal Prep : 1 x Kochen - 4 x Mittagspause to go",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "Merz, Lena",
-    "type": "Sachbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0367397",
-    "accountName": "👦 Arne",
-    "name": "Erstes Englisch",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "Reichert, Katharina [Künstler]",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0322270",
-    "accountName": "👦 Arne",
-    "name": "Tiptoi - Vorschulwissen",
-    "renewed": 0,
-    "dueDate": "2025-09-02",
-    "by": "Voigt, Silke",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0388368",
-    "accountName": "👦 Arne",
-    "name": "Strand und Meer : Tier- und Pflanzenwelt",
-    "renewed": 2,
     "dueDate": "2025-09-16",
-    "by": "Evans, Harriet",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
   },
   {
     "id": "HILD.0396555",
@@ -630,13 +440,23 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0396185",
+    "id": "HILD.0388368",
     "accountName": "👦 Arne",
-    "name": "Cubeez",
-    "renewed": 1,
+    "name": "Strand und Meer : Tier- und Pflanzenwelt",
+    "renewed": 2,
     "dueDate": "2025-09-16",
-    "by": "",
-    "type": "Spiel",
+    "by": "Evans, Harriet",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0409394",
+    "accountName": "👦 Arne",
+    "name": "Zeig ́s mir Baby! : Babygeführte vollwertige Beikost",
+    "renewed": 0,
+    "dueDate": "2025-09-20",
+    "by": "Lobis, Maria",
+    "type": "Sachbuch",
     "isRenewable": true
   },
   {
@@ -650,13 +470,213 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0409394",
+    "id": "HILD.0415488",
     "accountName": "👦 Arne",
-    "name": "Zeig ́s mir Baby! : Babygeführte vollwertige Beikost",
-    "renewed": 0,
-    "dueDate": "2025-09-20",
-    "by": "Lobis, Maria",
+    "name": "Trau Dich Koalabär / Gecko und das Glück des Lebens / Der Wal, der immer mehr wollte : Die Bilderbuch-Bestseller als Hörbuch",
+    "renewed": 2,
+    "dueDate": "2025-09-27",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0409889",
+    "accountName": "👦 Arne",
+    "name": "Das Monster vom blauen Planeten",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Funke, Cornelia",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0406536",
+    "accountName": "👦 Arne",
+    "name": "Edurino ergonomischer Eingabestift : Farbe: pink",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0406025",
+    "accountName": "👦 Arne",
+    "name": "Das kann ich auch!",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Teckentrup, Britta",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0405737",
+    "accountName": "👦 Arne",
+    "name": "Klimasicher bauen und sanieren",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Bodenmüller, Eva",
     "type": "Sachbuch",
-    "isRenewable": true
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0399640",
+    "accountName": "👦 Arne",
+    "name": "Super Pups : der Held mit dem Raketen-Po",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Frey, Franziska",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0398191",
+    "accountName": "👦 Arne",
+    "name": "Totem Zen",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0397779",
+    "accountName": "👦 Arne",
+    "name": "Konrad oder Warum nicht alle Krokodile gleich sind",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Stejnar, Christian",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0397214",
+    "accountName": "👦 Arne",
+    "name": "Würfelkönig: Das Brettspiel",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0229940",
+    "accountName": "👦 Arne",
+    "name": "Gebäude modernisieren - Energie sparen",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Burk, Peter",
+    "type": "Sachbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0283823",
+    "accountName": "👦 Arne",
+    "name": "Wir reisen durch Europa",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0385718",
+    "accountName": "👦 Arne",
+    "name": "Piff Paff & Friends",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0382696",
+    "accountName": "👦 Arne",
+    "name": "Spider-Man reist ins Abenteuer",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Glass, Calliope",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0379222",
+    "accountName": "👦 Arne",
+    "name": "Little Town",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Taguchi, Aya",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0376213",
+    "accountName": "👦 Arne",
+    "name": "Disney Winnie Puuh : Die schönsten Geschichten aus dem Hundert-Morgen-Wald",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Disney",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0375727",
+    "accountName": "👦 Arne",
+    "name": "Meal Prep on Ice : vorkochen, einfrieren, mitnehmen, genießen",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Kreihe, Susann",
+    "type": "Sachbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0373632",
+    "accountName": "👦 Arne",
+    "name": "Wie man ein Zottorunkel zähmt",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Schomburg, Andrea",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0368123",
+    "accountName": "👦 Arne",
+    "name": "Meal Prep : 1 x Kochen - 4 x Mittagspause to go",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Merz, Lena",
+    "type": "Sachbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0367397",
+    "accountName": "👦 Arne",
+    "name": "Erstes Englisch",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Reichert, Katharina [Künstler]",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0322270",
+    "accountName": "👦 Arne",
+    "name": "Tiptoi - Vorschulwissen",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Voigt, Silke",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0415688",
+    "accountName": "👦 Arne",
+    "name": "Toto und der Mann im Mond",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
   }
 ]
