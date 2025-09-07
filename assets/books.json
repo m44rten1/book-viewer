@@ -357,7 +357,7 @@
     "dueDate": "2025-10-04",
     "by": "Kaden, Outi",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0413843",
@@ -367,7 +367,7 @@
     "dueDate": "2025-10-04",
     "by": "aprilkind",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0417366",
@@ -377,7 +377,7 @@
     "dueDate": "2025-10-04",
     "by": "Krämer, Fee",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0346923",
@@ -387,7 +387,7 @@
     "dueDate": "2025-10-04",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0347979",
@@ -397,7 +397,7 @@
     "dueDate": "2025-10-04",
     "by": "Kern, Stefanie",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0414774",
@@ -407,7 +407,7 @@
     "dueDate": "2025-10-04",
     "by": "Boese, Cornelia",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0362661",
@@ -417,7 +417,7 @@
     "dueDate": "2025-10-04",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0360319",
@@ -427,7 +427,7 @@
     "dueDate": "2025-10-04",
     "by": "Gormley, Greg",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0360591",
@@ -437,7 +437,7 @@
     "dueDate": "2025-10-04",
     "by": "Lüftner, Kai",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0364792",
@@ -457,7 +457,7 @@
     "dueDate": "2025-10-04",
     "by": "Pricken, Stephan",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0378501",
@@ -467,7 +467,7 @@
     "dueDate": "2025-10-04",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0404451",
@@ -477,7 +477,7 @@
     "dueDate": "2025-10-04",
     "by": "Ottenschläger, Madlen",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0388585",
@@ -487,7 +487,7 @@
     "dueDate": "2025-10-04",
     "by": "Horn, Johanna",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0417384",
@@ -497,7 +497,7 @@
     "dueDate": "2025-10-04",
     "by": "Ryans, Gareth",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0390767",
@@ -567,7 +567,7 @@
     "dueDate": "2025-10-04",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0362653",
@@ -577,7 +577,7 @@
     "dueDate": "2025-10-04",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0388368",
