@@ -580,24 +580,14 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0388368",
+    "id": "HILD.0373456",
     "accountName": "👦 Arne",
-    "name": "Strand und Meer : Tier- und Pflanzenwelt",
-    "renewed": 2,
-    "dueDate": "2025-09-16",
-    "by": "Evans, Harriet",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0396555",
-    "accountName": "👦 Arne",
-    "name": "Leon, der kleine Pinguin : drei Gutenachtgeschichten",
-    "renewed": 2,
-    "dueDate": "2025-09-16",
-    "by": "Jadoul, Émile",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "name": "Just One",
+    "renewed": 0,
+    "dueDate": "2025-09-20",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
   },
   {
     "id": "HILD.0409394",
@@ -610,23 +600,23 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0373456",
+    "id": "HILD.0409889",
     "accountName": "👦 Arne",
-    "name": "Just One",
-    "renewed": 0,
-    "dueDate": "2025-09-20",
-    "by": "",
-    "type": "Spiel",
+    "name": "Das Monster vom blauen Planeten",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Funke, Cornelia",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
-    "id": "HILD.0229940",
+    "id": "HILD.0379222",
     "accountName": "👦 Arne",
-    "name": "Gebäude modernisieren - Energie sparen",
+    "name": "Little Town",
     "renewed": 1,
     "dueDate": "2025-09-27",
-    "by": "Burk, Peter",
-    "type": "Sachbuch",
+    "by": "Taguchi, Aya",
+    "type": "Spiel",
     "isRenewable": true
   },
   {
@@ -710,13 +700,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0283823",
+    "id": "HILD.0229940",
     "accountName": "👦 Arne",
-    "name": "Wir reisen durch Europa",
+    "name": "Gebäude modernisieren - Energie sparen",
     "renewed": 1,
     "dueDate": "2025-09-27",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
+    "by": "Burk, Peter",
+    "type": "Sachbuch",
     "isRenewable": true
   },
   {
@@ -727,16 +717,6 @@
     "dueDate": "2025-09-27",
     "by": "Glass, Calliope",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0379222",
-    "accountName": "👦 Arne",
-    "name": "Little Town",
-    "renewed": 1,
-    "dueDate": "2025-09-27",
-    "by": "Taguchi, Aya",
-    "type": "Spiel",
     "isRenewable": true
   },
   {
@@ -800,13 +780,103 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0409889",
+    "id": "HILD.0283823",
     "accountName": "👦 Arne",
-    "name": "Das Monster vom blauen Planeten",
+    "name": "Wir reisen durch Europa",
     "renewed": 1,
     "dueDate": "2025-09-27",
-    "by": "Funke, Cornelia",
+    "by": "",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
+  },
+  {
+    "id": "HILD.0368261",
+    "accountName": "👦 Arne",
+    "name": "Lieselotte hat Langeweile",
+    "renewed": 0,
+    "dueDate": "2025-10-11",
+    "by": "Steffensmeier, Alexander",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0366988",
+    "accountName": "👦 Arne",
+    "name": "Elchhörnchen",
+    "renewed": 0,
+    "dueDate": "2025-10-11",
+    "by": "Göhlich, Susanne",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0400000",
+    "accountName": "👦 Arne",
+    "name": "Die Fellfreunde auf tierischer Mission",
+    "renewed": 0,
+    "dueDate": "2025-10-11",
+    "by": "De Lon, Nora",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0401831",
+    "accountName": "👦 Arne",
+    "name": "Paw Patrol - Helfer auf vier Pfoten : Der Piratenschatz",
+    "renewed": 0,
+    "dueDate": "2025-10-11",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0403485",
+    "accountName": "👦 Arne",
+    "name": "Pengoloo",
+    "renewed": 0,
+    "dueDate": "2025-10-11",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0365183",
+    "accountName": "👦 Arne",
+    "name": "Tonie 72 - Das kleine Gespenst",
+    "renewed": 0,
+    "dueDate": "2025-10-11",
+    "by": "Preußler, Otfried",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0344410",
+    "accountName": "👦 Arne",
+    "name": "Lieselotte macht Urlaub",
+    "renewed": 0,
+    "dueDate": "2025-10-11",
+    "by": "Steffensmeier, Alexander",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0406033",
+    "accountName": "👦 Arne",
+    "name": "Hau ab, du großes grünes Monster!",
+    "renewed": 0,
+    "dueDate": "2025-10-11",
+    "by": "Emberley, Ed",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0219184",
+    "accountName": "👦 Arne",
+    "name": "Lieselotte im Schnee",
+    "renewed": 0,
+    "dueDate": "2025-10-11",
+    "by": "Steffensmeier, Alexander",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
   }
 ]
