@@ -797,7 +797,7 @@
     "dueDate": "2025-10-11",
     "by": "Steffensmeier, Alexander",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0366988",
@@ -807,7 +807,7 @@
     "dueDate": "2025-10-11",
     "by": "Göhlich, Susanne",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0400000",
@@ -817,7 +817,7 @@
     "dueDate": "2025-10-11",
     "by": "De Lon, Nora",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0401831",
@@ -827,7 +827,7 @@
     "dueDate": "2025-10-11",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0403485",
@@ -837,7 +837,7 @@
     "dueDate": "2025-10-11",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0365183",
@@ -847,7 +847,7 @@
     "dueDate": "2025-10-11",
     "by": "Preußler, Otfried",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0344410",
@@ -857,7 +857,7 @@
     "dueDate": "2025-10-11",
     "by": "Steffensmeier, Alexander",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406033",
@@ -867,7 +867,7 @@
     "dueDate": "2025-10-11",
     "by": "Emberley, Ed",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0219184",
@@ -877,6 +877,6 @@
     "dueDate": "2025-10-11",
     "by": "Steffensmeier, Alexander",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   }
 ]
