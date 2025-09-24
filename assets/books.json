@@ -317,7 +317,7 @@
     "dueDate": "2025-10-21",
     "by": "Böhm, Anna",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0413794",
@@ -327,7 +327,7 @@
     "dueDate": "2025-10-21",
     "by": "Andeck, Mara",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0390767",
@@ -397,7 +397,7 @@
     "dueDate": "2025-10-21",
     "by": "Wiedermann, Stefan Adrian",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0372604",
@@ -407,7 +407,7 @@
     "dueDate": "2025-10-21",
     "by": "Blackert, Peter",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0392029",
@@ -417,7 +417,7 @@
     "dueDate": "2025-10-21",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0412706",
@@ -427,7 +427,7 @@
     "dueDate": "2025-10-21",
     "by": "Altendorfer, Alexander",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0417097",
@@ -437,12 +437,12 @@
     "dueDate": "2025-10-21",
     "by": "Hubbard, Arwen",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
-    "id": "HILD.0397214",
+    "id": "HILD.0385718",
     "accountName": "👦 Arne",
-    "name": "Würfelkönig: Das Brettspiel",
+    "name": "Piff Paff & Friends",
     "renewed": 1,
     "dueDate": "2025-09-27",
     "by": "",
@@ -480,6 +480,16 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0397214",
+    "accountName": "👦 Arne",
+    "name": "Würfelkönig: Das Brettspiel",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0229940",
     "accountName": "👦 Arne",
     "name": "Gebäude modernisieren - Energie sparen",
@@ -487,16 +497,6 @@
     "dueDate": "2025-09-27",
     "by": "Burk, Peter",
     "type": "Sachbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0385718",
-    "accountName": "👦 Arne",
-    "name": "Piff Paff & Friends",
-    "renewed": 1,
-    "dueDate": "2025-09-27",
-    "by": "",
-    "type": "Spiel",
     "isRenewable": true
   },
   {
@@ -530,6 +530,16 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0399640",
+    "accountName": "👦 Arne",
+    "name": "Super Pups : der Held mit dem Raketen-Po",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Frey, Franziska",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0405737",
     "accountName": "👦 Arne",
     "name": "Klimasicher bauen und sanieren",
@@ -537,16 +547,6 @@
     "dueDate": "2025-09-27",
     "by": "Bodenmüller, Eva",
     "type": "Sachbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406025",
-    "accountName": "👦 Arne",
-    "name": "Das kann ich auch!",
-    "renewed": 1,
-    "dueDate": "2025-09-27",
-    "by": "Teckentrup, Britta",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -570,6 +570,16 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0406025",
+    "accountName": "👦 Arne",
+    "name": "Das kann ich auch!",
+    "renewed": 1,
+    "dueDate": "2025-09-27",
+    "by": "Teckentrup, Britta",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0406536",
     "accountName": "👦 Arne",
     "name": "Edurino ergonomischer Eingabestift : Farbe: pink",
@@ -577,16 +587,6 @@
     "dueDate": "2025-09-27",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0409889",
-    "accountName": "👦 Arne",
-    "name": "Das Monster vom blauen Planeten",
-    "renewed": 1,
-    "dueDate": "2025-09-27",
-    "by": "Funke, Cornelia",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -610,13 +610,23 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0399640",
+    "id": "HILD.0409889",
     "accountName": "👦 Arne",
-    "name": "Super Pups : der Held mit dem Raketen-Po",
+    "name": "Das Monster vom blauen Planeten",
     "renewed": 1,
     "dueDate": "2025-09-27",
-    "by": "Frey, Franziska",
+    "by": "Funke, Cornelia",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0401831",
+    "accountName": "👦 Arne",
+    "name": "Paw Patrol - Helfer auf vier Pfoten : Der Piratenschatz",
+    "renewed": 0,
+    "dueDate": "2025-10-11",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -637,16 +647,6 @@
     "dueDate": "2025-10-11",
     "by": "Steffensmeier, Alexander",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0401831",
-    "accountName": "👦 Arne",
-    "name": "Paw Patrol - Helfer auf vier Pfoten : Der Piratenschatz",
-    "renewed": 0,
-    "dueDate": "2025-10-11",
-    "by": "",
-    "type": "CD Kinder",
     "isRenewable": true
   },
   {
@@ -720,6 +720,16 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0281546",
+    "accountName": "👦 Arne",
+    "name": "Abenteuer auf der Ritterburg : 4-7 Jahre",
+    "renewed": 0,
+    "dueDate": "2025-10-21",
+    "by": "Richter, Stefan",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0411805",
     "accountName": "👦 Arne",
     "name": "Skye",
@@ -727,7 +737,7 @@
     "dueDate": "2025-10-21",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0413810",
@@ -737,6 +747,6 @@
     "dueDate": "2025-10-21",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   }
 ]
