@@ -33,7 +33,7 @@ const buildTimestampPlugin = () => {
         // Add timestamp to the top of the body
         content = content.replace(
           "<body>",
-          `<body>\n    <div style="position: fixed; top: 0; left: 0; right: 0; background: #333; color: white; text-align: center; padding: 2px; font-size: 10px; z-index: 9999;">Build: ${timestamp}</div>`
+          `<body>\n    <div style="position: absolute; top: 0; left: 0; right: 0; background: #333; color: white; text-align: center; padding: 2px; font-size: 12px; z-index: 9999;">Build: ${timestamp}</div>`
         );
 
         writeFileSync(indexPath, content);
