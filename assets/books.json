@@ -458,5 +458,385 @@
     "by": "",
     "type": "",
     "isRenewable": true
+  },
+  {
+    "id": "HILD.0354563",
+    "accountName": "💪 Maarten",
+    "name": "Mocktails : drinks to drive : ohne Alkohol: coole Cocktails mit Kräutern und Früchten",
+    "renewed": 1,
+    "dueDate": "2025-10-21",
+    "by": "Wiedermann, Stefan Adrian",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0417097",
+    "accountName": "💪 Maarten",
+    "name": "Entdecke das Weltall : fantastische Bauideen und spannendes Wissen über unser Universum",
+    "renewed": 1,
+    "dueDate": "2025-10-21",
+    "by": "Hubbard, Arwen",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0372604",
+    "accountName": "💪 Maarten",
+    "name": "Lego-Autos bauen!",
+    "renewed": 1,
+    "dueDate": "2025-10-21",
+    "by": "Blackert, Peter",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0412706",
+    "accountName": "💪 Maarten",
+    "name": "LEGO-Filme mit Stop Motion : Kreative Filme mit LEGO-Figuren : vom Setaufbau über Spezialeffekte bis zur Nachbereitung",
+    "renewed": 1,
+    "dueDate": "2025-10-21",
+    "by": "Altendorfer, Alexander",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0418572",
+    "accountName": "💪 Maarten",
+    "name": "",
+    "renewed": 0,
+    "dueDate": "2025-11-05",
+    "by": "",
+    "type": "",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0414762",
+    "accountName": "💪 Maarten",
+    "name": "Kleiner Papa - grosser Papa",
+    "renewed": 0,
+    "dueDate": "2025-11-05",
+    "by": "Neumeier, Moritz",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411067",
+    "accountName": "💪 Maarten",
+    "name": "Die Traumspinnerin",
+    "renewed": 0,
+    "dueDate": "2025-11-05",
+    "by": "Veenstra, Simone",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0233512",
+    "accountName": "💪 Maarten",
+    "name": "Elmar und die Farben (Dt.-Franz.)",
+    "renewed": 0,
+    "dueDate": "2025-11-05",
+    "by": "McKee, David",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0393956",
+    "accountName": "💪 Maarten",
+    "name": "Furzipups, der Knatterdrache",
+    "renewed": 0,
+    "dueDate": "2025-11-05",
+    "by": "Lüftner, Kai",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0384544",
+    "accountName": "💪 Maarten",
+    "name": "Herr Krake räumt das Meer auf",
+    "renewed": 0,
+    "dueDate": "2025-11-05",
+    "by": "Rose, Barbara",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0417013",
+    "accountName": "💪 Maarten",
+    "name": "Furzipups und Lulu Lavazunge",
+    "renewed": 0,
+    "dueDate": "2025-11-05",
+    "by": "Lüftner, Kai",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0406104",
+    "accountName": "💪 Maarten",
+    "name": "Winter find ich gar nicht toll",
+    "renewed": 0,
+    "dueDate": "2025-11-05",
+    "by": "Barker, Fiona",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0384481",
+    "accountName": "💪 Maarten",
+    "name": "Monsterpost",
+    "renewed": 0,
+    "dueDate": "2025-11-05",
+    "by": "Yarlett, Emma",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0375383",
+    "accountName": "💪 Maarten",
+    "name": "Sternenstaub : glaub an dich und du findest den Weg zu den Sternen",
+    "renewed": 0,
+    "dueDate": "2025-11-05",
+    "by": "Willis, Jeanne",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0363841",
+    "accountName": "💪 Maarten",
+    "name": "Der große Zahnputztag im Zoo",
+    "renewed": 0,
+    "dueDate": "2025-11-05",
+    "by": "Schoenwald, Sophie",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0360791",
+    "accountName": "💪 Maarten",
+    "name": "Nulli und Priesemut sind krank",
+    "renewed": 0,
+    "dueDate": "2025-11-05",
+    "by": "Sodtke, Matthias",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0405974",
+    "accountName": "💪 Maarten",
+    "name": "Lou im Monsterzirkus",
+    "renewed": 0,
+    "dueDate": "2025-11-05",
+    "by": "Schmuck, Dorothea",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0410731",
+    "accountName": "💪 Maarten",
+    "name": "Tiere : Schritt für Schritt zum LEGO Baumeister",
+    "renewed": 0,
+    "dueDate": "2025-11-11",
+    "by": "Dolan, Hannah",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0216945",
+    "accountName": "💪 Maarten",
+    "name": "SOS Wildwasser",
+    "renewed": 0,
+    "dueDate": "2025-11-11",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0403462",
+    "accountName": "💪 Maarten",
+    "name": "Das neue LEGO Ideen Buch",
+    "renewed": 0,
+    "dueDate": "2025-11-11",
+    "by": "Dolan, Hannah",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0398597",
+    "accountName": "💪 Maarten",
+    "name": "Rollbrett",
+    "renewed": 0,
+    "dueDate": "2025-11-11",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0389393",
+    "accountName": "💪 Maarten",
+    "name": "Käpt'n Kuller",
+    "renewed": 0,
+    "dueDate": "2025-11-11",
+    "by": "Hiese, Kirsten",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0385289",
+    "accountName": "💪 Maarten",
+    "name": "Große Räder, kleine Räder",
+    "renewed": 1,
+    "dueDate": "2025-11-11",
+    "by": "Lindemann, Christian",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0368274",
+    "accountName": "💪 Maarten",
+    "name": "Winter im Wichtelwald",
+    "renewed": 1,
+    "dueDate": "2025-11-11",
+    "by": "Kaden, Outi",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0398597",
+    "accountName": "💪 Maarten",
+    "name": "Rollbrett",
+    "renewed": 0,
+    "dueDate": "2025-11-11",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411484",
+    "accountName": "💪 Maarten",
+    "name": "Die 7 Prinzipien für eine gesunde Ernährung",
+    "renewed": 1,
+    "dueDate": "2025-11-12",
+    "by": "Medhurst, Jennifer",
+    "type": "Sachbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0411627",
+    "accountName": "💪 Maarten",
+    "name": "Gesunder Darm : das Kochbuch",
+    "renewed": 1,
+    "dueDate": "2025-11-12",
+    "by": "Riedl, Matthias",
+    "type": "Sachbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0390248",
+    "accountName": "💪 Maarten",
+    "name": "Kochen für den Vorrat",
+    "renewed": 1,
+    "dueDate": "2025-11-12",
+    "by": "Kittler, Martina",
+    "type": "Sachbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0411805",
+    "accountName": "👦 Arne",
+    "name": "Skye",
+    "renewed": 0,
+    "dueDate": "2025-10-21",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0281546",
+    "accountName": "👦 Arne",
+    "name": "Abenteuer auf der Ritterburg : 4-7 Jahre",
+    "renewed": 0,
+    "dueDate": "2025-10-21",
+    "by": "Richter, Stefan",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0413810",
+    "accountName": "👦 Arne",
+    "name": "Marvel Spidey und seine Super-Freunde : Raketen-Rhino & 3 weitere spannende Abenteuer",
+    "renewed": 0,
+    "dueDate": "2025-10-21",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0365183",
+    "accountName": "👦 Arne",
+    "name": "Tonie 72 - Das kleine Gespenst",
+    "renewed": 1,
+    "dueDate": "2025-11-05",
+    "by": "Preußler, Otfried",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0400000",
+    "accountName": "👦 Arne",
+    "name": "Die Fellfreunde auf tierischer Mission",
+    "renewed": 1,
+    "dueDate": "2025-11-05",
+    "by": "De Lon, Nora",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0401831",
+    "accountName": "👦 Arne",
+    "name": "Paw Patrol - Helfer auf vier Pfoten : Der Piratenschatz",
+    "renewed": 1,
+    "dueDate": "2025-11-05",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0403485",
+    "accountName": "👦 Arne",
+    "name": "Pengoloo",
+    "renewed": 1,
+    "dueDate": "2025-11-05",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0373456",
+    "accountName": "👦 Arne",
+    "name": "Just One",
+    "renewed": 2,
+    "dueDate": "2025-11-08",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0409394",
+    "accountName": "👦 Arne",
+    "name": "Zeig ́s mir Baby! : Babygeführte vollwertige Beikost",
+    "renewed": 2,
+    "dueDate": "2025-11-08",
+    "by": "Lobis, Maria",
+    "type": "Sachbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0410118",
+    "accountName": "👦 Arne",
+    "name": "Liberty findet einen neuen Freund",
+    "renewed": 1,
+    "dueDate": "2025-11-12",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
   }
 ]
