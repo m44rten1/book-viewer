@@ -1,141 +1,31 @@
 [
   {
-    "id": "HILD.0418599",
+    "id": "HILD.0167740",
     "accountName": "❤️ Maren",
-    "name": "Entdecke die Giraffen",
-    "renewed": 1,
-    "dueDate": "2025-12-06",
-    "by": "Rduch, Vera",
+    "name": "Kleine Adventsgeschichten zum Vorlesen",
+    "renewed": 2,
+    "dueDate": "2025-12-13",
+    "by": "Vogel, Maja von",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
+    "isRenewable": false
   },
   {
-    "id": "HILD.0415580",
+    "id": "HILD.0388586",
     "accountName": "❤️ Maren",
-    "name": "Bibi Blocksberg - Englisch lernen",
-    "renewed": 1,
-    "dueDate": "2025-12-06",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0378409",
-    "accountName": "❤️ Maren",
-    "name": "Die Schnetts und die Schmoos",
-    "renewed": 1,
-    "dueDate": "2025-12-06",
-    "by": "Scheffler, Axel",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0376512",
-    "accountName": "❤️ Maren",
-    "name": "Luis und das Gute-Laune-Monster",
-    "renewed": 1,
-    "dueDate": "2025-12-06",
-    "by": "Lückel, Kristin",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0367092",
-    "accountName": "❤️ Maren",
-    "name": "Kleines Nashorn, wo fährst du hin?",
-    "renewed": 1,
-    "dueDate": "2025-12-06",
-    "by": "McKinlay, Meg",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0391699",
-    "accountName": "❤️ Maren",
-    "name": "Du, Papa ... ist zehn viel?",
-    "renewed": 1,
-    "dueDate": "2025-12-06",
-    "by": "Bohlmann, Sabine",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0362653",
-    "accountName": "❤️ Maren",
-    "name": "Tonie 56 - Unter meinem Bett",
-    "renewed": 1,
-    "dueDate": "2025-12-06",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0414470",
-    "accountName": "❤️ Maren",
-    "name": "Madagascar : Das Original-Hörspiel zum Kinofilm",
-    "renewed": 1,
-    "dueDate": "2025-12-06",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0392272",
-    "accountName": "❤️ Maren",
-    "name": "Lumi Schneefuchs sucht das Wunderlicht",
-    "renewed": 1,
-    "dueDate": "2025-12-06",
-    "by": "Reider, Katja",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0417094",
-    "accountName": "❤️ Maren",
-    "name": "Kunterbunte Tiere kneten : ganz einfach aus drei Grundformen : ab 4 Jahren",
+    "name": "Tief im Ozean",
     "renewed": 0,
     "dueDate": "2025-12-13",
-    "by": "Cuxart, Bernadette",
+    "by": "Hare, John",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
-    "id": "HILD.0418191",
+    "id": "HILD.0418327",
     "accountName": "❤️ Maren",
-    "name": "mini LÜK - Was ist was - Planeten : lesen, rechnen, konzentrieren : 1./2. Klasse",
+    "name": "Der Sonnendieb",
     "renewed": 0,
     "dueDate": "2025-12-13",
-    "by": "Bierwald, Wibke",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0418195",
-    "accountName": "❤️ Maren",
-    "name": "Vernetztes Denken trainieren : Fördern & Fordern - 2.-4. Klasse",
-    "renewed": 0,
-    "dueDate": "2025-12-13",
-    "by": "Junga, Michael",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0413178",
-    "accountName": "❤️ Maren",
-    "name": "Dieser Tag ist schwer, denkt der Bär",
-    "renewed": 0,
-    "dueDate": "2025-12-13",
-    "by": "Beedie, Duncan",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0418196",
-    "accountName": "❤️ Maren",
-    "name": "LÜK - Mein 1. Schuljahr : Lesen, Rechnen, Merkfähigkeit : Schulanfang - 1. Klasse : Doppelband",
-    "renewed": 0,
-    "dueDate": "2025-12-13",
-    "by": "Engelke, Mareike",
+    "by": "Hemming, Alice",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -150,12 +40,52 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0418327",
+    "id": "HILD.0418196",
     "accountName": "❤️ Maren",
-    "name": "Der Sonnendieb",
+    "name": "LÜK - Mein 1. Schuljahr : Lesen, Rechnen, Merkfähigkeit : Schulanfang - 1. Klasse : Doppelband",
     "renewed": 0,
     "dueDate": "2025-12-13",
-    "by": "Hemming, Alice",
+    "by": "Engelke, Mareike",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0418195",
+    "accountName": "❤️ Maren",
+    "name": "Vernetztes Denken trainieren : Fördern & Fordern - 2.-4. Klasse",
+    "renewed": 0,
+    "dueDate": "2025-12-13",
+    "by": "Junga, Michael",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0418191",
+    "accountName": "❤️ Maren",
+    "name": "mini LÜK - Was ist was - Planeten : lesen, rechnen, konzentrieren : 1./2. Klasse",
+    "renewed": 0,
+    "dueDate": "2025-12-13",
+    "by": "Bierwald, Wibke",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0417094",
+    "accountName": "❤️ Maren",
+    "name": "Kunterbunte Tiere kneten : ganz einfach aus drei Grundformen : ab 4 Jahren",
+    "renewed": 0,
+    "dueDate": "2025-12-13",
+    "by": "Cuxart, Bernadette",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0413178",
+    "accountName": "❤️ Maren",
+    "name": "Dieser Tag ist schwer, denkt der Bär",
+    "renewed": 0,
+    "dueDate": "2025-12-13",
+    "by": "Beedie, Duncan",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -210,13 +140,23 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0167740",
+    "id": "HILD.0168133",
     "accountName": "❤️ Maren",
-    "name": "Kleine Adventsgeschichten zum Vorlesen",
+    "name": "Adventskalender-Geschichten : 24 Geschichten zum Vorlesen",
     "renewed": 2,
     "dueDate": "2025-12-13",
-    "by": "Vogel, Maja von",
+    "by": "Scheffler, Ursel",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0388736",
+    "accountName": "❤️ Maren",
+    "name": "Elmar : Kunterbunte Geschichten",
+    "renewed": 2,
+    "dueDate": "2025-12-13",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": false
   },
   {
@@ -230,12 +170,12 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0360035",
+    "id": "HILD.0385766",
     "accountName": "❤️ Maren",
-    "name": "Das Buch von Monstrox",
+    "name": "Einstein : die fantastische Reise einer Maus durch Raum und Zeit",
     "renewed": 0,
     "dueDate": "2025-12-13",
-    "by": "Derevlany, John",
+    "by": "Kuhlmann, Torben",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -290,26 +230,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0363569",
-    "accountName": "❤️ Maren",
-    "name": "Kleines Monster, komm da raus!",
-    "renewed": 0,
-    "dueDate": "2025-12-13",
-    "by": "Fletcher, Tom",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0168133",
-    "accountName": "❤️ Maren",
-    "name": "Adventskalender-Geschichten : 24 Geschichten zum Vorlesen",
-    "renewed": 2,
-    "dueDate": "2025-12-13",
-    "by": "Scheffler, Ursel",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0366266",
     "accountName": "❤️ Maren",
     "name": "LÜK Lösungsgerät : Das große LÜK Kontrollgerät mit 24 Aufgabenplättchen für alle LÜK Hefte",
@@ -317,6 +237,16 @@
     "dueDate": "2025-12-13",
     "by": "",
     "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0363569",
+    "accountName": "❤️ Maren",
+    "name": "Kleines Monster, komm da raus!",
+    "renewed": 0,
+    "dueDate": "2025-12-13",
+    "by": "Fletcher, Tom",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -330,34 +260,14 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0385766",
+    "id": "HILD.0360035",
     "accountName": "❤️ Maren",
-    "name": "Einstein : die fantastische Reise einer Maus durch Raum und Zeit",
+    "name": "Das Buch von Monstrox",
     "renewed": 0,
     "dueDate": "2025-12-13",
-    "by": "Kuhlmann, Torben",
+    "by": "Derevlany, John",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
-  },
-  {
-    "id": "HILD.0388586",
-    "accountName": "❤️ Maren",
-    "name": "Tief im Ozean",
-    "renewed": 0,
-    "dueDate": "2025-12-13",
-    "by": "Hare, John",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0388736",
-    "accountName": "❤️ Maren",
-    "name": "Elmar : Kunterbunte Geschichten",
-    "renewed": 2,
-    "dueDate": "2025-12-13",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": false
   },
   {
     "id": "HILD.0391526",
@@ -370,12 +280,52 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0415580",
+    "accountName": "❤️ Maren",
+    "name": "Bibi Blocksberg - Englisch lernen",
+    "renewed": 2,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
     "id": "HILD.0350847",
     "accountName": "❤️ Maren",
     "name": "Der Ritterkodex : das Handbuch für Helden",
     "renewed": 1,
     "dueDate": "2026-01-10",
     "by": "Derevlany, John",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0362653",
+    "accountName": "❤️ Maren",
+    "name": "Tonie 56 - Unter meinem Bett",
+    "renewed": 2,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0414470",
+    "accountName": "❤️ Maren",
+    "name": "Madagascar : Das Original-Hörspiel zum Kinofilm",
+    "renewed": 2,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0367092",
+    "accountName": "❤️ Maren",
+    "name": "Kleines Nashorn, wo fährst du hin?",
+    "renewed": 2,
+    "dueDate": "2026-01-10",
+    "by": "McKinlay, Meg",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -387,76 +337,66 @@
     "dueDate": "2026-01-10",
     "by": "Sörensen, Hanna",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0216945",
-    "accountName": "💪 Maarten",
-    "name": "SOS Wildwasser",
-    "renewed": 1,
-    "dueDate": "2025-12-06",
-    "by": "",
-    "type": "Spiel",
     "isRenewable": true
   },
   {
-    "id": "HILD.0389393",
-    "accountName": "💪 Maarten",
-    "name": "Käpt'n Kuller",
-    "renewed": 1,
-    "dueDate": "2025-12-06",
-    "by": "Hiese, Kirsten",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0368274",
-    "accountName": "💪 Maarten",
-    "name": "Winter im Wichtelwald",
+    "id": "HILD.0376512",
+    "accountName": "❤️ Maren",
+    "name": "Luis und das Gute-Laune-Monster",
     "renewed": 2,
-    "dueDate": "2025-12-06",
-    "by": "Kaden, Outi",
+    "dueDate": "2026-01-10",
+    "by": "Lückel, Kristin",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
-    "id": "HILD.0385289",
-    "accountName": "💪 Maarten",
-    "name": "Große Räder, kleine Räder",
+    "id": "HILD.0392272",
+    "accountName": "❤️ Maren",
+    "name": "Lumi Schneefuchs sucht das Wunderlicht",
     "renewed": 2,
-    "dueDate": "2025-12-06",
-    "by": "Lindemann, Christian",
+    "dueDate": "2026-01-10",
+    "by": "Reider, Katja",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
-    "id": "HILD.0410741",
-    "accountName": "💪 Maarten",
-    "name": "Sport - Lexikon für Kids",
-    "renewed": 0,
-    "dueDate": "2025-12-17",
-    "by": "",
+    "id": "HILD.0391699",
+    "accountName": "❤️ Maren",
+    "name": "Du, Papa ... ist zehn viel?",
+    "renewed": 2,
+    "dueDate": "2026-01-10",
+    "by": "Bohlmann, Sabine",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
+    "isRenewable": false
   },
   {
-    "id": "HILD.0410732",
-    "accountName": "💪 Maarten",
-    "name": "Sport : mit 60 Klappen",
-    "renewed": 0,
-    "dueDate": "2025-12-17",
-    "by": "Tognetti, Stefano",
+    "id": "HILD.0378409",
+    "accountName": "❤️ Maren",
+    "name": "Die Schnetts und die Schmoos",
+    "renewed": 2,
+    "dueDate": "2026-01-10",
+    "by": "Scheffler, Axel",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
+    "isRenewable": false
   },
   {
-    "id": "HILD.0404612",
+    "id": "HILD.0418599",
+    "accountName": "❤️ Maren",
+    "name": "Entdecke die Giraffen",
+    "renewed": 2,
+    "dueDate": "2026-01-10",
+    "by": "Rduch, Vera",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0392877",
     "accountName": "💪 Maarten",
-    "name": "Na klar, Lotta kann Rad fahren und eine weitere Geschichte",
+    "name": "Steine bemalen für Kids : kunterbunt, eckig, rund : über 70 Motive und viele lustige Spielideen",
     "renewed": 0,
     "dueDate": "2025-12-17",
-    "by": "",
-    "type": "CD Kinder",
+    "by": "Wunschel, Simone",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -490,6 +430,36 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0361044",
+    "accountName": "💪 Maarten",
+    "name": "Tonie 31 -  Oh, wie schön ist Panama : Hörspiel ab 4 Jahren",
+    "renewed": 0,
+    "dueDate": "2025-12-17",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0362664",
+    "accountName": "💪 Maarten",
+    "name": "Tonie 59 - Ich mach Dich gesund, sagte der Bär",
+    "renewed": 0,
+    "dueDate": "2025-12-17",
+    "by": "Janosch",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0363564",
+    "accountName": "💪 Maarten",
+    "name": "Eins, zwei, drei, Vampir",
+    "renewed": 0,
+    "dueDate": "2025-12-17",
+    "by": "Budde, Nadia",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0391688",
     "accountName": "💪 Maarten",
     "name": "Das große Buch von Lotta",
@@ -510,39 +480,9 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0392877",
+    "id": "HILD.0404612",
     "accountName": "💪 Maarten",
-    "name": "Steine bemalen für Kids : kunterbunt, eckig, rund : über 70 Motive und viele lustige Spielideen",
-    "renewed": 0,
-    "dueDate": "2025-12-17",
-    "by": "Wunschel, Simone",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0363564",
-    "accountName": "💪 Maarten",
-    "name": "Eins, zwei, drei, Vampir",
-    "renewed": 0,
-    "dueDate": "2025-12-17",
-    "by": "Budde, Nadia",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0362664",
-    "accountName": "💪 Maarten",
-    "name": "Tonie 59 - Ich mach Dich gesund, sagte der Bär",
-    "renewed": 0,
-    "dueDate": "2025-12-17",
-    "by": "Janosch",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0361044",
-    "accountName": "💪 Maarten",
-    "name": "Tonie 31 -  Oh, wie schön ist Panama : Hörspiel ab 4 Jahren",
+    "name": "Na klar, Lotta kann Rad fahren und eine weitere Geschichte",
     "renewed": 0,
     "dueDate": "2025-12-17",
     "by": "",
@@ -550,22 +490,92 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0384481",
+    "id": "HILD.0410741",
     "accountName": "💪 Maarten",
-    "name": "Monsterpost",
+    "name": "Sport - Lexikon für Kids",
+    "renewed": 0,
+    "dueDate": "2025-12-17",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0410732",
+    "accountName": "💪 Maarten",
+    "name": "Sport : mit 60 Klappen",
+    "renewed": 0,
+    "dueDate": "2025-12-17",
+    "by": "Tognetti, Stefano",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0409394",
+    "accountName": "💪 Maarten",
+    "name": "Zeig ́s mir Baby! : Babygeführte vollwertige Beikost",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "Lobis, Maria",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411067",
+    "accountName": "💪 Maarten",
+    "name": "Die Traumspinnerin",
     "renewed": 2,
     "dueDate": "2026-01-10",
-    "by": "Yarlett, Emma",
+    "by": "Veenstra, Simone",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
   {
-    "id": "HILD.0233512",
+    "id": "HILD.0409876",
     "accountName": "💪 Maarten",
-    "name": "Elmar und die Farben (Dt.-Franz.)",
+    "name": "Lotta entdeckt die Welt im Sommer",
+    "renewed": 0,
+    "dueDate": "2026-01-10",
+    "by": "Grimm, Sandra",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0414762",
+    "accountName": "💪 Maarten",
+    "name": "Kleiner Papa - grosser Papa",
     "renewed": 2,
     "dueDate": "2026-01-10",
-    "by": "McKee, David",
+    "by": "Neumeier, Moritz",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0415958",
+    "accountName": "💪 Maarten",
+    "name": "Warum sich auch Monster fürchten",
+    "renewed": 0,
+    "dueDate": "2026-01-10",
+    "by": "Martinello, Jessica",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0415989",
+    "accountName": "💪 Maarten",
+    "name": "Das neue Haus : Kinder bei Veränderungen positiv begleiten",
+    "renewed": 0,
+    "dueDate": "2026-01-10",
+    "by": "Fawcett, Sally",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0417013",
+    "accountName": "💪 Maarten",
+    "name": "Furzipups und Lulu Lavazunge",
+    "renewed": 2,
+    "dueDate": "2026-01-10",
+    "by": "Lüftner, Kai",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -580,42 +590,112 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0417013",
-    "accountName": "💪 Maarten",
-    "name": "Furzipups und Lulu Lavazunge",
-    "renewed": 2,
-    "dueDate": "2026-01-10",
-    "by": "Lüftner, Kai",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0414762",
-    "accountName": "💪 Maarten",
-    "name": "Kleiner Papa - grosser Papa",
-    "renewed": 2,
-    "dueDate": "2026-01-10",
-    "by": "Neumeier, Moritz",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0411067",
-    "accountName": "💪 Maarten",
-    "name": "Die Traumspinnerin",
-    "renewed": 2,
-    "dueDate": "2026-01-10",
-    "by": "Veenstra, Simone",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0405974",
     "accountName": "💪 Maarten",
     "name": "Lou im Monsterzirkus",
     "renewed": 2,
     "dueDate": "2026-01-10",
     "by": "Schmuck, Dorothea",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0216945",
+    "accountName": "💪 Maarten",
+    "name": "SOS Wildwasser",
+    "renewed": 2,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0404328",
+    "accountName": "💪 Maarten",
+    "name": "Donky Pong",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0403763",
+    "accountName": "💪 Maarten",
+    "name": "Kombihammer : Makita HR2631FT13",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0389393",
+    "accountName": "💪 Maarten",
+    "name": "Käpt'n Kuller",
+    "renewed": 2,
+    "dueDate": "2026-01-10",
+    "by": "Hiese, Kirsten",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0386501",
+    "accountName": "💪 Maarten",
+    "name": "Harry Potter und der Stein der Weisen : (Farbig illustrierte Ausgabe)",
+    "renewed": 0,
+    "dueDate": "2026-01-10",
+    "by": "Rowling, J.K",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0384481",
+    "accountName": "💪 Maarten",
+    "name": "Monsterpost",
+    "renewed": 2,
+    "dueDate": "2026-01-10",
+    "by": "Yarlett, Emma",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0383933",
+    "accountName": "💪 Maarten",
+    "name": "Im Zoo : ein lustiges Gucklochbuch",
+    "renewed": 0,
+    "dueDate": "2026-01-10",
+    "by": "Grimm, Sandra",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0380750",
+    "accountName": "💪 Maarten",
+    "name": "Harry Potter : Magical Beasts Boardgame",
+    "renewed": 0,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0375383",
+    "accountName": "💪 Maarten",
+    "name": "Sternenstaub : glaub an dich und du findest den Weg zu den Sternen",
+    "renewed": 2,
+    "dueDate": "2026-01-10",
+    "by": "Willis, Jeanne",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0363841",
+    "accountName": "💪 Maarten",
+    "name": "Der große Zahnputztag im Zoo",
+    "renewed": 2,
+    "dueDate": "2026-01-10",
+    "by": "Schoenwald, Sophie",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -630,52 +710,22 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0409394",
+    "id": "HILD.0358963",
     "accountName": "💪 Maarten",
-    "name": "Zeig ́s mir Baby! : Babygeführte vollwertige Beikost",
-    "renewed": 1,
+    "name": "Mit einer Katze nach Paris",
+    "renewed": 0,
     "dueDate": "2026-01-10",
-    "by": "Lobis, Maria",
-    "type": "Sachbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0375383",
-    "accountName": "💪 Maarten",
-    "name": "Sternenstaub : glaub an dich und du findest den Weg zu den Sternen",
-    "renewed": 2,
-    "dueDate": "2026-01-10",
-    "by": "Willis, Jeanne",
+    "by": "Glitz, Angelika",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
-    "id": "HILD.0404328",
+    "id": "HILD.0233512",
     "accountName": "💪 Maarten",
-    "name": "Donky Pong",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0403763",
-    "accountName": "💪 Maarten",
-    "name": "Kombihammer : Makita HR2631FT13",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0363841",
-    "accountName": "💪 Maarten",
-    "name": "Der große Zahnputztag im Zoo",
+    "name": "Elmar und die Farben (Dt.-Franz.)",
     "renewed": 2,
     "dueDate": "2026-01-10",
-    "by": "Schoenwald, Sophie",
+    "by": "McKee, David",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -687,17 +737,17 @@
     "dueDate": "2026-01-10",
     "by": "Abad¡a, Ximo",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
-    "id": "HILD.0378921",
+    "id": "HILD.0417077",
     "accountName": "👦 Arne",
-    "name": "Harry Potter und der Stein der Weisen",
+    "name": "Gute Nacht Buch : Die optimale Abendlektüre",
     "renewed": 0,
-    "dueDate": "2025-12-02",
-    "by": "Rowling, J. K.",
+    "dueDate": "2025-12-13",
+    "by": "Tourlonias, Joëlle",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0413810",
@@ -730,26 +780,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0411805",
-    "accountName": "👦 Arne",
-    "name": "Skye",
-    "renewed": 2,
-    "dueDate": "2025-12-13",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0417077",
-    "accountName": "👦 Arne",
-    "name": "Gute Nacht Buch : Die optimale Abendlektüre",
-    "renewed": 0,
-    "dueDate": "2025-12-13",
-    "by": "Tourlonias, Joëlle",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0348287",
     "accountName": "👦 Arne",
     "name": "Armstrong : die abenteuerliche Reise einer Maus zum Mond",
@@ -760,9 +790,19 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0416567",
+    "id": "HILD.0411805",
     "accountName": "👦 Arne",
-    "name": "Jumbo Domino",
+    "name": "Skye",
+    "renewed": 2,
+    "dueDate": "2025-12-13",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0411383",
+    "accountName": "👦 Arne",
+    "name": "Mini Torso",
     "renewed": 0,
     "dueDate": "2025-12-23",
     "by": "",
@@ -780,16 +820,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0411383",
-    "accountName": "👦 Arne",
-    "name": "Mini Torso",
-    "renewed": 0,
-    "dueDate": "2025-12-23",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0347979",
     "accountName": "👦 Arne",
     "name": "Meine Tiere in Schnee und Eis",
@@ -797,6 +827,16 @@
     "dueDate": "2025-12-23",
     "by": "Kern, Stefanie",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0416567",
+    "accountName": "👦 Arne",
+    "name": "Jumbo Domino",
+    "renewed": 0,
+    "dueDate": "2025-12-23",
+    "by": "",
+    "type": "Serviceartikel",
     "isRenewable": true
   },
   {
@@ -817,77 +857,7 @@
     "dueDate": "2026-01-10",
     "by": "Olten, Manuela",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0411627",
-    "accountName": "👦 Arne",
-    "name": "Gesunder Darm : das Kochbuch",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "Riedl, Matthias",
-    "type": "Sachbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0411484",
-    "accountName": "👦 Arne",
-    "name": "Die 7 Prinzipien für eine gesunde Ernährung",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "Medhurst, Jennifer",
-    "type": "Sachbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0408061",
-    "accountName": "👦 Arne",
-    "name": "Lesen lernen mit dem Einhorn",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "Gwiasda, Antonia",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0407879",
-    "accountName": "👦 Arne",
-    "name": "Der Weltraum : Raumfahrt, Sterne und Planeten",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "Büker, Michael",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0401258",
-    "accountName": "👦 Arne",
-    "name": "Hier kommt Spider-Man",
-    "renewed": 0,
-    "dueDate": "2026-01-10",
-    "by": "Rösch, Alexander",
-    "type": "Comics / Mangas",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0396262",
-    "accountName": "👦 Arne",
-    "name": "Paw Patrol : Schneller als die Feuerwehr und 4 spannende Abenteuer",
-    "renewed": 0,
-    "dueDate": "2026-01-10",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0217437",
-    "accountName": "👦 Arne",
-    "name": "Wir erforschen die Dinosaurier",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "Weinhold, Angela",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0390248",
@@ -897,7 +867,77 @@
     "dueDate": "2026-01-10",
     "by": "Kittler, Martina",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411484",
+    "accountName": "👦 Arne",
+    "name": "Die 7 Prinzipien für eine gesunde Ernährung",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "Medhurst, Jennifer",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0408061",
+    "accountName": "👦 Arne",
+    "name": "Lesen lernen mit dem Einhorn",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "Gwiasda, Antonia",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0407879",
+    "accountName": "👦 Arne",
+    "name": "Der Weltraum : Raumfahrt, Sterne und Planeten",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "Büker, Michael",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0401258",
+    "accountName": "👦 Arne",
+    "name": "Hier kommt Spider-Man",
+    "renewed": 0,
+    "dueDate": "2026-01-10",
+    "by": "Rösch, Alexander",
+    "type": "Comics / Mangas",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0396262",
+    "accountName": "👦 Arne",
+    "name": "Paw Patrol : Schneller als die Feuerwehr und 4 spannende Abenteuer",
+    "renewed": 0,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0411627",
+    "accountName": "👦 Arne",
+    "name": "Gesunder Darm : das Kochbuch",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "Riedl, Matthias",
+    "type": "Sachbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0217437",
+    "accountName": "👦 Arne",
+    "name": "Wir erforschen die Dinosaurier",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "Weinhold, Angela",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
   },
   {
     "id": "HILD.0389182",
@@ -907,7 +947,7 @@
     "dueDate": "2026-01-10",
     "by": "Dougherty, Kerrie",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0386119",
@@ -917,117 +957,7 @@
     "dueDate": "2026-01-10",
     "by": "Hidalgo, Carolin",
     "type": "Comics / Mangas",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0375108",
-    "accountName": "👦 Arne",
-    "name": "miniLÜK Lösungsgerät : Kontrollgerät mit Klarsichtteil und 12 Aufgabenplättchen für alle miniLÜK-Übungshefte",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0370500",
-    "accountName": "👦 Arne",
-    "name": "Spider-Man : mein erster Comic",
-    "renewed": 0,
-    "dueDate": "2026-01-10",
-    "by": "Tobin, Paul",
-    "type": "Comics / Mangas",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0366213",
-    "accountName": "👦 Arne",
-    "name": "Vitaminchen : Übungen zur gesunden Ernährung",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0366181",
-    "accountName": "👦 Arne",
-    "name": "Das kleine Lesefrühstück 1 : Laute und Wörter",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0366179",
-    "accountName": "👦 Arne",
-    "name": "Lesen lernen mit der Maus : Einfache Buchstaben und Wörter für Vorschulkinder",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0366177",
-    "accountName": "👦 Arne",
-    "name": "Das Ohren-ABC von L bis Z : Sprech- und Hörübungen zum Lesenlernen",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0366176",
-    "accountName": "👦 Arne",
-    "name": "Das Ohren-ABC von A bis K : Sprech- und Hörübungen zum Lesenlernen",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0366163",
-    "accountName": "👦 Arne",
-    "name": "Ich freue mich auf die Schule : Vorbereitende Übungen zum Rechnenlernen",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0366158",
-    "accountName": "👦 Arne",
-    "name": "Verkehrskunde mit der Maus : Sicher im Straßenverkehr",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0365458",
-    "accountName": "👦 Arne",
-    "name": "Mit Lisa und Ben durch das Jahr : Vorschultraining",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0365456",
-    "accountName": "👦 Arne",
-    "name": "Lisa und Ben im Kindergarten : Vorschultraining",
-    "renewed": 1,
-    "dueDate": "2026-01-10",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0380302",
@@ -1037,6 +967,126 @@
     "dueDate": "2026-01-10",
     "by": "Hare, Rachael",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0370500",
+    "accountName": "👦 Arne",
+    "name": "Spider-Man : mein erster Comic",
+    "renewed": 0,
+    "dueDate": "2026-01-10",
+    "by": "Tobin, Paul",
+    "type": "Comics / Mangas",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0368274",
+    "accountName": "👦 Arne",
+    "name": "Winter im Wichtelwald",
+    "renewed": 0,
+    "dueDate": "2026-01-10",
+    "by": "Kaden, Outi",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0366213",
+    "accountName": "👦 Arne",
+    "name": "Vitaminchen : Übungen zur gesunden Ernährung",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0366181",
+    "accountName": "👦 Arne",
+    "name": "Das kleine Lesefrühstück 1 : Laute und Wörter",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0366179",
+    "accountName": "👦 Arne",
+    "name": "Lesen lernen mit der Maus : Einfache Buchstaben und Wörter für Vorschulkinder",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0366177",
+    "accountName": "👦 Arne",
+    "name": "Das Ohren-ABC von L bis Z : Sprech- und Hörübungen zum Lesenlernen",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0366176",
+    "accountName": "👦 Arne",
+    "name": "Das Ohren-ABC von A bis K : Sprech- und Hörübungen zum Lesenlernen",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0366163",
+    "accountName": "👦 Arne",
+    "name": "Ich freue mich auf die Schule : Vorbereitende Übungen zum Rechnenlernen",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0366158",
+    "accountName": "👦 Arne",
+    "name": "Verkehrskunde mit der Maus : Sicher im Straßenverkehr",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0365458",
+    "accountName": "👦 Arne",
+    "name": "Mit Lisa und Ben durch das Jahr : Vorschultraining",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0365456",
+    "accountName": "👦 Arne",
+    "name": "Lisa und Ben im Kindergarten : Vorschultraining",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0375108",
+    "accountName": "👦 Arne",
+    "name": "miniLÜK Lösungsgerät : Kontrollgerät mit Klarsichtteil und 12 Aufgabenplättchen für alle miniLÜK-Übungshefte",
+    "renewed": 1,
+    "dueDate": "2026-01-10",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
   }
 ]
