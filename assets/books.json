@@ -187,7 +187,7 @@
     "dueDate": "2026-02-10",
     "by": "Zevin, Gabrielle",
     "type": "Roman",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0380750",
@@ -350,94 +350,24 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0378264",
+    "id": "HILD.0217437",
     "accountName": "👦 Arne",
-    "name": "Was geschieht auf der Baustelle? : mit vielen spannenden Klappen",
-    "renewed": 0,
-    "dueDate": "2026-01-17",
-    "by": "Gellersen, Ruth",
+    "name": "Wir erforschen die Dinosaurier",
+    "renewed": 2,
+    "dueDate": "2026-02-04",
+    "by": "Weinhold, Angela",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
+    "isRenewable": false
   },
   {
-    "id": "HILD.0388039",
+    "id": "HILD.0389182",
     "accountName": "👦 Arne",
-    "name": "Das Star Wars Buch",
-    "renewed": 0,
-    "dueDate": "2026-01-17",
-    "by": "Winter, Marc",
+    "name": "Star wars - Raumschiffe und Fahrzeuge",
+    "renewed": 2,
+    "dueDate": "2026-02-04",
+    "by": "Dougherty, Kerrie",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0346923",
-    "accountName": "👦 Arne",
-    "name": "Farben",
-    "renewed": 1,
-    "dueDate": "2026-01-17",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0417648",
-    "accountName": "👦 Arne",
-    "name": "Mixalotl : Eine geräuschvolle Verwandlung",
-    "renewed": 0,
-    "dueDate": "2026-01-17",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0347979",
-    "accountName": "👦 Arne",
-    "name": "Meine Tiere in Schnee und Eis",
-    "renewed": 1,
-    "dueDate": "2026-01-17",
-    "by": "Kern, Stefanie",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0367797",
-    "accountName": "👦 Arne",
-    "name": "Elefanten verboten!",
-    "renewed": 0,
-    "dueDate": "2026-01-17",
-    "by": "Mantchev, Lisa",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406103",
-    "accountName": "👦 Arne",
-    "name": "Der Wutkoala",
-    "renewed": 0,
-    "dueDate": "2026-01-17",
-    "by": "Jegelka, Corinna",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0393957",
-    "accountName": "👦 Arne",
-    "name": "Frühling im Wichtelwald",
-    "renewed": 1,
-    "dueDate": "2026-01-17",
-    "by": "Kaden, Outi",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0373742",
-    "accountName": "👦 Arne",
-    "name": "Der Lesewolf",
-    "renewed": 0,
-    "dueDate": "2026-01-17",
-    "by": "Carboneill, Bénédicte",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
+    "isRenewable": false
   },
   {
     "id": "HILD.0411627",
@@ -470,34 +400,14 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0390248",
+    "id": "HILD.0368274",
     "accountName": "👦 Arne",
-    "name": "Kochen für den Vorrat",
-    "renewed": 2,
+    "name": "Winter im Wichtelwald",
+    "renewed": 1,
     "dueDate": "2026-02-04",
-    "by": "Kittler, Martina",
-    "type": "Sachbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0389182",
-    "accountName": "👦 Arne",
-    "name": "Star wars - Raumschiffe und Fahrzeuge",
-    "renewed": 2,
-    "dueDate": "2026-02-04",
-    "by": "Dougherty, Kerrie",
+    "by": "Kaden, Outi",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0217437",
-    "accountName": "👦 Arne",
-    "name": "Wir erforschen die Dinosaurier",
-    "renewed": 2,
-    "dueDate": "2026-02-04",
-    "by": "Weinhold, Angela",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0370500",
@@ -510,22 +420,22 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0368274",
+    "id": "HILD.0390248",
     "accountName": "👦 Arne",
-    "name": "Winter im Wichtelwald",
-    "renewed": 1,
+    "name": "Kochen für den Vorrat",
+    "renewed": 2,
     "dueDate": "2026-02-04",
-    "by": "Kaden, Outi",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
+    "by": "Kittler, Martina",
+    "type": "Sachbuch",
+    "isRenewable": false
   },
   {
-    "id": "HILD.0368267",
+    "id": "HILD.0417077",
     "accountName": "👦 Arne",
-    "name": "Edison : das Rätsel des verschollenen Mauseschatzes",
+    "name": "Gute Nacht Buch : Die optimale Abendlektüre",
     "renewed": 2,
     "dueDate": "2026-02-07",
-    "by": "Kuhlmann, Torben",
+    "by": "Tourlonias, Joëlle",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -540,52 +450,12 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0417077",
+    "id": "HILD.0368267",
     "accountName": "👦 Arne",
-    "name": "Gute Nacht Buch : Die optimale Abendlektüre",
+    "name": "Edison : das Rätsel des verschollenen Mauseschatzes",
     "renewed": 2,
     "dueDate": "2026-02-07",
-    "by": "Tourlonias, Joëlle",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0285463",
-    "accountName": "👦 Arne",
-    "name": "Grundschulwörterbuch Englisch",
-    "renewed": 1,
-    "dueDate": "2026-02-10",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0368889",
-    "accountName": "👦 Arne",
-    "name": "Naturforscher im Winter",
-    "renewed": 1,
-    "dueDate": "2026-02-10",
-    "by": "Eich, Eva",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0407089",
-    "accountName": "👦 Arne",
-    "name": "Dori Dino",
-    "renewed": 1,
-    "dueDate": "2026-02-10",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0360804",
-    "accountName": "👦 Arne",
-    "name": "Das kleine 1 × 1",
-    "renewed": 1,
-    "dueDate": "2026-02-10",
-    "by": "Hagemann, Antje",
+    "by": "Kuhlmann, Torben",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -597,17 +467,17 @@
     "dueDate": "2026-02-10",
     "by": "Doescher, Erik",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
-    "id": "HILD.0347964",
+    "id": "HILD.0407089",
     "accountName": "👦 Arne",
-    "name": "Tiptoi - Star Wars, Das Erwachen der Macht",
+    "name": "Dori Dino",
     "renewed": 1,
     "dueDate": "2026-02-10",
-    "by": "Thilo",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true
   },
   {
     "id": "HILD.0417796",
@@ -617,6 +487,136 @@
     "dueDate": "2026-02-10",
     "by": "",
     "type": "Spiel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0285463",
+    "accountName": "👦 Arne",
+    "name": "Grundschulwörterbuch Englisch",
+    "renewed": 1,
+    "dueDate": "2026-02-10",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0368889",
+    "accountName": "👦 Arne",
+    "name": "Naturforscher im Winter",
+    "renewed": 1,
+    "dueDate": "2026-02-10",
+    "by": "Eich, Eva",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0360804",
+    "accountName": "👦 Arne",
+    "name": "Das kleine 1 × 1",
+    "renewed": 1,
+    "dueDate": "2026-02-10",
+    "by": "Hagemann, Antje",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0347964",
+    "accountName": "👦 Arne",
+    "name": "Tiptoi - Star Wars, Das Erwachen der Macht",
+    "renewed": 1,
+    "dueDate": "2026-02-10",
+    "by": "Thilo",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0388039",
+    "accountName": "👦 Arne",
+    "name": "Das Star Wars Buch",
+    "renewed": 1,
+    "dueDate": "2026-02-11",
+    "by": "Winter, Marc",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0373742",
+    "accountName": "👦 Arne",
+    "name": "Der Lesewolf",
+    "renewed": 1,
+    "dueDate": "2026-02-11",
+    "by": "Carboneill, Bénédicte",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0393957",
+    "accountName": "👦 Arne",
+    "name": "Frühling im Wichtelwald",
+    "renewed": 2,
+    "dueDate": "2026-02-11",
+    "by": "Kaden, Outi",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0406103",
+    "accountName": "👦 Arne",
+    "name": "Der Wutkoala",
+    "renewed": 1,
+    "dueDate": "2026-02-11",
+    "by": "Jegelka, Corinna",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0367797",
+    "accountName": "👦 Arne",
+    "name": "Elefanten verboten!",
+    "renewed": 1,
+    "dueDate": "2026-02-11",
+    "by": "Mantchev, Lisa",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0347979",
+    "accountName": "👦 Arne",
+    "name": "Meine Tiere in Schnee und Eis",
+    "renewed": 2,
+    "dueDate": "2026-02-11",
+    "by": "Kern, Stefanie",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0346923",
+    "accountName": "👦 Arne",
+    "name": "Farben",
+    "renewed": 2,
+    "dueDate": "2026-02-11",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0417648",
+    "accountName": "👦 Arne",
+    "name": "Mixalotl : Eine geräuschvolle Verwandlung",
+    "renewed": 1,
+    "dueDate": "2026-02-11",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0378264",
+    "accountName": "👦 Arne",
+    "name": "Was geschieht auf der Baustelle? : mit vielen spannenden Klappen",
+    "renewed": 1,
+    "dueDate": "2026-02-11",
+    "by": "Gellersen, Ruth",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   }
 ]
