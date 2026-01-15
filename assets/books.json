@@ -537,7 +537,7 @@
     "dueDate": "2026-02-11",
     "by": "Winter, Marc",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0373742",
@@ -547,7 +547,7 @@
     "dueDate": "2026-02-11",
     "by": "Carboneill, Bénédicte",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0393957",
@@ -567,7 +567,7 @@
     "dueDate": "2026-02-11",
     "by": "Jegelka, Corinna",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0367797",
@@ -577,7 +577,7 @@
     "dueDate": "2026-02-11",
     "by": "Mantchev, Lisa",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0347979",
@@ -607,7 +607,7 @@
     "dueDate": "2026-02-11",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0378264",
@@ -617,6 +617,6 @@
     "dueDate": "2026-02-11",
     "by": "Gellersen, Ruth",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   }
 ]
