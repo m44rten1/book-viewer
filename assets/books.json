@@ -30,33 +30,13 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0400577",
+    "id": "HILD.0387435",
     "accountName": "❤️ Maren",
-    "name": "Paper Magic : 23 magische Objekte, Tricks und Spiele für Kinder",
+    "name": "Die schlaue kleine Hexe",
     "renewed": 0,
     "dueDate": "2026-02-07",
-    "by": "Stemm, Antje von",
+    "by": "Baeten, Lieve",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0417094",
-    "accountName": "❤️ Maren",
-    "name": "Kunterbunte Tiere kneten : ganz einfach aus drei Grundformen : ab 4 Jahren",
-    "renewed": 2,
-    "dueDate": "2026-02-07",
-    "by": "Cuxart, Bernadette",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0416623",
-    "accountName": "❤️ Maren",
-    "name": "Pizzaofen",
-    "renewed": 0,
-    "dueDate": "2026-02-07",
-    "by": "",
-    "type": "Serviceartikel",
     "isRenewable": true
   },
   {
@@ -90,34 +70,14 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0385766",
+    "id": "HILD.0400577",
     "accountName": "❤️ Maren",
-    "name": "Einstein : die fantastische Reise einer Maus durch Raum und Zeit",
-    "renewed": 2,
-    "dueDate": "2026-02-07",
-    "by": "Kuhlmann, Torben",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0387435",
-    "accountName": "❤️ Maren",
-    "name": "Die schlaue kleine Hexe",
+    "name": "Paper Magic : 23 magische Objekte, Tricks und Spiele für Kinder",
     "renewed": 0,
     "dueDate": "2026-02-07",
-    "by": "Baeten, Lieve",
+    "by": "Stemm, Antje von",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
-  },
-  {
-    "id": "HILD.0226472",
-    "accountName": "❤️ Maren",
-    "name": "Darth Maul",
-    "renewed": 2,
-    "dueDate": "2026-02-07",
-    "by": "Marz, Ron",
-    "type": "Roman",
-    "isRenewable": false
   },
   {
     "id": "HILD.0378085",
@@ -128,6 +88,26 @@
     "by": "Biesty, Stephen",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
+  },
+  {
+    "id": "HILD.0385766",
+    "accountName": "❤️ Maren",
+    "name": "Einstein : die fantastische Reise einer Maus durch Raum und Zeit",
+    "renewed": 2,
+    "dueDate": "2026-02-07",
+    "by": "Kuhlmann, Torben",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0226472",
+    "accountName": "❤️ Maren",
+    "name": "Darth Maul",
+    "renewed": 2,
+    "dueDate": "2026-02-07",
+    "by": "Marz, Ron",
+    "type": "Roman",
+    "isRenewable": false
   },
   {
     "id": "HILD.0363926",
@@ -170,12 +150,12 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0418327",
+    "id": "HILD.0417094",
     "accountName": "❤️ Maren",
-    "name": "Der Sonnendieb",
+    "name": "Kunterbunte Tiere kneten : ganz einfach aus drei Grundformen : ab 4 Jahren",
     "renewed": 2,
     "dueDate": "2026-02-07",
-    "by": "Hemming, Alice",
+    "by": "Cuxart, Bernadette",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -248,16 +228,6 @@
     "by": "Lobis, Maria",
     "type": "Sachbuch",
     "isRenewable": false
-  },
-  {
-    "id": "HILD.0415958",
-    "accountName": "💪 Maarten",
-    "name": "Warum sich auch Monster fürchten",
-    "renewed": 1,
-    "dueDate": "2026-02-04",
-    "by": "Martinello, Jessica",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
   },
   {
     "id": "HILD.0415989",
