@@ -120,16 +120,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0386501",
-    "accountName": "💪 Maarten",
-    "name": "Harry Potter und der Stein der Weisen : (Farbig illustrierte Ausgabe)",
-    "renewed": 1,
-    "dueDate": "2026-02-04",
-    "by": "Rowling, J.K",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0403763",
     "accountName": "💪 Maarten",
     "name": "Kombihammer : Makita HR2631FT13",
@@ -137,26 +127,6 @@
     "dueDate": "2026-02-04",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0415989",
-    "accountName": "💪 Maarten",
-    "name": "Das neue Haus : Kinder bei Veränderungen positiv begleiten",
-    "renewed": 1,
-    "dueDate": "2026-02-04",
-    "by": "Fawcett, Sally",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0404328",
-    "accountName": "💪 Maarten",
-    "name": "Donky Pong",
-    "renewed": 2,
-    "dueDate": "2026-02-04",
-    "by": "",
-    "type": "Spiel",
     "isRenewable": false
   },
   {
@@ -170,22 +140,22 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0222496",
+    "id": "HILD.0404328",
     "accountName": "💪 Maarten",
-    "name": "Wie wird aus Körnern Brot?",
+    "name": "Donky Pong",
     "renewed": 2,
-    "dueDate": "2026-02-10",
-    "by": "Erne, Andrea",
-    "type": "Kinder-/Jugendbuch",
+    "dueDate": "2026-02-04",
+    "by": "",
+    "type": "Spiel",
     "isRenewable": false
   },
   {
-    "id": "HILD.0410741",
+    "id": "HILD.0410732",
     "accountName": "💪 Maarten",
-    "name": "Sport - Lexikon für Kids",
+    "name": "Sport : mit 60 Klappen",
     "renewed": 2,
     "dueDate": "2026-02-10",
-    "by": "",
+    "by": "Tognetti, Stefano",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -200,14 +170,84 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0410732",
+    "id": "HILD.0410741",
     "accountName": "💪 Maarten",
-    "name": "Sport : mit 60 Klappen",
+    "name": "Sport - Lexikon für Kids",
     "renewed": 2,
     "dueDate": "2026-02-10",
-    "by": "Tognetti, Stefano",
+    "by": "",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
+  },
+  {
+    "id": "HILD.0222496",
+    "accountName": "💪 Maarten",
+    "name": "Wie wird aus Körnern Brot?",
+    "renewed": 2,
+    "dueDate": "2026-02-10",
+    "by": "Erne, Andrea",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0396681",
+    "accountName": "💪 Maarten",
+    "name": "Von wegen süß! : die ganze Wahrheit über Babys",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Ellis, Elina",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0397785",
+    "accountName": "💪 Maarten",
+    "name": "Abenteuer im Schlafanzug",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Bonitz, Asja",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0401825",
+    "accountName": "💪 Maarten",
+    "name": "Das kleine Hörbuch vom großen Glück",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Funke, Cornelia",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0406110",
+    "accountName": "💪 Maarten",
+    "name": "Einer ärgert immer!",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Renners, Kai",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0114114",
+    "accountName": "💪 Maarten",
+    "name": "Blöde Ziege, dumme Gans : eine Geschichte von Streit und Versöhnung",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Abedi, Isabel",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0406564",
+    "accountName": "💪 Maarten",
+    "name": "Edurino ergonomischer Eingabestift : Farbe blau",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "",
+    "type": "MEDGR: BG",
+    "isRenewable": true
   },
   {
     "id": "HILD.0411075",
@@ -230,42 +270,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0396681",
-    "accountName": "💪 Maarten",
-    "name": "Von wegen süß! : die ganze Wahrheit über Babys",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Ellis, Elina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0414842",
     "accountName": "💪 Maarten",
     "name": "Die Maus hat einen neuen Freund",
     "renewed": 0,
     "dueDate": "2026-02-26",
     "by": "Kling, Marc-Uwe",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406564",
-    "accountName": "💪 Maarten",
-    "name": "Edurino ergonomischer Eingabestift : Farbe blau",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "",
-    "type": "MEDGR: BG",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406110",
-    "accountName": "💪 Maarten",
-    "name": "Einer ärgert immer!",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Renners, Kai",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -300,16 +310,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0401825",
-    "accountName": "💪 Maarten",
-    "name": "Das kleine Hörbuch vom großen Glück",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Funke, Cornelia",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0417935",
     "accountName": "💪 Maarten",
     "name": "Das kleine Kamel : zu Hause in der Wüste",
@@ -320,22 +320,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0397785",
+    "id": "HILD.0396448",
     "accountName": "💪 Maarten",
-    "name": "Abenteuer im Schlafanzug",
+    "name": "Hase Hibiskus und das grausige Gruseln",
     "renewed": 0,
     "dueDate": "2026-02-26",
-    "by": "Bonitz, Asja",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0114114",
-    "accountName": "💪 Maarten",
-    "name": "Blöde Ziege, dumme Gans : eine Geschichte von Streit und Versöhnung",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Abedi, Isabel",
+    "by": "König, Andreas",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -350,12 +340,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0396448",
+    "id": "HILD.0395396",
     "accountName": "💪 Maarten",
-    "name": "Hase Hibiskus und das grausige Gruseln",
+    "name": "Tillie und der Vorleseroboter",
     "renewed": 0,
     "dueDate": "2026-02-26",
-    "by": "König, Andreas",
+    "by": "Apitz, Stefan",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -450,12 +440,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0395396",
+    "id": "HILD.0392268",
     "accountName": "💪 Maarten",
-    "name": "Tillie und der Vorleseroboter",
+    "name": "Der Sumpfkönig",
     "renewed": 0,
     "dueDate": "2026-02-26",
-    "by": "Apitz, Stefan",
+    "by": "Emmett, Catherine",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -520,16 +510,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0392268",
-    "accountName": "💪 Maarten",
-    "name": "Der Sumpfkönig",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Emmett, Catherine",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0418410",
     "accountName": "💪 Maarten",
     "name": "Das kleine Irgendwas",
@@ -546,6 +526,26 @@
     "renewed": 2,
     "dueDate": "2026-03-03",
     "by": "Grimm, Sandra",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0415989",
+    "accountName": "💪 Maarten",
+    "name": "Das neue Haus : Kinder bei Veränderungen positiv begleiten",
+    "renewed": 2,
+    "dueDate": "2026-03-03",
+    "by": "Fawcett, Sally",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0386501",
+    "accountName": "💪 Maarten",
+    "name": "Harry Potter und der Stein der Weisen : (Farbig illustrierte Ausgabe)",
+    "renewed": 2,
+    "dueDate": "2026-03-03",
+    "by": "Rowling, J.K",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
