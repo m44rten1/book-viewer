@@ -10,16 +10,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0287706",
-    "accountName": "❤️ Maren",
-    "name": "Holzfiguren für Herbst und Winter : Dekorationen aus Holzscheiten und mehr",
-    "renewed": 2,
-    "dueDate": "2026-02-07",
-    "by": "Täubner, Armin",
-    "type": "Sachbuch",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0345154",
     "accountName": "❤️ Maren",
     "name": "Space : coole Projekte für deine Lego Kiste",
@@ -38,16 +28,6 @@
     "by": "Wiehle, Katrin",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
-  },
-  {
-    "id": "HILD.0385766",
-    "accountName": "❤️ Maren",
-    "name": "Einstein : die fantastische Reise einer Maus durch Raum und Zeit",
-    "renewed": 2,
-    "dueDate": "2026-02-07",
-    "by": "Kuhlmann, Torben",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
   },
   {
     "id": "HILD.0387435",
@@ -70,16 +50,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0411098",
-    "accountName": "❤️ Maren",
-    "name": "Die graue Stadt",
-    "renewed": 2,
-    "dueDate": "2026-02-07",
-    "by": "Kuhlmann, Torben",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0411113",
     "accountName": "❤️ Maren",
     "name": "Wo ist Bluey? : ein Such- und Wimmelbuch",
@@ -88,26 +58,6 @@
     "by": "",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
-  },
-  {
-    "id": "HILD.0413178",
-    "accountName": "❤️ Maren",
-    "name": "Dieser Tag ist schwer, denkt der Bär",
-    "renewed": 2,
-    "dueDate": "2026-02-07",
-    "by": "Beedie, Duncan",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0417094",
-    "accountName": "❤️ Maren",
-    "name": "Kunterbunte Tiere kneten : ganz einfach aus drei Grundformen : ab 4 Jahren",
-    "renewed": 2,
-    "dueDate": "2026-02-07",
-    "by": "Cuxart, Bernadette",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
   },
   {
     "id": "HILD.0403253",
@@ -120,74 +70,54 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0403763",
-    "accountName": "💪 Maarten",
-    "name": "Kombihammer : Makita HR2631FT13",
-    "renewed": 2,
-    "dueDate": "2026-02-04",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0409394",
-    "accountName": "💪 Maarten",
+    "accountName": "❤️ Maren",
     "name": "Zeig ́s mir Baby! : Babygeführte vollwertige Beikost",
-    "renewed": 2,
-    "dueDate": "2026-02-04",
+    "renewed": 0,
+    "dueDate": "2026-03-03",
     "by": "Lobis, Maria",
     "type": "Sachbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
-    "id": "HILD.0404328",
+    "id": "HILD.0114114",
     "accountName": "💪 Maarten",
-    "name": "Donky Pong",
-    "renewed": 2,
-    "dueDate": "2026-02-04",
+    "name": "Blöde Ziege, dumme Gans : eine Geschichte von Streit und Versöhnung",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Abedi, Isabel",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0406564",
+    "accountName": "💪 Maarten",
+    "name": "Edurino ergonomischer Eingabestift : Farbe blau",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
     "by": "",
-    "type": "Spiel",
-    "isRenewable": false
+    "type": "MEDGR: BG",
+    "isRenewable": true
   },
   {
-    "id": "HILD.0410732",
+    "id": "HILD.0395396",
     "accountName": "💪 Maarten",
-    "name": "Sport : mit 60 Klappen",
-    "renewed": 2,
-    "dueDate": "2026-02-10",
-    "by": "Tognetti, Stefano",
+    "name": "Tillie und der Vorleseroboter",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Apitz, Stefan",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
-    "id": "HILD.0390038",
+    "id": "HILD.0396448",
     "accountName": "💪 Maarten",
-    "name": "Der schaurige Schusch",
-    "renewed": 2,
-    "dueDate": "2026-02-10",
-    "by": "Habersack, Charlotte",
+    "name": "Hase Hibiskus und das grausige Gruseln",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "König, Andreas",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0410741",
-    "accountName": "💪 Maarten",
-    "name": "Sport - Lexikon für Kids",
-    "renewed": 2,
-    "dueDate": "2026-02-10",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0222496",
-    "accountName": "💪 Maarten",
-    "name": "Wie wird aus Körnern Brot?",
-    "renewed": 2,
-    "dueDate": "2026-02-10",
-    "by": "Erne, Andrea",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0396681",
@@ -230,32 +160,22 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0114114",
-    "accountName": "💪 Maarten",
-    "name": "Blöde Ziege, dumme Gans : eine Geschichte von Streit und Versöhnung",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Abedi, Isabel",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406564",
-    "accountName": "💪 Maarten",
-    "name": "Edurino ergonomischer Eingabestift : Farbe blau",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "",
-    "type": "MEDGR: BG",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0411075",
     "accountName": "💪 Maarten",
     "name": "Zusammen sind wir mausestark! : ein Geschwister-Bilderbuch",
     "renewed": 0,
     "dueDate": "2026-02-26",
     "by": "Astner, Lucy",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0392268",
+    "accountName": "💪 Maarten",
+    "name": "Der Sumpfkönig",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Emmett, Catherine",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -320,12 +240,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0396448",
+    "id": "HILD.0235695",
     "accountName": "💪 Maarten",
-    "name": "Hase Hibiskus und das grausige Gruseln",
+    "name": "Findus zieht um",
     "renewed": 0,
     "dueDate": "2026-02-26",
-    "by": "König, Andreas",
+    "by": "Nordqvist, Sven",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -340,12 +260,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0395396",
+    "id": "HILD.0386892",
     "accountName": "💪 Maarten",
-    "name": "Tillie und der Vorleseroboter",
+    "name": "Nulli & Priesemut",
     "renewed": 0,
     "dueDate": "2026-02-26",
-    "by": "Apitz, Stefan",
+    "by": "Sodtke, Matthias",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -356,16 +276,6 @@
     "renewed": 0,
     "dueDate": "2026-02-26",
     "by": "Engler, Michael",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0235695",
-    "accountName": "💪 Maarten",
-    "name": "Findus zieht um",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Nordqvist, Sven",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -430,22 +340,22 @@
     "isRenewable": true
   },
   {
+    "id": "HILD.0418410",
+    "accountName": "💪 Maarten",
+    "name": "Das kleine Irgendwas",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Jelden, Carolin",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
     "id": "HILD.0377665",
     "accountName": "💪 Maarten",
     "name": "Das erste Einhörnchen",
     "renewed": 0,
     "dueDate": "2026-02-26",
     "by": "Blue, Beatrice",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0392268",
-    "accountName": "💪 Maarten",
-    "name": "Der Sumpfkönig",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Emmett, Catherine",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -500,23 +410,23 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0386892",
+    "id": "HILD.0386501",
     "accountName": "💪 Maarten",
-    "name": "Nulli & Priesemut",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Sodtke, Matthias",
+    "name": "Harry Potter und der Stein der Weisen : (Farbig illustrierte Ausgabe)",
+    "renewed": 2,
+    "dueDate": "2026-03-03",
+    "by": "Rowling, J.K",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
+    "isRenewable": false
   },
   {
-    "id": "HILD.0418410",
+    "id": "HILD.0411627",
     "accountName": "💪 Maarten",
-    "name": "Das kleine Irgendwas",
+    "name": "Gesunder Darm : das Kochbuch",
     "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Jelden, Carolin",
-    "type": "Kinder-/Jugendbuch",
+    "dueDate": "2026-03-03",
+    "by": "Riedl, Matthias",
+    "type": "Sachbuch",
     "isRenewable": true
   },
   {
@@ -540,133 +450,13 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0386501",
-    "accountName": "💪 Maarten",
-    "name": "Harry Potter und der Stein der Weisen : (Farbig illustrierte Ausgabe)",
-    "renewed": 2,
-    "dueDate": "2026-03-03",
-    "by": "Rowling, J.K",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0217437",
-    "accountName": "👦 Arne",
-    "name": "Wir erforschen die Dinosaurier",
-    "renewed": 2,
-    "dueDate": "2026-02-04",
-    "by": "Weinhold, Angela",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0389182",
-    "accountName": "👦 Arne",
-    "name": "Star wars - Raumschiffe und Fahrzeuge",
-    "renewed": 2,
-    "dueDate": "2026-02-04",
-    "by": "Dougherty, Kerrie",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0411627",
-    "accountName": "👦 Arne",
-    "name": "Gesunder Darm : das Kochbuch",
-    "renewed": 2,
-    "dueDate": "2026-02-04",
-    "by": "Riedl, Matthias",
-    "type": "Sachbuch",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0411484",
-    "accountName": "👦 Arne",
+    "accountName": "💪 Maarten",
     "name": "Die 7 Prinzipien für eine gesunde Ernährung",
-    "renewed": 2,
-    "dueDate": "2026-02-04",
+    "renewed": 0,
+    "dueDate": "2026-03-03",
     "by": "Medhurst, Jennifer",
     "type": "Sachbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0407879",
-    "accountName": "👦 Arne",
-    "name": "Der Weltraum : Raumfahrt, Sterne und Planeten",
-    "renewed": 2,
-    "dueDate": "2026-02-04",
-    "by": "Büker, Michael",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0390248",
-    "accountName": "👦 Arne",
-    "name": "Kochen für den Vorrat",
-    "renewed": 2,
-    "dueDate": "2026-02-04",
-    "by": "Kittler, Martina",
-    "type": "Sachbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0417077",
-    "accountName": "👦 Arne",
-    "name": "Gute Nacht Buch : Die optimale Abendlektüre",
-    "renewed": 2,
-    "dueDate": "2026-02-07",
-    "by": "Tourlonias, Joëlle",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0348287",
-    "accountName": "👦 Arne",
-    "name": "Armstrong : die abenteuerliche Reise einer Maus zum Mond",
-    "renewed": 2,
-    "dueDate": "2026-02-07",
-    "by": "Kuhlmann, Torben",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0368267",
-    "accountName": "👦 Arne",
-    "name": "Edison : das Rätsel des verschollenen Mauseschatzes",
-    "renewed": 2,
-    "dueDate": "2026-02-07",
-    "by": "Kuhlmann, Torben",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0412628",
-    "accountName": "👦 Arne",
-    "name": "Abenteuer auf dem Planeten Yarrum : der Geleefrucht-Raub",
-    "renewed": 1,
-    "dueDate": "2026-02-10",
-    "by": "Doescher, Erik",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0407089",
-    "accountName": "👦 Arne",
-    "name": "Dori Dino",
-    "renewed": 1,
-    "dueDate": "2026-02-10",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0417796",
-    "accountName": "👦 Arne",
-    "name": "Minecraft Builders & Biomes Junior : a Minecraft Junor Board Game",
-    "renewed": 1,
-    "dueDate": "2026-02-10",
-    "by": "",
-    "type": "Spiel",
     "isRenewable": true
   },
   {
@@ -676,26 +466,6 @@
     "renewed": 1,
     "dueDate": "2026-02-10",
     "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0368889",
-    "accountName": "👦 Arne",
-    "name": "Naturforscher im Winter",
-    "renewed": 1,
-    "dueDate": "2026-02-10",
-    "by": "Eich, Eva",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0360804",
-    "accountName": "👦 Arne",
-    "name": "Das kleine 1 × 1",
-    "renewed": 1,
-    "dueDate": "2026-02-10",
-    "by": "Hagemann, Antje",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -710,12 +480,32 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0388039",
+    "id": "HILD.0360804",
     "accountName": "👦 Arne",
-    "name": "Das Star Wars Buch",
+    "name": "Das kleine 1 × 1",
+    "renewed": 1,
+    "dueDate": "2026-02-10",
+    "by": "Hagemann, Antje",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0368889",
+    "accountName": "👦 Arne",
+    "name": "Naturforscher im Winter",
+    "renewed": 1,
+    "dueDate": "2026-02-10",
+    "by": "Eich, Eva",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0367797",
+    "accountName": "👦 Arne",
+    "name": "Elefanten verboten!",
     "renewed": 1,
     "dueDate": "2026-02-11",
-    "by": "Winter, Marc",
+    "by": "Mantchev, Lisa",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -730,52 +520,22 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0393957",
-    "accountName": "👦 Arne",
-    "name": "Frühling im Wichtelwald",
-    "renewed": 2,
-    "dueDate": "2026-02-11",
-    "by": "Kaden, Outi",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0367797",
-    "accountName": "👦 Arne",
-    "name": "Elefanten verboten!",
-    "renewed": 1,
-    "dueDate": "2026-02-11",
-    "by": "Mantchev, Lisa",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0347979",
-    "accountName": "👦 Arne",
-    "name": "Meine Tiere in Schnee und Eis",
-    "renewed": 2,
-    "dueDate": "2026-02-11",
-    "by": "Kern, Stefanie",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0346923",
-    "accountName": "👦 Arne",
-    "name": "Farben",
-    "renewed": 2,
-    "dueDate": "2026-02-11",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
     "id": "HILD.0378264",
     "accountName": "👦 Arne",
     "name": "Was geschieht auf der Baustelle? : mit vielen spannenden Klappen",
     "renewed": 1,
     "dueDate": "2026-02-11",
     "by": "Gellersen, Ruth",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0346689",
+    "accountName": "👦 Arne",
+    "name": "Die Pyramide",
+    "renewed": 0,
+    "dueDate": "2026-03-03",
+    "by": "Biard, Philippe",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -788,5 +548,35 @@
     "by": "Kaden, Outi",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
+  },
+  {
+    "id": "HILD.0369367",
+    "accountName": "👦 Arne",
+    "name": "Das alte Ägypten : Pharaonen, Mumien, Pyramiden",
+    "renewed": 0,
+    "dueDate": "2026-03-03",
+    "by": "Hart, George",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0383188",
+    "accountName": "👦 Arne",
+    "name": "Mein erster Europa-Atlas",
+    "renewed": 0,
+    "dueDate": "2026-03-03",
+    "by": "Erne, Andrea",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0417890",
+    "accountName": "👦 Arne",
+    "name": "Abenteuer im alten Ägypten",
+    "renewed": 0,
+    "dueDate": "2026-03-03",
+    "by": "Knapman, Timothy",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
   }
 ]
