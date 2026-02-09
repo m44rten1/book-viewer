@@ -700,36 +700,6 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0373742",
-    "accountName": "👦 Arne",
-    "name": "Der Lesewolf",
-    "renewed": 1,
-    "dueDate": "2026-02-11",
-    "by": "Carboneill, Bénédicte",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0367797",
-    "accountName": "👦 Arne",
-    "name": "Elefanten verboten!",
-    "renewed": 1,
-    "dueDate": "2026-02-11",
-    "by": "Mantchev, Lisa",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0378264",
-    "accountName": "👦 Arne",
-    "name": "Was geschieht auf der Baustelle? : mit vielen spannenden Klappen",
-    "renewed": 1,
-    "dueDate": "2026-02-11",
-    "by": "Gellersen, Ruth",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0346689",
     "accountName": "👦 Arne",
     "name": "Die Pyramide",
@@ -816,6 +786,36 @@
     "renewed": 2,
     "dueDate": "2026-03-07",
     "by": "Eich, Eva",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0367797",
+    "accountName": "👦 Arne",
+    "name": "Elefanten verboten!",
+    "renewed": 2,
+    "dueDate": "2026-03-10",
+    "by": "Mantchev, Lisa",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0373742",
+    "accountName": "👦 Arne",
+    "name": "Der Lesewolf",
+    "renewed": 2,
+    "dueDate": "2026-03-10",
+    "by": "Carboneill, Bénédicte",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0378264",
+    "accountName": "👦 Arne",
+    "name": "Was geschieht auf der Baustelle? : mit vielen spannenden Klappen",
+    "renewed": 2,
+    "dueDate": "2026-03-10",
+    "by": "Gellersen, Ruth",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   }
