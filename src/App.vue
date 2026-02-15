@@ -41,7 +41,8 @@
 
         <!-- Desktop: table -->
         <v-data-table :headers="visibleHeaders" :items="tableItems" :sort-by="[{ key: 'dueDate', order: 'asc' }]"
-          :items-per-page="-1" hide-default-footer class="books-table d-none d-md-block rounded-lg">
+          :items-per-page="-1" hide-default-footer class="books-table d-none d-md-block rounded-lg"
+          :row-props="tableRowProps" @click:row="onRowClick">
           <template #item.index="{ item }">
             {{ item.index }}
           </template>
@@ -196,6 +197,14 @@ export default {
         this.selectedBookIds.splice(idx, 1);
       }
     },
+    tableRowProps({ item }) {
+      const id = item.id || `index-${item.index - 1}`;
+      return this.isBookSelected(id) ? { class: 'table-row--selected' } : {};
+    },
+    onRowClick(event, { item }) {
+      const id = item.id || `index-${item.index - 1}`;
+      this.toggleBookSelection(id);
+    },
     selectDefaultDueDates() {
       const today = new Date();
       today.setHours(0, 0, 0, 0);
@@ -239,6 +248,14 @@ export default {
 
 .books-table :deep(th) {
   white-space: nowrap;
+}
+
+.books-table :deep(tr) {
+  cursor: pointer;
+}
+
+.books-table :deep(tr.table-row--selected td) {
+  background: rgba(var(--v-theme-primary), 0.08);
 }
 
 /* Mobile book grid */
