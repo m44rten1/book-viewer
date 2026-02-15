@@ -1,13 +1,6 @@
 <template>
   <v-app>
-    <!-- App header -->
-    <v-app-bar flat density="compact" color="primary" class="app-header">
-      <v-app-bar-title class="text-body-1 font-weight-medium">
-        Library Books
-      </v-app-bar-title>
-    </v-app-bar>
-
-    <v-main class="app-main">
+    <v-main>
       <v-container fluid class="app-container">
         <!-- Filter bar -->
         <div class="filter-bar mb-3">
@@ -65,33 +58,16 @@
 
         <!-- Mobile: cover-first grid -->
         <div class="book-grid d-md-none">
-          <v-card
-            v-for="(item, i) in tableItems"
-            :key="item.id || i"
-            class="book-card"
-            :class="{ 'book-card--selected': isBookSelected(item.id || `index-${i}`) }"
-            rounded="lg"
-            elevation="1"
-            @click="toggleBookSelection(item.id || `index-${i}`)"
-          >
+          <v-card v-for="(item, i) in tableItems" :key="item.id || i" class="book-card"
+            :class="{ 'book-card--selected': isBookSelected(item.id || `index-${i}`) }" rounded="lg" elevation="1"
+            @click="toggleBookSelection(item.id || `index-${i}`)">
             <div class="cover-wrapper">
-              <img
-                v-if="item.id"
-                :src="`/assets/${item.id}.png`"
-                alt=""
-                loading="lazy"
-                class="cover-img"
-              />
+              <img v-if="item.id" :src="`/assets/${item.id}.png`" alt="" loading="lazy" class="cover-img" />
               <div v-else class="cover-placeholder text-medium-emphasis text-caption">
                 No image
               </div>
-              <v-chip
-                class="renewable-badge"
-                :color="item.isRenewable ? 'success' : 'error'"
-                size="x-small"
-                label
-                variant="flat"
-              >
+              <v-chip class="renewable-badge" :color="item.isRenewable ? 'success' : 'error'" size="x-small" label
+                variant="flat">
                 {{ item.isRenewable ? "Renewable" : "Not renewable" }}
               </v-chip>
             </div>
@@ -228,13 +204,6 @@ export default {
 </script>
 
 <style scoped>
-.app-main {
-  /* preserve Vuetify's --v-layout-top padding so content clears the app bar */
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-  padding-bottom: 0 !important;
-}
-
 .app-container {
   padding: 1rem;
   max-width: 960px;
