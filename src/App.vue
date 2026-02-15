@@ -169,6 +169,13 @@ export default {
       }));
     },
   },
+  watch: {
+    filteredBooks(books) {
+      if (books.length === 0) {
+        this.filtersOpen = true;
+      }
+    },
+  },
   mounted() {
     fetch("/assets/books.json")
       .then((response) => response.json())
