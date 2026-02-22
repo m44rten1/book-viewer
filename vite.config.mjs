@@ -3,6 +3,7 @@ import Components from "unplugin-vue-components/vite";
 import Vue from "@vitejs/plugin-vue";
 import Vuetify, { transformAssetUrls } from "vite-plugin-vuetify";
 import ViteFonts from "unplugin-fonts/vite";
+import { VitePWA } from "vite-plugin-pwa";
 
 // Utilities
 import { defineConfig } from "vite";
@@ -61,6 +62,34 @@ export default defineConfig({
           {
             name: "Roboto",
             styles: "wght@100;300;400;500;700;900",
+          },
+        ],
+      },
+    }),
+    VitePWA({
+      registerType: "autoUpdate",
+      injectRegister: false,
+      manifest: {
+        name: "Library Books",
+        short_name: "Books",
+        description: "Browse and manage your library books.",
+        theme_color: "#1867c0",
+        background_color: "#ffffff",
+        display: "standalone",
+        start_url: ".",
+        scope: ".",
+        icons: [
+          {
+            src: "/icons/pwa-192x192.png",
+            sizes: "192x192",
+            type: "image/png",
+            purpose: "any",
+          },
+          {
+            src: "/icons/pwa-512x512.png",
+            sizes: "512x512",
+            type: "image/png",
+            purpose: "any maskable",
           },
         ],
       },
