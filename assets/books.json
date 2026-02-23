@@ -200,212 +200,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0114114",
-    "accountName": "💪 Maarten",
-    "name": "Blöde Ziege, dumme Gans : eine Geschichte von Streit und Versöhnung",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Abedi, Isabel",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406564",
-    "accountName": "💪 Maarten",
-    "name": "Edurino ergonomischer Eingabestift : Farbe blau",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "",
-    "type": "MEDGR: BG",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0394101",
-    "accountName": "💪 Maarten",
-    "name": "Auffruhr im Gebüsebeet",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Nordquist, Sven",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0395396",
-    "accountName": "💪 Maarten",
-    "name": "Tillie und der Vorleseroboter",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Apitz, Stefan",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0396448",
-    "accountName": "💪 Maarten",
-    "name": "Hase Hibiskus und das grausige Gruseln",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "König, Andreas",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0396681",
-    "accountName": "💪 Maarten",
-    "name": "Von wegen süß! : die ganze Wahrheit über Babys",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Ellis, Elina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0397785",
-    "accountName": "💪 Maarten",
-    "name": "Abenteuer im Schlafanzug",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Bonitz, Asja",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0401825",
-    "accountName": "💪 Maarten",
-    "name": "Das kleine Hörbuch vom großen Glück",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Funke, Cornelia",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0406110",
-    "accountName": "💪 Maarten",
-    "name": "Einer ärgert immer!",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Renners, Kai",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0411075",
-    "accountName": "💪 Maarten",
-    "name": "Zusammen sind wir mausestark! : ein Geschwister-Bilderbuch",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Astner, Lucy",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0386892",
-    "accountName": "💪 Maarten",
-    "name": "Nulli & Priesemut",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Sodtke, Matthias",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0413846",
-    "accountName": "💪 Maarten",
-    "name": "Schütteln, pusten, lachen : mein Mitmachbuch",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Krohmann, Steffi",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0414842",
-    "accountName": "💪 Maarten",
-    "name": "Die Maus hat einen neuen Freund",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Kling, Marc-Uwe",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0414933",
-    "accountName": "💪 Maarten",
-    "name": "Wenn ich nicht so schüchtern wär, denkt der Bär",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Beedie, Duncan",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0417022",
-    "accountName": "💪 Maarten",
-    "name": "Clever-Tonie - Tierisch! Beste Freunde - Hechelnde Hunde",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0417394",
-    "accountName": "💪 Maarten",
-    "name": "Egal, sagt Aal",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Regett, Julia",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0417935",
-    "accountName": "💪 Maarten",
-    "name": "Das kleine Kamel : zu Hause in der Wüste",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Scharmacher-Schreiber, Kristina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0418410",
     "accountName": "💪 Maarten",
     "name": "Das kleine Irgendwas",
     "renewed": 0,
     "dueDate": "2026-02-26",
     "by": "Jelden, Carolin",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0235695",
-    "accountName": "💪 Maarten",
-    "name": "Findus zieht um",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Nordqvist, Sven",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0392268",
-    "accountName": "💪 Maarten",
-    "name": "Der Sumpfkönig",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Emmett, Catherine",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0385664",
-    "accountName": "💪 Maarten",
-    "name": "Zusammen sind wir nie allein",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Cotton, Katie",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -420,33 +220,33 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0358203",
+    "id": "HILD.0417022",
     "accountName": "💪 Maarten",
-    "name": "Zu viele Schafe",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Booth, Christina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0358880",
-    "accountName": "💪 Maarten",
-    "name": "So riecht der Frühling, Ole Eisbär",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Hart, Owen",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0361421",
-    "accountName": "💪 Maarten",
-    "name": "Tonie 38 - Eule findet den Beat : Eine Entdeckerflug durch die Musikwelt",
+    "name": "Clever-Tonie - Tierisch! Beste Freunde - Hechelnde Hunde",
     "renewed": 0,
     "dueDate": "2026-02-26",
     "by": "",
     "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0386892",
+    "accountName": "💪 Maarten",
+    "name": "Nulli & Priesemut",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Sodtke, Matthias",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0385664",
+    "accountName": "💪 Maarten",
+    "name": "Zusammen sind wir nie allein",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Cotton, Katie",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -457,6 +257,76 @@
     "dueDate": "2026-02-26",
     "by": "",
     "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0383944",
+    "accountName": "💪 Maarten",
+    "name": "Ich bin heute löwenlaut!",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Harel, Maike",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0414933",
+    "accountName": "💪 Maarten",
+    "name": "Wenn ich nicht so schüchtern wär, denkt der Bär",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Beedie, Duncan",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0380710",
+    "accountName": "💪 Maarten",
+    "name": "Tonie 172 - Die Geschichte vom Löwen, der nicht schreiben konnte + 2 weitere Löwengeschichten",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Baltscheit, M.",
+    "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0377665",
+    "accountName": "💪 Maarten",
+    "name": "Das erste Einhörnchen",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Blue, Beatrice",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0376184",
+    "accountName": "💪 Maarten",
+    "name": "Der Apfelkuchen-Dieb",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Engler, Michael",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0414842",
+    "accountName": "💪 Maarten",
+    "name": "Die Maus hat einen neuen Freund",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Kling, Marc-Uwe",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0417394",
+    "accountName": "💪 Maarten",
+    "name": "Egal, sagt Aal",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Regett, Julia",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -480,53 +350,53 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0376184",
+    "id": "HILD.0361421",
     "accountName": "💪 Maarten",
-    "name": "Der Apfelkuchen-Dieb",
+    "name": "Tonie 38 - Eule findet den Beat : Eine Entdeckerflug durch die Musikwelt",
     "renewed": 0,
     "dueDate": "2026-02-26",
-    "by": "Engler, Michael",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0382698",
-    "accountName": "💪 Maarten",
-    "name": "Wer schlüpft aus welchem Ei?",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Milton, Alexandra",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0383944",
-    "accountName": "💪 Maarten",
-    "name": "Ich bin heute löwenlaut!",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Harel, Maike",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0377665",
-    "accountName": "💪 Maarten",
-    "name": "Das erste Einhörnchen",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Blue, Beatrice",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0380710",
-    "accountName": "💪 Maarten",
-    "name": "Tonie 172 - Die Geschichte vom Löwen, der nicht schreiben konnte + 2 weitere Löwengeschichten",
-    "renewed": 0,
-    "dueDate": "2026-02-26",
-    "by": "Baltscheit, M.",
+    "by": "",
     "type": "CD Kinder",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0358880",
+    "accountName": "💪 Maarten",
+    "name": "So riecht der Frühling, Ole Eisbär",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Hart, Owen",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0358203",
+    "accountName": "💪 Maarten",
+    "name": "Zu viele Schafe",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Booth, Christina",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0406110",
+    "accountName": "💪 Maarten",
+    "name": "Einer ärgert immer!",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Renners, Kai",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0417935",
+    "accountName": "💪 Maarten",
+    "name": "Das kleine Kamel : zu Hause in der Wüste",
+    "renewed": 0,
+    "dueDate": "2026-02-26",
+    "by": "Scharmacher-Schreiber, Kristina",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
   {
@@ -546,26 +416,6 @@
     "renewed": 0,
     "dueDate": "2026-03-03",
     "by": "Medhurst, Jennifer",
-    "type": "Sachbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0409606",
-    "accountName": "💪 Maarten",
-    "name": "Ofenrezepte : 15 herzhafte Rezepte für komplette Mahlzeiten",
-    "renewed": 0,
-    "dueDate": "2026-03-07",
-    "by": "Wenz, Birgit",
-    "type": "Serviceartikel",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0408055",
-    "accountName": "💪 Maarten",
-    "name": "Mathe 1. Klasse",
-    "renewed": 0,
-    "dueDate": "2026-03-07",
-    "by": "Haferkamp, Kai",
     "type": "Sachbuch",
     "isRenewable": true
   },
@@ -590,12 +440,12 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0372873",
+    "id": "HILD.0418560",
     "accountName": "💪 Maarten",
-    "name": "Haustiere",
+    "name": "Altes Ägypten",
     "renewed": 0,
     "dueDate": "2026-03-07",
-    "by": "Thau, Christine",
+    "by": "Grüling, Birk",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -606,6 +456,26 @@
     "renewed": 0,
     "dueDate": "2026-03-07",
     "by": "Schilling, Peter",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0409606",
+    "accountName": "💪 Maarten",
+    "name": "Ofenrezepte : 15 herzhafte Rezepte für komplette Mahlzeiten",
+    "renewed": 0,
+    "dueDate": "2026-03-07",
+    "by": "Wenz, Birgit",
+    "type": "Serviceartikel",
+    "isRenewable": true
+  },
+  {
+    "id": "HILD.0372873",
+    "accountName": "💪 Maarten",
+    "name": "Haustiere",
+    "renewed": 0,
+    "dueDate": "2026-03-07",
+    "by": "Thau, Christine",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true
   },
@@ -660,14 +530,144 @@
     "isRenewable": true
   },
   {
-    "id": "HILD.0418560",
+    "id": "HILD.0408055",
     "accountName": "💪 Maarten",
-    "name": "Altes Ägypten",
+    "name": "Mathe 1. Klasse",
     "renewed": 0,
     "dueDate": "2026-03-07",
-    "by": "Grüling, Birk",
-    "type": "Kinder-/Jugendbuch",
+    "by": "Haferkamp, Kai",
+    "type": "Sachbuch",
     "isRenewable": true
+  },
+  {
+    "id": "HILD.0413846",
+    "accountName": "💪 Maarten",
+    "name": "Schütteln, pusten, lachen : mein Mitmachbuch",
+    "renewed": 1,
+    "dueDate": "2026-03-24",
+    "by": "Krohmann, Steffi",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0114114",
+    "accountName": "💪 Maarten",
+    "name": "Blöde Ziege, dumme Gans : eine Geschichte von Streit und Versöhnung",
+    "renewed": 1,
+    "dueDate": "2026-03-24",
+    "by": "Abedi, Isabel",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0411075",
+    "accountName": "💪 Maarten",
+    "name": "Zusammen sind wir mausestark! : ein Geschwister-Bilderbuch",
+    "renewed": 1,
+    "dueDate": "2026-03-24",
+    "by": "Astner, Lucy",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0406564",
+    "accountName": "💪 Maarten",
+    "name": "Edurino ergonomischer Eingabestift : Farbe blau",
+    "renewed": 1,
+    "dueDate": "2026-03-24",
+    "by": "",
+    "type": "MEDGR: BG",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0401825",
+    "accountName": "💪 Maarten",
+    "name": "Das kleine Hörbuch vom großen Glück",
+    "renewed": 1,
+    "dueDate": "2026-03-24",
+    "by": "Funke, Cornelia",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0397785",
+    "accountName": "💪 Maarten",
+    "name": "Abenteuer im Schlafanzug",
+    "renewed": 1,
+    "dueDate": "2026-03-24",
+    "by": "Bonitz, Asja",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0396681",
+    "accountName": "💪 Maarten",
+    "name": "Von wegen süß! : die ganze Wahrheit über Babys",
+    "renewed": 1,
+    "dueDate": "2026-03-24",
+    "by": "Ellis, Elina",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0396448",
+    "accountName": "💪 Maarten",
+    "name": "Hase Hibiskus und das grausige Gruseln",
+    "renewed": 1,
+    "dueDate": "2026-03-24",
+    "by": "König, Andreas",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0395396",
+    "accountName": "💪 Maarten",
+    "name": "Tillie und der Vorleseroboter",
+    "renewed": 1,
+    "dueDate": "2026-03-24",
+    "by": "Apitz, Stefan",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0394101",
+    "accountName": "💪 Maarten",
+    "name": "Auffruhr im Gebüsebeet",
+    "renewed": 1,
+    "dueDate": "2026-03-24",
+    "by": "Nordquist, Sven",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0235695",
+    "accountName": "💪 Maarten",
+    "name": "Findus zieht um",
+    "renewed": 1,
+    "dueDate": "2026-03-24",
+    "by": "Nordqvist, Sven",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0382698",
+    "accountName": "💪 Maarten",
+    "name": "Wer schlüpft aus welchem Ei?",
+    "renewed": 1,
+    "dueDate": "2026-03-24",
+    "by": "Milton, Alexandra",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0392268",
+    "accountName": "💪 Maarten",
+    "name": "Der Sumpfkönig",
+    "renewed": 1,
+    "dueDate": "2026-03-24",
+    "by": "Emmett, Catherine",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
   },
   {
     "id": "HILD.0346689",
