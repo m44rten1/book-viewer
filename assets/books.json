@@ -347,7 +347,7 @@
     "dueDate": "2026-03-24",
     "by": "Regett, Julia",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0401825",
@@ -357,7 +357,7 @@
     "dueDate": "2026-03-24",
     "by": "Funke, Cornelia",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406110",
@@ -367,7 +367,7 @@
     "dueDate": "2026-03-24",
     "by": "Renners, Kai",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0406564",
@@ -377,7 +377,7 @@
     "dueDate": "2026-03-24",
     "by": "",
     "type": "MEDGR: BG",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0411075",
@@ -387,7 +387,7 @@
     "dueDate": "2026-03-24",
     "by": "Astner, Lucy",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0417022",
@@ -397,7 +397,7 @@
     "dueDate": "2026-03-24",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0418410",
@@ -407,7 +407,7 @@
     "dueDate": "2026-03-24",
     "by": "Jelden, Carolin",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0413846",
@@ -417,7 +417,7 @@
     "dueDate": "2026-03-24",
     "by": "Krohmann, Steffi",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0397785",
@@ -427,7 +427,7 @@
     "dueDate": "2026-03-24",
     "by": "Bonitz, Asja",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0417935",
@@ -437,7 +437,7 @@
     "dueDate": "2026-03-24",
     "by": "Scharmacher-Schreiber, Kristina",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0414933",
@@ -447,7 +447,7 @@
     "dueDate": "2026-03-24",
     "by": "Beedie, Duncan",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0414842",
@@ -457,7 +457,7 @@
     "dueDate": "2026-03-24",
     "by": "Kling, Marc-Uwe",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0114114",
@@ -467,7 +467,7 @@
     "dueDate": "2026-03-24",
     "by": "Abedi, Isabel",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0396681",
@@ -477,7 +477,7 @@
     "dueDate": "2026-03-24",
     "by": "Ellis, Elina",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0377665",
@@ -487,7 +487,7 @@
     "dueDate": "2026-03-24",
     "by": "Blue, Beatrice",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0358203",
@@ -497,7 +497,7 @@
     "dueDate": "2026-03-24",
     "by": "Booth, Christina",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0358880",
@@ -507,7 +507,7 @@
     "dueDate": "2026-03-24",
     "by": "Hart, Owen",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0361421",
@@ -517,7 +517,7 @@
     "dueDate": "2026-03-24",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0362661",
@@ -527,7 +527,7 @@
     "dueDate": "2026-03-24",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0367049",
@@ -537,7 +537,7 @@
     "dueDate": "2026-03-24",
     "by": "Rueda, Claudia",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0373050",
@@ -547,7 +547,7 @@
     "dueDate": "2026-03-24",
     "by": "Walden, Libby",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0376184",
@@ -557,7 +557,7 @@
     "dueDate": "2026-03-24",
     "by": "Engler, Michael",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0380710",
@@ -567,7 +567,7 @@
     "dueDate": "2026-03-24",
     "by": "Baltscheit, M.",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0396448",
@@ -577,7 +577,7 @@
     "dueDate": "2026-03-24",
     "by": "König, Andreas",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0382698",
@@ -587,7 +587,7 @@
     "dueDate": "2026-03-24",
     "by": "Milton, Alexandra",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0383944",
@@ -597,7 +597,7 @@
     "dueDate": "2026-03-24",
     "by": "Harel, Maike",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0384918",
@@ -607,7 +607,7 @@
     "dueDate": "2026-03-24",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0385664",
@@ -617,7 +617,7 @@
     "dueDate": "2026-03-24",
     "by": "Cotton, Katie",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0386892",
@@ -627,7 +627,7 @@
     "dueDate": "2026-03-24",
     "by": "Sodtke, Matthias",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0235695",
@@ -637,7 +637,7 @@
     "dueDate": "2026-03-24",
     "by": "Nordqvist, Sven",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0394101",
@@ -647,7 +647,7 @@
     "dueDate": "2026-03-24",
     "by": "Nordquist, Sven",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0395396",
@@ -657,7 +657,7 @@
     "dueDate": "2026-03-24",
     "by": "Apitz, Stefan",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0392268",
@@ -667,7 +667,7 @@
     "dueDate": "2026-03-24",
     "by": "Emmett, Catherine",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0346689",
