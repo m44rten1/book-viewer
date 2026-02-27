@@ -40,7 +40,7 @@
         </div>
 
         <!-- Desktop: table -->
-        <v-data-table :headers="visibleHeaders" :items="tableItems" :sort-by="[{ key: 'dueDate', order: 'asc' }]"
+        <v-data-table :headers="visibleHeaders" :items="tableItems" :sort-by="[{ key: 'daysLeft', order: 'asc' }]"
           :items-per-page="-1" hide-default-footer class="books-table d-none d-md-block rounded-lg"
           :row-props="tableRowProps" @click:row="onRowClick">
           <template #item.index="{ item }">
@@ -55,13 +55,16 @@
               {{ item.isRenewable ? "Yes" : "No" }}
             </v-chip>
           </template>
+          <template #item.daysLeft="{ item }">
+            <span>{{ item.daysLeft }}</span>
+          </template>
         </v-data-table>
 
         <!-- Mobile: cover-first grid -->
         <div class="book-grid d-md-none">
           <v-card v-for="(item, i) in tableItems" :key="item.id || i" class="book-card"
-            :class="{ 'book-card--selected': isBookSelected(item.id || `index-${i}`) }" rounded="lg" elevation="1"
-            @click="toggleBookSelection(item.id || `index-${i}`)">
+            :class="[urgencyCardClass(item.daysLeft), { 'book-card--selected': isBookSelected(item.id || `index-${i}`) }]"
+            rounded="lg" elevation="1" @click="toggleBookSelection(item.id || `index-${i}`)">
             <div class="cover-wrapper">
               <img v-if="item.id" :src="`/assets/${item.id}.png`" alt="" loading="lazy" class="cover-img" />
               <div v-else class="cover-placeholder text-medium-emphasis text-caption">
@@ -88,7 +91,7 @@
               </div>
               <div class="d-flex align-center justify-space-between mt-2 book-card-footer">
                 <span class="text-caption text-medium-emphasis">{{ item.accountName }}</span>
-                <span class="text-caption text-medium-emphasis">{{ item.dueDate }}</span>
+                <span class="text-caption text-medium-emphasis">{{ item.daysLeft }}d</span>
               </div>
             </div>
           </v-card>
@@ -115,10 +118,11 @@ export default {
       showAllColumns: false,
       selectedBookIds: [],
       filtersOpen: false,
-      columnsHiddenByDefault: ["index", "name", "renewed", "by"],
+      columnsHiddenByDefault: ["index", "name", "renewed", "by", "dueDate"],
       headers: [
         { title: "#", key: "index", width: 60, sortable: false },
         { title: "Cover Image", key: "cover", width: 150, sortable: false },
+        { title: "Days Left", key: "daysLeft", width: 100, sortable: true },
         { title: "Due Date", key: "dueDate", width: 120, sortable: true },
         { title: "Renewable", key: "renewable", width: 100, sortable: true },
         { title: "Account Name", key: "accountName", width: 200, sortable: true },
@@ -163,11 +167,16 @@ export default {
       );
     },
     tableItems() {
-      return this.filteredBooks.map((book, i) => ({
-        ...book,
-        index: i + 1,
-        renewable: book.isRenewable,
-      }));
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+      return this.filteredBooks
+        .map((book) => {
+          const due = new Date(book.dueDate + "T00:00:00");
+          const daysLeft = Math.ceil((due - today) / (1000 * 60 * 60 * 24));
+          return { ...book, daysLeft, renewable: book.isRenewable };
+        })
+        .sort((a, b) => a.daysLeft - b.daysLeft)
+        .map((book, i) => ({ ...book, index: i + 1 }));
     },
   },
   watch: {
@@ -199,11 +208,19 @@ export default {
     },
     tableRowProps({ item }) {
       const id = item.id || `index-${item.index - 1}`;
-      return this.isBookSelected(id) ? { class: 'table-row--selected' } : {};
+      const urgency = item.daysLeft <= 0 ? 'table-row--overdue' : item.daysLeft < 4 ? 'table-row--warning' : '';
+      const selected = this.isBookSelected(id) ? 'table-row--selected' : '';
+      const cls = [urgency, selected].filter(Boolean).join(' ');
+      return cls ? { class: cls } : {};
     },
     onRowClick(event, { item }) {
       const id = item.id || `index-${item.index - 1}`;
       this.toggleBookSelection(id);
+    },
+    urgencyCardClass(daysLeft) {
+      if (daysLeft <= 0) return 'book-card--overdue';
+      if (daysLeft < 4) return 'book-card--warning';
+      return '';
     },
     selectDefaultDueDates() {
       const today = new Date();
@@ -212,7 +229,7 @@ export default {
       end.setDate(end.getDate() + 15);
       this.selectedDueDates = this.allDueDates.filter((dateStr) => {
         const d = new Date(dateStr + "T00:00:00");
-        return d >= today && d <= end;
+        return d <= end;
       });
     },
   },
@@ -254,8 +271,16 @@ export default {
   cursor: pointer;
 }
 
+.books-table :deep(tr.table-row--overdue td) {
+  background: rgba(239, 68, 68, 0.07);
+}
+
+.books-table :deep(tr.table-row--warning td) {
+  background: rgba(202, 138, 4, 0.07);
+}
+
 .books-table :deep(tr.table-row--selected td) {
-  background: rgba(var(--v-theme-primary), 0.08);
+  background: rgba(var(--v-theme-primary), 0.10);
 }
 
 /* Mobile book grid */
@@ -277,10 +302,18 @@ export default {
   transform: scale(0.97);
 }
 
+.book-card--overdue {
+  background: rgba(239, 68, 68, 0.08) !important;
+}
+
+.book-card--warning {
+  background: rgba(202, 138, 4, 0.08) !important;
+}
+
 .book-card--selected {
   outline: 2px solid rgb(var(--v-theme-primary));
   outline-offset: -2px;
-  background: rgba(var(--v-theme-primary), 0.06);
+  background: rgba(var(--v-theme-primary), 0.09) !important;
 }
 
 /* Cover area */
