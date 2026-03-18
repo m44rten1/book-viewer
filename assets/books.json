@@ -1,25 +1,5 @@
 [
   {
-    "id": "HILD.0383939",
-    "accountName": "❤️ Maren",
-    "name": "Der Grolltroll ... will Erster sein!",
-    "renewed": 0,
-    "dueDate": "2026-03-21",
-    "by": "aprilkind",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0401826",
-    "accountName": "❤️ Maren",
-    "name": "Wie kleine Tiere schlafen gehen & Wie kleine Kinder schlafen gehen",
-    "renewed": 0,
-    "dueDate": "2026-03-21",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0409394",
     "accountName": "❤️ Maren",
     "name": "Zeig ́s mir Baby! : Babygeführte vollwertige Beikost",
@@ -36,6 +16,16 @@
     "renewed": 2,
     "dueDate": "2026-03-31",
     "by": "Baeten, Lieve",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0400577",
+    "accountName": "❤️ Maren",
+    "name": "Paper Magic : 23 magische Objekte, Tricks und Spiele für Kinder",
+    "renewed": 2,
+    "dueDate": "2026-03-31",
+    "by": "Stemm, Antje von",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -76,16 +66,6 @@
     "renewed": 2,
     "dueDate": "2026-03-31",
     "by": "Klang, Joachim",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
-  },
-  {
-    "id": "HILD.0400577",
-    "accountName": "❤️ Maren",
-    "name": "Paper Magic : 23 magische Objekte, Tricks und Spiele für Kinder",
-    "renewed": 2,
-    "dueDate": "2026-03-31",
-    "by": "Stemm, Antje von",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   },
@@ -188,6 +168,26 @@
     "by": "",
     "type": "CD Kinder",
     "isRenewable": true
+  },
+  {
+    "id": "HILD.0401826",
+    "accountName": "❤️ Maren",
+    "name": "Wie kleine Tiere schlafen gehen & Wie kleine Kinder schlafen gehen",
+    "renewed": 1,
+    "dueDate": "2026-04-15",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0383939",
+    "accountName": "❤️ Maren",
+    "name": "Der Grolltroll ... will Erster sein!",
+    "renewed": 1,
+    "dueDate": "2026-04-15",
+    "by": "aprilkind",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
   },
   {
     "id": "HILD.0114114",
