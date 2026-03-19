@@ -177,7 +177,7 @@
     "dueDate": "2026-04-15",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0383939",
@@ -187,7 +187,7 @@
     "dueDate": "2026-04-15",
     "by": "aprilkind",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false
+    "isRenewable": true
   },
   {
     "id": "HILD.0114114",
