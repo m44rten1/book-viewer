@@ -650,26 +650,6 @@
     "isRenewable": false
   },
   {
-    "id": "HILD.0383188",
-    "accountName": "👦 Arne",
-    "name": "Mein erster Europa-Atlas",
-    "renewed": 1,
-    "dueDate": "2026-03-28",
-    "by": "Erne, Andrea",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
-    "id": "HILD.0417890",
-    "accountName": "👦 Arne",
-    "name": "Abenteuer im alten Ägypten",
-    "renewed": 1,
-    "dueDate": "2026-03-28",
-    "by": "Knapman, Timothy",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true
-  },
-  {
     "id": "HILD.0404603",
     "accountName": "👦 Arne",
     "name": "Badetag und drei weitere schafsinnige Geschichten",
@@ -696,6 +676,26 @@
     "renewed": 2,
     "dueDate": "2026-04-22",
     "by": "Hart, George",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0383188",
+    "accountName": "👦 Arne",
+    "name": "Mein erster Europa-Atlas",
+    "renewed": 2,
+    "dueDate": "2026-04-22",
+    "by": "Erne, Andrea",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false
+  },
+  {
+    "id": "HILD.0417890",
+    "accountName": "👦 Arne",
+    "name": "Abenteuer im alten Ägypten",
+    "renewed": 2,
+    "dueDate": "2026-04-22",
+    "by": "Knapman, Timothy",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false
   }
