@@ -843,7 +843,7 @@
     "dueDate": "2026-04-28",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   }
 ]
