@@ -22,17 +22,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0404603",
-    "accountName": "👦 Arne",
-    "name": "Badetag und drei weitere schafsinnige Geschichten",
-    "renewed": 1,
-    "dueDate": "2026-04-28",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0232433",
     "accountName": "👦 Arne",
     "name": "Tolkiens geheimnisvolle Welten : ein Führer durch Mittelerde: Schauplätze, Wesen, Völker",
@@ -44,12 +33,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0386270",
+    "id": "HILD.0381522",
     "accountName": "👦 Arne",
-    "name": "Der kleine Major Tom. Space School. Band1: Abenteuer Raumfahrt!",
+    "name": "Ich mag dich - einfach so!",
     "renewed": 0,
     "dueDate": "2026-05-15",
-    "by": "Lohr, Stefan",
+    "by": "Neele",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -154,23 +143,23 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0386270",
+    "accountName": "👦 Arne",
+    "name": "Der kleine Major Tom. Space School. Band1: Abenteuer Raumfahrt!",
+    "renewed": 0,
+    "dueDate": "2026-05-15",
+    "by": "Lohr, Stefan",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0418612",
     "accountName": "👦 Arne",
     "name": "Riskanter Einsatz am Saturn",
     "renewed": 0,
     "dueDate": "2026-05-15",
     "by": "Flessner, Bernd",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0381522",
-    "accountName": "👦 Arne",
-    "name": "Ich mag dich - einfach so!",
-    "renewed": 0,
-    "dueDate": "2026-05-15",
-    "by": "Neele",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -264,12 +253,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0354277",
+    "id": "HILD.0378307",
     "accountName": "👦 Arne",
-    "name": "Steine : Minerale, Edelsteine und Fossilien in über 1000 Bildern",
+    "name": "Die Eule",
     "renewed": 1,
     "dueDate": "2026-05-20",
-    "by": "Green, Dan",
+    "by": "Poschadel, Jens",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -286,23 +275,23 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0378307",
-    "accountName": "👦 Arne",
-    "name": "Die Eule",
-    "renewed": 1,
-    "dueDate": "2026-05-20",
-    "by": "Poschadel, Jens",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0398206",
     "accountName": "👦 Arne",
     "name": "Das LEGO-Technic-Ideenbuch : clevere Konstruktionen ohne Elektronik",
     "renewed": 1,
     "dueDate": "2026-05-20",
     "by": "Isogawa, Yoshihito",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0354277",
+    "accountName": "👦 Arne",
+    "name": "Steine : Minerale, Edelsteine und Fossilien in über 1000 Bildern",
+    "renewed": 1,
+    "dueDate": "2026-05-20",
+    "by": "Green, Dan",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -349,6 +338,17 @@
     "by": "Schwendemann, Andrea",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0404603",
+    "accountName": "👦 Arne",
+    "name": "Badetag und drei weitere schafsinnige Geschichten",
+    "renewed": 2,
+    "dueDate": "2026-05-23",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": false,
     "hasReservation": false
   }
 ]
