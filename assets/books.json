@@ -1,5 +1,115 @@
 [
   {
+    "id": "HILD.0346045",
+    "accountName": "💪 Maarten",
+    "name": "Elmar mag jedes Wetter",
+    "renewed": 0,
+    "dueDate": "2026-06-13",
+    "by": "McKee, David",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0347974",
+    "accountName": "💪 Maarten",
+    "name": "Noah kauft ein",
+    "renewed": 0,
+    "dueDate": "2026-06-13",
+    "by": "Tourlonias, Joelle",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0347975",
+    "accountName": "💪 Maarten",
+    "name": "Noah isst",
+    "renewed": 0,
+    "dueDate": "2026-06-13",
+    "by": "Tourlonias, Joelle",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0384717",
+    "accountName": "💪 Maarten",
+    "name": "Elefant und Hase entdecken die Farben",
+    "renewed": 0,
+    "dueDate": "2026-06-13",
+    "by": "Poppins, Oli",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0409368",
+    "accountName": "💪 Maarten",
+    "name": "In der Stadt : mein erstes Umwelt-Bildwörterbuch",
+    "renewed": 0,
+    "dueDate": "2026-06-13",
+    "by": "Grimm, Sandra",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0417074",
+    "accountName": "💪 Maarten",
+    "name": "Löschen, baggern, pflügen: Mein Fahrzeuge-Wörterbuch : Über 50 Fahrzeuge!",
+    "renewed": 0,
+    "dueDate": "2026-06-13",
+    "by": "Seidel, Stefan",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0417309",
+    "accountName": "💪 Maarten",
+    "name": "Gute Nacht! : mit lustigen Schiebern",
+    "renewed": 0,
+    "dueDate": "2026-06-13",
+    "by": "Kugler, Christine",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0418328",
+    "accountName": "💪 Maarten",
+    "name": "Spiel mit mir! : Das perfekte Mitmachbuch für Kinder ab 18 Monaten",
+    "renewed": 0,
+    "dueDate": "2026-06-13",
+    "by": "Bohlmann, Sabine",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0419488",
+    "accountName": "💪 Maarten",
+    "name": "Kleiner Krake",
+    "renewed": 0,
+    "dueDate": "2026-06-13",
+    "by": "Smietanka-Combik, Elzbieta",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0420441",
+    "accountName": "💪 Maarten",
+    "name": "Mein erstes Glitzerbuch - In der Nacht",
+    "renewed": 0,
+    "dueDate": "2026-06-13",
+    "by": "Hayashi, Emiri",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0378307",
     "accountName": "👦 Arne",
     "name": "Die Eule",
