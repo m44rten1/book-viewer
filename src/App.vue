@@ -210,7 +210,7 @@ export default {
   mounted() {
     this.selectedBookIds = this.readSelectedBooks();
 
-    fetch("/assets/books.json")
+    fetch("/assets/books.json", { cache: "no-store" })
       .then((response) => response.json())
       .then((data) => {
         this.booksData = data;
