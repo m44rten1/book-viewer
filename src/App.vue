@@ -4,11 +4,17 @@
       <v-container fluid class="app-container">
         <!-- Filter bar -->
         <div class="filter-bar mb-3">
-          <v-btn variant="tonal" color="primary" size="small" rounded="pill" prepend-icon="mdi-filter-variant"
-            :append-icon="filtersOpen ? 'mdi-chevron-up' : 'mdi-chevron-down'" @click="filtersOpen = !filtersOpen">
-            Filters
-            <v-badge v-if="activeFilterCount > 0" :content="activeFilterCount" color="primary" inline class="ml-1" />
-          </v-btn>
+          <div class="filter-actions">
+            <v-btn variant="tonal" color="primary" size="small" rounded="pill" prepend-icon="mdi-filter-variant"
+              :append-icon="filtersOpen ? 'mdi-chevron-up' : 'mdi-chevron-down'" @click="filtersOpen = !filtersOpen">
+              Filters
+              <v-badge v-if="activeFilterCount > 0" :content="activeFilterCount" color="primary" inline class="ml-1" />
+            </v-btn>
+            <v-btn v-if="hasSelectedBooks" variant="text" color="primary" size="small" rounded="pill"
+              prepend-icon="mdi-close-circle-outline" @click="clearSelectedBooks">
+              Unselect all
+            </v-btn>
+          </div>
 
           <v-expand-transition>
             <div v-show="filtersOpen" class="filter-panel mt-3">
@@ -55,6 +61,11 @@
               {{ item.isRenewable ? "Yes" : "No" }}
             </v-chip>
           </template>
+          <template #item.reserved="{ item }">
+            <v-chip v-if="item.hasReservation" color="error" size="x-small" label variant="tonal">
+              Reserved
+            </v-chip>
+          </template>
           <template #item.daysLeft="{ item }">
             <span>{{ item.daysLeft }}</span>
           </template>
@@ -63,8 +74,8 @@
         <!-- Mobile: cover-first grid -->
         <div class="book-grid d-md-none">
           <v-card v-for="(item, i) in tableItems" :key="item.id || i" class="book-card"
-            :class="[urgencyCardClass(item.daysLeft), { 'book-card--selected': isBookSelected(item.id || `index-${i}`) }]"
-            rounded="lg" elevation="1" @click="toggleBookSelection(item.id || `index-${i}`)">
+            :class="[urgencyCardClass(item.daysLeft), { 'book-card--selected': isBookSelected(getBookSelectionId(item, i)), 'book-card--reserved': item.hasReservation }]"
+            rounded="lg" elevation="1" @click="toggleBookSelection(getBookSelectionId(item, i))">
             <div class="cover-wrapper">
               <img v-if="item.id" :src="`/assets/${item.id}.png`" alt="" loading="lazy" class="cover-img" />
               <div v-else class="cover-placeholder text-medium-emphasis text-caption">
@@ -73,6 +84,10 @@
               <v-chip class="renewable-badge" :color="item.isRenewable ? 'success' : 'error'" size="x-small" label
                 variant="flat">
                 {{ item.isRenewable ? "Renewable" : "Not renewable" }}
+              </v-chip>
+              <v-chip v-if="item.hasReservation" class="reservation-badge" color="error" size="x-small" label
+                variant="flat">
+                Reserved
               </v-chip>
             </div>
             <div class="book-card-body pa-2">
@@ -107,6 +122,8 @@
 </template>
 
 <script>
+const SELECTED_BOOKS_STORAGE_KEY = "selected-book-ids";
+
 export default {
   data() {
     return {
@@ -125,6 +142,7 @@ export default {
         { title: "Days Left", key: "daysLeft", width: 100, sortable: true },
         { title: "Due Date", key: "dueDate", width: 120, sortable: true },
         { title: "Renewable", key: "renewable", width: 100, sortable: true },
+        { title: "Reserved", key: "reserved", width: 100, sortable: true },
         { title: "Account Name", key: "accountName", width: 200, sortable: true },
         { title: "Book Name", key: "name", width: 150, sortable: true },
         { title: "Renewed", key: "renewed", width: 100, sortable: true },
@@ -134,6 +152,9 @@ export default {
     };
   },
   computed: {
+    hasSelectedBooks() {
+      return this.selectedBookIds.length > 0;
+    },
     allDueDates() {
       const set = new Set();
       this.booksData.forEach((book) => {
@@ -173,7 +194,7 @@ export default {
         .map((book) => {
           const due = new Date(book.dueDate + "T00:00:00");
           const daysLeft = Math.ceil((due - today) / (1000 * 60 * 60 * 24));
-          return { ...book, daysLeft, renewable: book.isRenewable };
+          return { ...book, daysLeft, renewable: book.isRenewable, reserved: book.hasReservation };
         })
         .sort((a, b) => a.daysLeft - b.daysLeft)
         .map((book, i) => ({ ...book, index: i + 1 }));
@@ -187,16 +208,57 @@ export default {
     },
   },
   mounted() {
+    this.selectedBookIds = this.readSelectedBooks();
+
     fetch("/assets/books.json")
       .then((response) => response.json())
       .then((data) => {
         this.booksData = data;
+        this.pruneSelectedBooks();
         this.selectDefaultDueDates();
       });
   },
   methods: {
+    getBookSelectionId(book, fallbackIndex) {
+      if (book.id) return book.id;
+
+      const parts = [
+        book.accountName,
+        book.name,
+        book.dueDate,
+        book.type,
+        book.by,
+        book.renewed,
+      ].filter(Boolean);
+
+      return `book:${parts.join("::") || `fallback-${fallbackIndex}`}`;
+    },
     isBookSelected(id) {
       return this.selectedBookIds.includes(id);
+    },
+    readSelectedBooks() {
+      if (typeof window === "undefined") return [];
+
+      try {
+        const stored = window.sessionStorage.getItem(SELECTED_BOOKS_STORAGE_KEY);
+        const parsed = stored ? JSON.parse(stored) : [];
+        return Array.isArray(parsed) ? parsed : [];
+      } catch {
+        return [];
+      }
+    },
+    persistSelectedBooks() {
+      if (typeof window === "undefined") return;
+
+      if (this.selectedBookIds.length === 0) {
+        window.sessionStorage.removeItem(SELECTED_BOOKS_STORAGE_KEY);
+        return;
+      }
+
+      window.sessionStorage.setItem(
+        SELECTED_BOOKS_STORAGE_KEY,
+        JSON.stringify(this.selectedBookIds)
+      );
     },
     toggleBookSelection(id) {
       const idx = this.selectedBookIds.indexOf(id);
@@ -205,16 +267,29 @@ export default {
       } else {
         this.selectedBookIds.splice(idx, 1);
       }
+      this.persistSelectedBooks();
+    },
+    clearSelectedBooks() {
+      this.selectedBookIds = [];
+      this.persistSelectedBooks();
+    },
+    pruneSelectedBooks() {
+      const validIds = new Set(
+        this.booksData.map((book, index) => this.getBookSelectionId(book, index))
+      );
+      this.selectedBookIds = this.selectedBookIds.filter((id) => validIds.has(id));
+      this.persistSelectedBooks();
     },
     tableRowProps({ item }) {
-      const id = item.id || `index-${item.index - 1}`;
+      const id = this.getBookSelectionId(item, item.index - 1);
       const urgency = item.daysLeft <= 0 ? 'table-row--overdue' : item.daysLeft < 4 ? 'table-row--warning' : '';
       const selected = this.isBookSelected(id) ? 'table-row--selected' : '';
-      const cls = [urgency, selected].filter(Boolean).join(' ');
+      const reserved = item.hasReservation ? 'table-row--reserved' : '';
+      const cls = [urgency, selected, reserved].filter(Boolean).join(' ');
       return cls ? { class: cls } : {};
     },
     onRowClick(event, { item }) {
-      const id = item.id || `index-${item.index - 1}`;
+      const id = this.getBookSelectionId(item, item.index - 1);
       this.toggleBookSelection(id);
     },
     urgencyCardClass(daysLeft) {
@@ -245,6 +320,13 @@ export default {
 /* Filter bar */
 .filter-bar {
   position: relative;
+}
+
+.filter-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
 }
 
 .filter-panel {
@@ -283,6 +365,19 @@ export default {
   background: rgba(var(--v-theme-primary), 0.10);
 }
 
+.books-table :deep(tr.table-row--reserved td) {
+  border-top: 3px solid #D32F2F;
+  border-bottom: 3px solid #D32F2F;
+}
+
+.books-table :deep(tr.table-row--reserved td:first-child) {
+  border-left: 3px solid #D32F2F;
+}
+
+.books-table :deep(tr.table-row--reserved td:last-child) {
+  border-right: 3px solid #D32F2F;
+}
+
 /* Mobile book grid */
 .book-grid {
   display: grid;
@@ -316,6 +411,10 @@ export default {
   background: rgba(var(--v-theme-primary), 0.09) !important;
 }
 
+.book-card--reserved {
+  border: 3px solid #D32F2F !important;
+}
+
 /* Cover area */
 .cover-wrapper {
   position: relative;
@@ -344,6 +443,13 @@ export default {
   position: absolute;
   top: 0.75rem;
   right: 0.75rem;
+  font-size: 10px !important;
+}
+
+.reservation-badge {
+  position: absolute;
+  top: 0.75rem;
+  left: 0.75rem;
   font-size: 10px !important;
 }
 
