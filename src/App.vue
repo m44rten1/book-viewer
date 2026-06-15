@@ -240,7 +240,7 @@ export default {
       if (typeof window === "undefined") return [];
 
       try {
-        const stored = window.sessionStorage.getItem(SELECTED_BOOKS_STORAGE_KEY);
+        const stored = window.localStorage.getItem(SELECTED_BOOKS_STORAGE_KEY);
         const parsed = stored ? JSON.parse(stored) : [];
         return Array.isArray(parsed) ? parsed : [];
       } catch {
@@ -251,11 +251,11 @@ export default {
       if (typeof window === "undefined") return;
 
       if (this.selectedBookIds.length === 0) {
-        window.sessionStorage.removeItem(SELECTED_BOOKS_STORAGE_KEY);
+        window.localStorage.removeItem(SELECTED_BOOKS_STORAGE_KEY);
         return;
       }
 
-      window.sessionStorage.setItem(
+      window.localStorage.setItem(
         SELECTED_BOOKS_STORAGE_KEY,
         JSON.stringify(this.selectedBookIds)
       );
