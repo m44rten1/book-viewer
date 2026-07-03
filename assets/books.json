@@ -176,17 +176,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0417309",
-    "accountName": "💪 Maarten",
-    "name": "Gute Nacht! : mit lustigen Schiebern",
-    "renewed": 1,
-    "dueDate": "2026-07-08",
-    "by": "Kugler, Christine",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0409368",
     "accountName": "💪 Maarten",
     "name": "In der Stadt : mein erstes Umwelt-Bildwörterbuch",
@@ -198,34 +187,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0384717",
+    "id": "HILD.0347974",
     "accountName": "💪 Maarten",
-    "name": "Elefant und Hase entdecken die Farben",
+    "name": "Noah kauft ein",
     "renewed": 1,
     "dueDate": "2026-07-08",
-    "by": "Poppins, Oli",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0417074",
-    "accountName": "💪 Maarten",
-    "name": "Löschen, baggern, pflügen: Mein Fahrzeuge-Wörterbuch : Über 50 Fahrzeuge!",
-    "renewed": 1,
-    "dueDate": "2026-07-08",
-    "by": "Seidel, Stefan",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0346045",
-    "accountName": "💪 Maarten",
-    "name": "Elmar mag jedes Wetter",
-    "renewed": 1,
-    "dueDate": "2026-07-08",
-    "by": "McKee, David",
+    "by": "Tourlonias, Joelle",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -253,12 +220,155 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0347974",
+    "id": "HILD.0346045",
     "accountName": "💪 Maarten",
-    "name": "Noah kauft ein",
+    "name": "Elmar mag jedes Wetter",
     "renewed": 1,
     "dueDate": "2026-07-08",
-    "by": "Tourlonias, Joelle",
+    "by": "McKee, David",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0417309",
+    "accountName": "💪 Maarten",
+    "name": "Gute Nacht! : mit lustigen Schiebern",
+    "renewed": 1,
+    "dueDate": "2026-07-08",
+    "by": "Kugler, Christine",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0417074",
+    "accountName": "💪 Maarten",
+    "name": "Löschen, baggern, pflügen: Mein Fahrzeuge-Wörterbuch : Über 50 Fahrzeuge!",
+    "renewed": 1,
+    "dueDate": "2026-07-08",
+    "by": "Seidel, Stefan",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0384717",
+    "accountName": "💪 Maarten",
+    "name": "Elefant und Hase entdecken die Farben",
+    "renewed": 1,
+    "dueDate": "2026-07-08",
+    "by": "Poppins, Oli",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0399576",
+    "accountName": "💪 Maarten",
+    "name": "Kommt Zeit, kommt Opossum",
+    "renewed": 0,
+    "dueDate": "2026-07-30",
+    "by": "Reinhardt, Jennifer Black",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0400601",
+    "accountName": "💪 Maarten",
+    "name": "Die besten Bauprojekte mit Stock, Seil & Schnur",
+    "renewed": 0,
+    "dueDate": "2026-07-30",
+    "by": "Wernsing, Barbara",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0404598",
+    "accountName": "💪 Maarten",
+    "name": "Encanto",
+    "renewed": 0,
+    "dueDate": "2026-07-30",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0406970",
+    "accountName": "💪 Maarten",
+    "name": "Zungen Raus! : Das knuffige-wuffige Merkspiel",
+    "renewed": 0,
+    "dueDate": "2026-07-30",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0413091",
+    "accountName": "💪 Maarten",
+    "name": "Minecraft Lexikon der Mobs. Der ultimative Leitfaden zu allen Kreaturen und Monstern",
+    "renewed": 1,
+    "dueDate": "2026-07-30",
+    "by": "Mojang AB",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0410781",
+    "accountName": "💪 Maarten",
+    "name": "Hase Hibiskus und die Fußball-Waldmeisterschaft",
+    "renewed": 0,
+    "dueDate": "2026-07-30",
+    "by": "König, Andreas",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0413085",
+    "accountName": "💪 Maarten",
+    "name": "LEGO® Minecraft® Ideen : Mehr als 50 coole Bauideen",
+    "renewed": 0,
+    "dueDate": "2026-07-30",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0397320",
+    "accountName": "💪 Maarten",
+    "name": "Top Ten : Wie antwortest Du? Von Mist bis Einhorn",
+    "renewed": 0,
+    "dueDate": "2026-07-30",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0413177",
+    "accountName": "💪 Maarten",
+    "name": "Kleine Pandas, großes Versprechen",
+    "renewed": 1,
+    "dueDate": "2026-07-30",
+    "by": "Bright, Rachel",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0417084",
+    "accountName": "💪 Maarten",
+    "name": "Die schönsten Geschichten von Ben und Bär",
+    "renewed": 0,
+    "dueDate": "2026-07-30",
+    "by": "Engler, Michael",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -286,17 +396,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0417084",
-    "accountName": "💪 Maarten",
-    "name": "Die schönsten Geschichten von Ben und Bär",
-    "renewed": 0,
-    "dueDate": "2026-07-30",
-    "by": "Engler, Michael",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0398239",
     "accountName": "💪 Maarten",
     "name": "Exacto : Sieh doch nur und schau - stimmt alles haargenau",
@@ -304,94 +403,6 @@
     "dueDate": "2026-07-30",
     "by": "",
     "type": "Spiel",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0413091",
-    "accountName": "💪 Maarten",
-    "name": "Minecraft Lexikon der Mobs. Der ultimative Leitfaden zu allen Kreaturen und Monstern",
-    "renewed": 1,
-    "dueDate": "2026-07-30",
-    "by": "Mojang AB",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0413085",
-    "accountName": "💪 Maarten",
-    "name": "LEGO® Minecraft® Ideen : Mehr als 50 coole Bauideen",
-    "renewed": 0,
-    "dueDate": "2026-07-30",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0410781",
-    "accountName": "💪 Maarten",
-    "name": "Hase Hibiskus und die Fußball-Waldmeisterschaft",
-    "renewed": 0,
-    "dueDate": "2026-07-30",
-    "by": "König, Andreas",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0406970",
-    "accountName": "💪 Maarten",
-    "name": "Zungen Raus! : Das knuffige-wuffige Merkspiel",
-    "renewed": 0,
-    "dueDate": "2026-07-30",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0404598",
-    "accountName": "💪 Maarten",
-    "name": "Encanto",
-    "renewed": 0,
-    "dueDate": "2026-07-30",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0400601",
-    "accountName": "💪 Maarten",
-    "name": "Die besten Bauprojekte mit Stock, Seil & Schnur",
-    "renewed": 0,
-    "dueDate": "2026-07-30",
-    "by": "Wernsing, Barbara",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0399576",
-    "accountName": "💪 Maarten",
-    "name": "Kommt Zeit, kommt Opossum",
-    "renewed": 0,
-    "dueDate": "2026-07-30",
-    "by": "Reinhardt, Jennifer Black",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0413177",
-    "accountName": "💪 Maarten",
-    "name": "Kleine Pandas, großes Versprechen",
-    "renewed": 1,
-    "dueDate": "2026-07-30",
-    "by": "Bright, Rachel",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -407,24 +418,24 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0397320",
+    "id": "HILD.0394001",
     "accountName": "💪 Maarten",
-    "name": "Top Ten : Wie antwortest Du? Von Mist bis Einhorn",
+    "name": "Das Duell der Großmütter",
     "renewed": 0,
     "dueDate": "2026-07-30",
-    "by": "",
-    "type": "Spiel",
+    "by": "Wirlinger, Hannes",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
   },
   {
-    "id": "HILD.0376200",
+    "id": "HILD.0393991",
     "accountName": "💪 Maarten",
-    "name": "Die Baby Hummel Bommel - Alles wird gut : das Tröstebuch zum Bestseller",
-    "renewed": 0,
+    "name": "Sofortbildkamera : Instax Mini 90 Neo Classic",
+    "renewed": 1,
     "dueDate": "2026-07-30",
-    "by": "Sabbag, Britta",
-    "type": "Kinder-/Jugendbuch",
+    "by": "",
+    "type": "Serviceartikel",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -495,23 +506,23 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0376200",
+    "accountName": "💪 Maarten",
+    "name": "Die Baby Hummel Bommel - Alles wird gut : das Tröstebuch zum Bestseller",
+    "renewed": 0,
+    "dueDate": "2026-07-30",
+    "by": "Sabbag, Britta",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0376925",
     "accountName": "💪 Maarten",
     "name": "Der Hamster Radel",
     "renewed": 0,
     "dueDate": "2026-07-30",
     "by": "Murschetz, Luis",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0394001",
-    "accountName": "💪 Maarten",
-    "name": "Das Duell der Großmütter",
-    "renewed": 0,
-    "dueDate": "2026-07-30",
-    "by": "Wirlinger, Hannes",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -594,90 +605,13 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0393991",
-    "accountName": "💪 Maarten",
-    "name": "Sofortbildkamera : Instax Mini 90 Neo Classic",
-    "renewed": 1,
-    "dueDate": "2026-07-30",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0171341",
-    "accountName": "👦 Arne",
-    "name": "Pippi findet einen Spunk",
-    "renewed": 0,
-    "dueDate": "2026-06-30",
-    "by": "Lindgren, Astrid",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0375724",
-    "accountName": "👦 Arne",
+    "accountName": "💪 Maarten",
     "name": "Selbstgenähte Garderobe nach Maß : Röcke, Hosen, Oberteile und Kleider im Baukasten-System",
     "renewed": 0,
-    "dueDate": "2026-06-30",
+    "dueDate": "2026-07-31",
     "by": "Carnet, Nathalie",
     "type": "Sachbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0384726",
-    "accountName": "👦 Arne",
-    "name": "Elefant und Hase wünschen Gute Nacht : Finger-Nachfahr-Buch",
-    "renewed": 0,
-    "dueDate": "2026-06-30",
-    "by": "Baier, Katja",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0390753",
-    "accountName": "👦 Arne",
-    "name": "Resteliebe Papier : alles verwenden. Nichts verschwenden",
-    "renewed": 0,
-    "dueDate": "2026-06-30",
-    "by": "Mielkau, Ina",
-    "type": "Sachbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0403060",
-    "accountName": "👦 Arne",
-    "name": "Milos Wasserpark : Logic! Games",
-    "renewed": 0,
-    "dueDate": "2026-06-30",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0403877",
-    "accountName": "👦 Arne",
-    "name": "Resteliebe Getränkekarton – Alles verwenden. Nichts verschwenden. die schönsten Ideen aus Getränketüten",
-    "renewed": 0,
-    "dueDate": "2026-06-30",
-    "by": "Mielkau, Ina",
-    "type": "Sachbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0411961",
-    "accountName": "👦 Arne",
-    "name": "Die kleine Mini-Bibliothek der Zahlen",
-    "renewed": 0,
-    "dueDate": "2026-06-30",
-    "by": "Tourlonias, Joëlle",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
   },
