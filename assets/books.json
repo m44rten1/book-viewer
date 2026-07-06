@@ -165,61 +165,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0418328",
-    "accountName": "💪 Maarten",
-    "name": "Spiel mit mir! : Das perfekte Mitmachbuch für Kinder ab 18 Monaten",
-    "renewed": 1,
-    "dueDate": "2026-07-08",
-    "by": "Bohlmann, Sabine",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0347975",
-    "accountName": "💪 Maarten",
-    "name": "Noah isst",
-    "renewed": 1,
-    "dueDate": "2026-07-08",
-    "by": "Tourlonias, Joelle",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0417309",
-    "accountName": "💪 Maarten",
-    "name": "Gute Nacht! : mit lustigen Schiebern",
-    "renewed": 1,
-    "dueDate": "2026-07-08",
-    "by": "Kugler, Christine",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0417074",
-    "accountName": "💪 Maarten",
-    "name": "Löschen, baggern, pflügen: Mein Fahrzeuge-Wörterbuch : Über 50 Fahrzeuge!",
-    "renewed": 1,
-    "dueDate": "2026-07-08",
-    "by": "Seidel, Stefan",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0384717",
-    "accountName": "💪 Maarten",
-    "name": "Elefant und Hase entdecken die Farben",
-    "renewed": 1,
-    "dueDate": "2026-07-08",
-    "by": "Poppins, Oli",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0227121",
     "accountName": "💪 Maarten",
     "name": "Monster-Alarm",
@@ -234,6 +179,28 @@
     "id": "HILD.0406970",
     "accountName": "💪 Maarten",
     "name": "Zungen Raus! : Das knuffige-wuffige Merkspiel",
+    "renewed": 0,
+    "dueDate": "2026-07-30",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0394001",
+    "accountName": "💪 Maarten",
+    "name": "Das Duell der Großmütter",
+    "renewed": 0,
+    "dueDate": "2026-07-30",
+    "by": "Wirlinger, Hannes",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0397320",
+    "accountName": "💪 Maarten",
+    "name": "Top Ten : Wie antwortest Du? Von Mist bis Einhorn",
     "renewed": 0,
     "dueDate": "2026-07-30",
     "by": "",
@@ -286,23 +253,23 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0413091",
-    "accountName": "💪 Maarten",
-    "name": "Minecraft Lexikon der Mobs. Der ultimative Leitfaden zu allen Kreaturen und Monstern",
-    "renewed": 1,
-    "dueDate": "2026-07-30",
-    "by": "Mojang AB",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0410781",
     "accountName": "💪 Maarten",
     "name": "Hase Hibiskus und die Fußball-Waldmeisterschaft",
     "renewed": 0,
     "dueDate": "2026-07-30",
     "by": "König, Andreas",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0390546",
+    "accountName": "💪 Maarten",
+    "name": "Wo in aller Welt?",
+    "renewed": 0,
+    "dueDate": "2026-07-30",
+    "by": "Mumford, Simon",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -319,12 +286,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0394001",
+    "id": "HILD.0413091",
     "accountName": "💪 Maarten",
-    "name": "Das Duell der Großmütter",
-    "renewed": 0,
+    "name": "Minecraft Lexikon der Mobs. Der ultimative Leitfaden zu allen Kreaturen und Monstern",
+    "renewed": 1,
     "dueDate": "2026-07-30",
-    "by": "Wirlinger, Hannes",
+    "by": "Mojang AB",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -374,13 +341,13 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0397320",
+    "id": "HILD.0393991",
     "accountName": "💪 Maarten",
-    "name": "Top Ten : Wie antwortest Du? Von Mist bis Einhorn",
-    "renewed": 0,
+    "name": "Sofortbildkamera : Instax Mini 90 Neo Classic",
+    "renewed": 1,
     "dueDate": "2026-07-30",
     "by": "",
-    "type": "Spiel",
+    "type": "Serviceartikel",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -396,31 +363,20 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0393991",
+    "id": "HILD.0387242",
     "accountName": "💪 Maarten",
-    "name": "Sofortbildkamera : Instax Mini 90 Neo Classic",
-    "renewed": 1,
-    "dueDate": "2026-07-30",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0376925",
-    "accountName": "💪 Maarten",
-    "name": "Der Hamster Radel",
+    "name": "Die Monster AG : Das Original-Hörspiel zum Kinofilm",
     "renewed": 0,
     "dueDate": "2026-07-30",
-    "by": "Murschetz, Luis",
-    "type": "Kinder-/Jugendbuch",
+    "by": "",
+    "type": "CD Kinder",
     "isRenewable": true,
     "hasReservation": false
   },
   {
-    "id": "HILD.0350585",
+    "id": "HILD.0373456",
     "accountName": "💪 Maarten",
-    "name": "Halli Galli Junior",
+    "name": "Just One",
     "renewed": 0,
     "dueDate": "2026-07-30",
     "by": "",
@@ -473,13 +429,13 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0373456",
+    "id": "HILD.0385626",
     "accountName": "💪 Maarten",
-    "name": "Just One",
+    "name": "Ein Sieg für Kasimir",
     "renewed": 0,
     "dueDate": "2026-07-30",
-    "by": "",
-    "type": "Spiel",
+    "by": "Christou, Bethany",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -490,6 +446,28 @@
     "renewed": 0,
     "dueDate": "2026-07-30",
     "by": "Sabbag, Britta",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0350585",
+    "accountName": "💪 Maarten",
+    "name": "Halli Galli Junior",
+    "renewed": 0,
+    "dueDate": "2026-07-30",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0376925",
+    "accountName": "💪 Maarten",
+    "name": "Der Hamster Radel",
+    "renewed": 0,
+    "dueDate": "2026-07-30",
+    "by": "Murschetz, Luis",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -528,39 +506,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0385626",
-    "accountName": "💪 Maarten",
-    "name": "Ein Sieg für Kasimir",
-    "renewed": 0,
-    "dueDate": "2026-07-30",
-    "by": "Christou, Bethany",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0387242",
-    "accountName": "💪 Maarten",
-    "name": "Die Monster AG : Das Original-Hörspiel zum Kinofilm",
-    "renewed": 0,
-    "dueDate": "2026-07-30",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0390546",
-    "accountName": "💪 Maarten",
-    "name": "Wo in aller Welt?",
-    "renewed": 0,
-    "dueDate": "2026-07-30",
-    "by": "Mumford, Simon",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0375724",
     "accountName": "💪 Maarten",
     "name": "Selbstgenähte Garderobe nach Maß : Röcke, Hosen, Oberteile und Kleider im Baukasten-System",
@@ -569,6 +514,39 @@
     "by": "Carnet, Nathalie",
     "type": "Sachbuch",
     "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0347974",
+    "accountName": "💪 Maarten",
+    "name": "Noah kauft ein",
+    "renewed": 2,
+    "dueDate": "2026-08-04",
+    "by": "Tourlonias, Joelle",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0418328",
+    "accountName": "💪 Maarten",
+    "name": "Spiel mit mir! : Das perfekte Mitmachbuch für Kinder ab 18 Monaten",
+    "renewed": 2,
+    "dueDate": "2026-08-04",
+    "by": "Bohlmann, Sabine",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0347975",
+    "accountName": "💪 Maarten",
+    "name": "Noah isst",
+    "renewed": 2,
+    "dueDate": "2026-08-04",
+    "by": "Tourlonias, Joelle",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
     "hasReservation": false
   },
   {
@@ -583,23 +561,45 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0417309",
+    "accountName": "💪 Maarten",
+    "name": "Gute Nacht! : mit lustigen Schiebern",
+    "renewed": 2,
+    "dueDate": "2026-08-04",
+    "by": "Kugler, Christine",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0417074",
+    "accountName": "💪 Maarten",
+    "name": "Löschen, baggern, pflügen: Mein Fahrzeuge-Wörterbuch : Über 50 Fahrzeuge!",
+    "renewed": 2,
+    "dueDate": "2026-08-04",
+    "by": "Seidel, Stefan",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0384717",
+    "accountName": "💪 Maarten",
+    "name": "Elefant und Hase entdecken die Farben",
+    "renewed": 2,
+    "dueDate": "2026-08-04",
+    "by": "Poppins, Oli",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0346045",
     "accountName": "💪 Maarten",
     "name": "Elmar mag jedes Wetter",
     "renewed": 2,
     "dueDate": "2026-08-04",
     "by": "McKee, David",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0347974",
-    "accountName": "💪 Maarten",
-    "name": "Noah kauft ein",
-    "renewed": 2,
-    "dueDate": "2026-08-04",
-    "by": "Tourlonias, Joelle",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
