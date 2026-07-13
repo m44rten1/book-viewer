@@ -172,7 +172,7 @@
     "dueDate": "2026-08-08",
     "by": "Klaar, N. R.",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -183,7 +183,7 @@
     "dueDate": "2026-08-08",
     "by": "Bohlmann, Sabine",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -194,7 +194,7 @@
     "dueDate": "2026-08-08",
     "by": "Wieslander, Jujja",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -205,7 +205,7 @@
     "dueDate": "2026-08-08",
     "by": "McKee, David",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -216,7 +216,7 @@
     "dueDate": "2026-08-08",
     "by": "Hegarty, Patricia",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -227,7 +227,7 @@
     "dueDate": "2026-08-08",
     "by": "Helm, Carolin",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
