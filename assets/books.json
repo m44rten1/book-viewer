@@ -8,7 +8,8 @@
     "by": "Gernhäuser, Susanne",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0320943",
@@ -19,7 +20,8 @@
     "by": "Sabbag, Britta",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0420339",
@@ -30,7 +32,8 @@
     "by": "Weller, Ursula",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0414846",
@@ -41,7 +44,8 @@
     "by": "Tourlonias, Joëlle",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0411440",
@@ -52,7 +56,8 @@
     "by": "Kugler, Christine",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0399674",
@@ -63,7 +68,8 @@
     "by": "Sabbag, Britta",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0392275",
@@ -74,7 +80,8 @@
     "by": "Engler, Michael",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0390027",
@@ -85,7 +92,8 @@
     "by": "Sabbag, Britta",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0421154",
@@ -96,7 +104,8 @@
     "by": "",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0384718",
@@ -107,7 +116,8 @@
     "by": "Baier, Katja",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0372758",
@@ -118,7 +128,8 @@
     "by": "Weller, Ursula",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0370440",
@@ -129,7 +140,8 @@
     "by": "König, Andreas",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0370349",
@@ -140,7 +152,8 @@
     "by": "Wetzel, Jutta",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0346639",
@@ -151,7 +164,8 @@
     "by": "Tourlonias, Joelle",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0346635",
@@ -162,7 +176,8 @@
     "by": "Tourlonias, Joelle",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0368387",
@@ -173,7 +188,8 @@
     "by": "Klaar, N. R.",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0412432",
@@ -184,7 +200,8 @@
     "by": "Bohlmann, Sabine",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0420153",
@@ -195,7 +212,8 @@
     "by": "Wieslander, Jujja",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0346046",
@@ -206,7 +224,8 @@
     "by": "McKee, David",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0420344",
@@ -217,7 +236,8 @@
     "by": "Hegarty, Patricia",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0386399",
@@ -228,7 +248,8 @@
     "by": "Helm, Carolin",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0227121",
@@ -239,7 +260,8 @@
     "by": "",
     "type": "Spiel",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0400601",
@@ -250,7 +272,8 @@
     "by": "Wernsing, Barbara",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0387242",
@@ -261,7 +284,8 @@
     "by": "",
     "type": "CD Kinder",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0390659",
@@ -272,7 +296,8 @@
     "by": "Paul, Korky",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0393991",
@@ -283,7 +308,8 @@
     "by": "",
     "type": "Serviceartikel",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0394001",
@@ -294,7 +320,8 @@
     "by": "Wirlinger, Hannes",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0397320",
@@ -305,7 +332,8 @@
     "by": "",
     "type": "Spiel",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0398239",
@@ -316,7 +344,8 @@
     "by": "",
     "type": "Spiel",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0399576",
@@ -327,7 +356,8 @@
     "by": "Reinhardt, Jennifer Black",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0404598",
@@ -338,7 +368,8 @@
     "by": "",
     "type": "CD Kinder",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0385010",
@@ -349,7 +380,8 @@
     "by": "Fuhr, Ute",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0406970",
@@ -360,7 +392,8 @@
     "by": "",
     "type": "Spiel",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0410781",
@@ -371,7 +404,8 @@
     "by": "König, Andreas",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0413085",
@@ -382,7 +416,8 @@
     "by": "",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0413091",
@@ -393,7 +428,8 @@
     "by": "Mojang AB",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0413177",
@@ -404,7 +440,8 @@
     "by": "Bright, Rachel",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0417084",
@@ -415,7 +452,8 @@
     "by": "Engler, Michael",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0417441",
@@ -426,7 +464,8 @@
     "by": "Paul, Korky",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0418318",
@@ -437,7 +476,8 @@
     "by": "Dietl, Erhard",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0385626",
@@ -448,7 +488,8 @@
     "by": "Christou, Bethany",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0390546",
@@ -459,7 +500,8 @@
     "by": "Mumford, Simon",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0352255",
@@ -470,7 +512,8 @@
     "by": "Ruck-Pauquèt, Gina",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0373456",
@@ -481,7 +524,8 @@
     "by": "",
     "type": "Spiel",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0361421",
@@ -492,7 +536,8 @@
     "by": "",
     "type": "CD Kinder",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0381619",
@@ -503,7 +548,8 @@
     "by": "Staupe, Reinhard",
     "type": "Spiel",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0371516",
@@ -514,7 +560,8 @@
     "by": "Dolan, Hannah",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0350585",
@@ -525,7 +572,8 @@
     "by": "",
     "type": "Spiel",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0372095",
@@ -536,7 +584,8 @@
     "by": "König, Andreas",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0376200",
@@ -547,7 +596,8 @@
     "by": "Sabbag, Britta",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0376925",
@@ -558,7 +608,8 @@
     "by": "Murschetz, Luis",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0381254",
@@ -569,7 +620,8 @@
     "by": "",
     "type": "CD Kinder",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0375724",
@@ -580,7 +632,8 @@
     "by": "Carnet, Nathalie",
     "type": "Sachbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0418328",
@@ -591,7 +644,8 @@
     "by": "Bohlmann, Sabine",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0419908",
@@ -602,7 +656,8 @@
     "by": "",
     "type": "Serviceartikel",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0344846",
@@ -613,7 +668,8 @@
     "by": "Lipkowitz, Daniel",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0346045",
@@ -624,7 +680,8 @@
     "by": "McKee, David",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0417309",
@@ -635,7 +692,8 @@
     "by": "Kugler, Christine",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0347974",
@@ -646,7 +704,8 @@
     "by": "Tourlonias, Joelle",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0417074",
@@ -657,7 +716,8 @@
     "by": "Seidel, Stefan",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0384717",
@@ -668,7 +728,8 @@
     "by": "Poppins, Oli",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0366265",
@@ -679,7 +740,8 @@
     "by": "",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0347975",
@@ -690,7 +752,8 @@
     "by": "Tourlonias, Joelle",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0409368",
@@ -701,7 +764,8 @@
     "by": "Grimm, Sandra",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0365450",
@@ -712,7 +776,8 @@
     "by": "",
     "type": "Spiel",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0404141",
@@ -723,7 +788,8 @@
     "by": "Denise, Christopher",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0366266",
@@ -734,7 +800,8 @@
     "by": "",
     "type": "Spiel",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0366267",
@@ -745,7 +812,8 @@
     "by": "",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0390616",
@@ -756,7 +824,8 @@
     "by": "Oswald, Pete",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0321361",
@@ -767,7 +836,8 @@
     "by": "Chong, Chang-hun",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   },
   {
     "id": "HILD.0420441",
@@ -778,39 +848,7 @@
     "by": "Hayashi, Emiri",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0344346",
-    "accountName": "👦 Arne",
-    "name": "Kleiner Elliot - große Stadt",
-    "renewed": 0,
-    "dueDate": "2026-07-30",
-    "by": "Curato, Mike",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0404134",
-    "accountName": "👦 Arne",
-    "name": "Mein Wimmelbuch vom Tierschutzhof",
-    "renewed": 0,
-    "dueDate": "2026-08-04",
-    "by": "Staar, Katharina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0416855",
-    "accountName": "👦 Arne",
-    "name": "Qawale",
-    "renewed": 0,
-    "dueDate": "2026-08-04",
-    "by": "Froger, Romain",
-    "type": "Spiel",
-    "isRenewable": true,
-    "hasReservation": false
+    "hasReservation": false,
+    "failedToRenew": true
   }
 ]
