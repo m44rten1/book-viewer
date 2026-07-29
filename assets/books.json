@@ -1,5 +1,269 @@
 [
   {
+    "id": "HILD.0285315",
+    "accountName": "❤️ Maren",
+    "name": "Bei den Tieren",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "Gernhäuser, Susanne",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0384718",
+    "accountName": "❤️ Maren",
+    "name": "Elefant und Hase entdecken die Formen",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "Baier, Katja",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0420339",
+    "accountName": "❤️ Maren",
+    "name": "Besuch im Zoo",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "Weller, Ursula",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0414846",
+    "accountName": "❤️ Maren",
+    "name": "Kleines Kaninchen, erzähl mir von dir",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "Tourlonias, Joëlle",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0411440",
+    "accountName": "❤️ Maren",
+    "name": "Tierkinder : mit lustigen Schiebern",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "Kugler, Christine",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0399674",
+    "accountName": "❤️ Maren",
+    "name": "Die kleine Hummel Bommel feiert Geburtstag",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "Sabbag, Britta",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0320943",
+    "accountName": "❤️ Maren",
+    "name": "Die kleine Hummel Bommel sucht das Glück",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "Sabbag, Britta",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0390027",
+    "accountName": "❤️ Maren",
+    "name": "Die Baby Hummel Bommel kann das schon alleine",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "Sabbag, Britta",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0392275",
+    "accountName": "❤️ Maren",
+    "name": "Eine Blume für den Hasen : Farben lernen mit Hase und Igel",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "Engler, Michael",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0372758",
+    "accountName": "❤️ Maren",
+    "name": "Tiere : mit 66 spielerischen Suchaufgaben",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "Weller, Ursula",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0370440",
+    "accountName": "❤️ Maren",
+    "name": "Schlaf, Schaf! : wenn kleine Schafe schlafen gehen",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "König, Andreas",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0370349",
+    "accountName": "❤️ Maren",
+    "name": "Meine Superschwester",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "Wetzel, Jutta",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0346639",
+    "accountName": "❤️ Maren",
+    "name": "Ella geht schlafen",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "Tourlonias, Joelle",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0346635",
+    "accountName": "❤️ Maren",
+    "name": "Ella geht raus",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "Tourlonias, Joelle",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0421154",
+    "accountName": "❤️ Maren",
+    "name": "Baustelle",
+    "renewed": 1,
+    "dueDate": "2026-08-05",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0386399",
+    "accountName": "❤️ Maren",
+    "name": "Wie kleine Tiere Schäfchen zählen",
+    "renewed": 0,
+    "dueDate": "2026-08-08",
+    "by": "Helm, Carolin",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0368387",
+    "accountName": "❤️ Maren",
+    "name": "So 'ne lange Autoschlange",
+    "renewed": 0,
+    "dueDate": "2026-08-08",
+    "by": "Klaar, N. R.",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0412432",
+    "accountName": "❤️ Maren",
+    "name": "Der kleine Siebenschläfer: Bringst du mich ins Bett?",
+    "renewed": 0,
+    "dueDate": "2026-08-08",
+    "by": "Bohlmann, Sabine",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0420153",
+    "accountName": "❤️ Maren",
+    "name": "Mama Muh verkleidet sich",
+    "renewed": 0,
+    "dueDate": "2026-08-08",
+    "by": "Wieslander, Jujja",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0346046",
+    "accountName": "❤️ Maren",
+    "name": "Elmar kennt alle Tiere",
+    "renewed": 0,
+    "dueDate": "2026-08-08",
+    "by": "McKee, David",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0420344",
+    "accountName": "❤️ Maren",
+    "name": "Gute Nacht, ich hab dich lieb",
+    "renewed": 0,
+    "dueDate": "2026-08-08",
+    "by": "Hegarty, Patricia",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0396261",
+    "accountName": "❤️ Maren",
+    "name": "Nur noch kurz die Ohren kraulen : Hasenkinds Mitmach-Geschichten",
+    "renewed": 0,
+    "dueDate": "2026-08-18",
+    "by": "Mühle, Jörg",
+    "type": "CD Kinder",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0415429",
+    "accountName": "❤️ Maren",
+    "name": "Die kleine Mini-Bibliothek der Gegensätze",
+    "renewed": 0,
+    "dueDate": "2026-08-18",
+    "by": "Tourlonias, Joëlle",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0417931",
+    "accountName": "❤️ Maren",
+    "name": "Vor dem Schläfchen wollen Schäfchen ... Ein Gutenacht-Bilderbuch ab 2 Jahren zum Schäfchen zählen",
+    "renewed": 0,
+    "dueDate": "2026-08-18",
+    "by": "Holtfreter, Nastja",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0375724",
     "accountName": "💪 Maarten",
     "name": "Selbstgenähte Garderobe nach Maß : Röcke, Hosen, Oberteile und Kleider im Baukasten-System",
@@ -216,7 +480,7 @@
     "dueDate": "2026-08-25",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -227,7 +491,7 @@
     "dueDate": "2026-08-25",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -238,7 +502,7 @@
     "dueDate": "2026-08-25",
     "by": "Engler, Michael",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -249,7 +513,7 @@
     "dueDate": "2026-08-25",
     "by": "König, Andreas",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -260,7 +524,7 @@
     "dueDate": "2026-08-25",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -293,7 +557,7 @@
     "dueDate": "2026-08-25",
     "by": "Reinhardt, Jennifer Black",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -304,7 +568,7 @@
     "dueDate": "2026-08-25",
     "by": "Paul, Korky",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -315,7 +579,7 @@
     "dueDate": "2026-08-25",
     "by": "Dietl, Erhard",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -326,7 +590,7 @@
     "dueDate": "2026-08-25",
     "by": "Wernsing, Barbara",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -337,7 +601,7 @@
     "dueDate": "2026-08-25",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -348,7 +612,7 @@
     "dueDate": "2026-08-25",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -359,7 +623,7 @@
     "dueDate": "2026-08-25",
     "by": "Murschetz, Luis",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -370,7 +634,7 @@
     "dueDate": "2026-08-25",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -381,7 +645,7 @@
     "dueDate": "2026-08-25",
     "by": "Ruck-Pauquèt, Gina",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -392,7 +656,7 @@
     "dueDate": "2026-08-25",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -403,7 +667,7 @@
     "dueDate": "2026-08-25",
     "by": "Dolan, Hannah",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -414,7 +678,7 @@
     "dueDate": "2026-08-25",
     "by": "König, Andreas",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -425,7 +689,7 @@
     "dueDate": "2026-08-25",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -436,7 +700,7 @@
     "dueDate": "2026-08-25",
     "by": "Sabbag, Britta",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -447,7 +711,7 @@
     "dueDate": "2026-08-25",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -458,7 +722,7 @@
     "dueDate": "2026-08-25",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -469,7 +733,7 @@
     "dueDate": "2026-08-25",
     "by": "Staupe, Reinhard",
     "type": "Spiel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -480,7 +744,7 @@
     "dueDate": "2026-08-25",
     "by": "Fuhr, Ute",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -491,7 +755,7 @@
     "dueDate": "2026-08-25",
     "by": "Christou, Bethany",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -502,7 +766,7 @@
     "dueDate": "2026-08-25",
     "by": "",
     "type": "CD Kinder",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -513,7 +777,7 @@
     "dueDate": "2026-08-25",
     "by": "Paul, Korky",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -535,7 +799,7 @@
     "dueDate": "2026-08-25",
     "by": "Wirlinger, Hannes",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -546,7 +810,7 @@
     "dueDate": "2026-08-25",
     "by": "Mumford, Simon",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -579,7 +843,7 @@
     "dueDate": "2026-08-25",
     "by": "Curato, Mike",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   }
 ]
