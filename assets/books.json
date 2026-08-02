@@ -282,7 +282,7 @@
     "dueDate": "2026-08-29",
     "by": "Staar, Katharina",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -293,7 +293,7 @@
     "dueDate": "2026-08-29",
     "by": "Froger, Romain",
     "type": "Spiel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   }
 ]
