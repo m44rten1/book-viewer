@@ -271,7 +271,7 @@
     "dueDate": "2026-08-18",
     "by": "",
     "type": "DVD / Blu-Ray",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -282,7 +282,7 @@
     "dueDate": "2026-08-18",
     "by": "",
     "type": "DVD / Blu-Ray",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -293,7 +293,7 @@
     "dueDate": "2026-08-18",
     "by": "",
     "type": "DVD / Blu-Ray",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -513,7 +513,7 @@
     "dueDate": "2026-09-01",
     "by": "Chong, Chang-hun",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -535,7 +535,7 @@
     "dueDate": "2026-09-01",
     "by": "Lipkowitz, Daniel",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -601,7 +601,7 @@
     "dueDate": "2026-09-01",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -612,7 +612,7 @@
     "dueDate": "2026-09-01",
     "by": "",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
