@@ -1,13 +1,35 @@
 [
   {
-    "id": "HILD.0285315",
+    "id": "HILD.0346046",
     "accountName": "❤️ Maren",
-    "name": "Bei den Tieren",
-    "renewed": 2,
+    "name": "Elmar kennt alle Tiere",
+    "renewed": 1,
     "dueDate": "2026-08-27",
-    "by": "Gernhäuser, Susanne",
+    "by": "McKee, David",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0368387",
+    "accountName": "❤️ Maren",
+    "name": "So 'ne lange Autoschlange",
+    "renewed": 1,
+    "dueDate": "2026-08-27",
+    "by": "Klaar, N. R.",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0386399",
+    "accountName": "❤️ Maren",
+    "name": "Wie kleine Tiere Schäfchen zählen",
+    "renewed": 1,
+    "dueDate": "2026-08-27",
+    "by": "Helm, Carolin",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -22,45 +44,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0420344",
+    "id": "HILD.0412432",
     "accountName": "❤️ Maren",
-    "name": "Gute Nacht, ich hab dich lieb",
+    "name": "Der kleine Siebenschläfer: Bringst du mich ins Bett?",
     "renewed": 1,
     "dueDate": "2026-08-27",
-    "by": "Hegarty, Patricia",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0420339",
-    "accountName": "❤️ Maren",
-    "name": "Besuch im Zoo",
-    "renewed": 2,
-    "dueDate": "2026-08-27",
-    "by": "Weller, Ursula",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0420153",
-    "accountName": "❤️ Maren",
-    "name": "Mama Muh verkleidet sich",
-    "renewed": 1,
-    "dueDate": "2026-08-27",
-    "by": "Wieslander, Jujja",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0417931",
-    "accountName": "❤️ Maren",
-    "name": "Vor dem Schläfchen wollen Schäfchen ... Ein Gutenacht-Bilderbuch ab 2 Jahren zum Schäfchen zählen",
-    "renewed": 1,
-    "dueDate": "2026-08-27",
-    "by": "Holtfreter, Nastja",
+    "by": "Bohlmann, Sabine",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -77,234 +66,36 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0414846",
+    "id": "HILD.0417931",
     "accountName": "❤️ Maren",
-    "name": "Kleines Kaninchen, erzähl mir von dir",
-    "renewed": 2,
-    "dueDate": "2026-08-27",
-    "by": "Tourlonias, Joëlle",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0412432",
-    "accountName": "❤️ Maren",
-    "name": "Der kleine Siebenschläfer: Bringst du mich ins Bett?",
+    "name": "Vor dem Schläfchen wollen Schäfchen ... Ein Gutenacht-Bilderbuch ab 2 Jahren zum Schäfchen zählen",
     "renewed": 1,
     "dueDate": "2026-08-27",
-    "by": "Bohlmann, Sabine",
+    "by": "Holtfreter, Nastja",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
   },
   {
-    "id": "HILD.0411440",
+    "id": "HILD.0420153",
     "accountName": "❤️ Maren",
-    "name": "Tierkinder : mit lustigen Schiebern",
-    "renewed": 2,
-    "dueDate": "2026-08-27",
-    "by": "Kugler, Christine",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0399674",
-    "accountName": "❤️ Maren",
-    "name": "Die kleine Hummel Bommel feiert Geburtstag",
-    "renewed": 2,
-    "dueDate": "2026-08-27",
-    "by": "Sabbag, Britta",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0392275",
-    "accountName": "❤️ Maren",
-    "name": "Eine Blume für den Hasen : Farben lernen mit Hase und Igel",
-    "renewed": 2,
-    "dueDate": "2026-08-27",
-    "by": "Engler, Michael",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0320943",
-    "accountName": "❤️ Maren",
-    "name": "Die kleine Hummel Bommel sucht das Glück",
-    "renewed": 2,
-    "dueDate": "2026-08-27",
-    "by": "Sabbag, Britta",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0390027",
-    "accountName": "❤️ Maren",
-    "name": "Die Baby Hummel Bommel kann das schon alleine",
-    "renewed": 2,
-    "dueDate": "2026-08-27",
-    "by": "Sabbag, Britta",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0386399",
-    "accountName": "❤️ Maren",
-    "name": "Wie kleine Tiere Schäfchen zählen",
+    "name": "Mama Muh verkleidet sich",
     "renewed": 1,
     "dueDate": "2026-08-27",
-    "by": "Helm, Carolin",
+    "by": "Wieslander, Jujja",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
   },
   {
-    "id": "HILD.0384718",
+    "id": "HILD.0420344",
     "accountName": "❤️ Maren",
-    "name": "Elefant und Hase entdecken die Formen",
-    "renewed": 2,
-    "dueDate": "2026-08-27",
-    "by": "Baier, Katja",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0372758",
-    "accountName": "❤️ Maren",
-    "name": "Tiere : mit 66 spielerischen Suchaufgaben",
-    "renewed": 2,
-    "dueDate": "2026-08-27",
-    "by": "Weller, Ursula",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0370440",
-    "accountName": "❤️ Maren",
-    "name": "Schlaf, Schaf! : wenn kleine Schafe schlafen gehen",
-    "renewed": 2,
-    "dueDate": "2026-08-27",
-    "by": "König, Andreas",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0370349",
-    "accountName": "❤️ Maren",
-    "name": "Meine Superschwester",
-    "renewed": 2,
-    "dueDate": "2026-08-27",
-    "by": "Wetzel, Jutta",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0368387",
-    "accountName": "❤️ Maren",
-    "name": "So 'ne lange Autoschlange",
+    "name": "Gute Nacht, ich hab dich lieb",
     "renewed": 1,
     "dueDate": "2026-08-27",
-    "by": "Klaar, N. R.",
+    "by": "Hegarty, Patricia",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0346639",
-    "accountName": "❤️ Maren",
-    "name": "Ella geht schlafen",
-    "renewed": 2,
-    "dueDate": "2026-08-27",
-    "by": "Tourlonias, Joelle",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0346635",
-    "accountName": "❤️ Maren",
-    "name": "Ella geht raus",
-    "renewed": 2,
-    "dueDate": "2026-08-27",
-    "by": "Tourlonias, Joelle",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0346046",
-    "accountName": "❤️ Maren",
-    "name": "Elmar kennt alle Tiere",
-    "renewed": 1,
-    "dueDate": "2026-08-27",
-    "by": "McKee, David",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0421154",
-    "accountName": "❤️ Maren",
-    "name": "Baustelle",
-    "renewed": 2,
-    "dueDate": "2026-08-27",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0412663",
-    "accountName": "💪 Maarten",
-    "name": "Pokemon – Die TV-Serie: Die Anfänge Staffel 1 : Episoden 1-52",
-    "renewed": 1,
-    "dueDate": "2026-08-18",
-    "by": "",
-    "type": "DVD / Blu-Ray",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0412664",
-    "accountName": "💪 Maarten",
-    "name": "Pokémon - Die TV-Serie: Die Anfänge Staffel 2 : Episoden 1-60",
-    "renewed": 1,
-    "dueDate": "2026-08-18",
-    "by": "",
-    "type": "DVD / Blu-Ray",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0412665",
-    "accountName": "💪 Maarten",
-    "name": "Pokémon - The Johto Journeys Staffel 3 : Episoden 1-41",
-    "renewed": 1,
-    "dueDate": "2026-08-18",
-    "by": "",
-    "type": "DVD / Blu-Ray",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0413091",
-    "accountName": "💪 Maarten",
-    "name": "Minecraft Lexikon der Mobs. Der ultimative Leitfaden zu allen Kreaturen und Monstern",
-    "renewed": 2,
-    "dueDate": "2026-08-25",
-    "by": "Mojang AB",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
     "hasReservation": false
   },
   {
@@ -319,12 +110,45 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0413177",
+    "id": "HILD.0321361",
     "accountName": "💪 Maarten",
-    "name": "Kleine Pandas, großes Versprechen",
+    "name": "Merkur, Mond und Milchstraße : auf Entdeckungsreise im All",
+    "renewed": 1,
+    "dueDate": "2026-09-01",
+    "by": "Chong, Chang-hun",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0390659",
+    "accountName": "💪 Maarten",
+    "name": "Reise um die Welt",
     "renewed": 2,
-    "dueDate": "2026-08-25",
-    "by": "Bright, Rachel",
+    "dueDate": "2026-09-01",
+    "by": "Paul, Korky",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0418318",
+    "accountName": "💪 Maarten",
+    "name": "Aliens im Anflug!",
+    "renewed": 2,
+    "dueDate": "2026-09-01",
+    "by": "Dietl, Erhard",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0417441",
+    "accountName": "💪 Maarten",
+    "name": "Die verrückte Nacht",
+    "renewed": 2,
+    "dueDate": "2026-09-01",
+    "by": "Paul, Korky",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
@@ -352,39 +176,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0417441",
-    "accountName": "💪 Maarten",
-    "name": "Die verrückte Nacht",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "Paul, Korky",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0418318",
-    "accountName": "💪 Maarten",
-    "name": "Aliens im Anflug!",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "Dietl, Erhard",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0390659",
-    "accountName": "💪 Maarten",
-    "name": "Reise um die Welt",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "Paul, Korky",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0410781",
     "accountName": "💪 Maarten",
     "name": "Hase Hibiskus und die Fußball-Waldmeisterschaft",
@@ -392,17 +183,6 @@
     "dueDate": "2026-09-01",
     "by": "König, Andreas",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0406970",
-    "accountName": "💪 Maarten",
-    "name": "Zungen Raus! : Das knuffige-wuffige Merkspiel",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "",
-    "type": "Spiel",
     "isRenewable": false,
     "hasReservation": false
   },
@@ -451,28 +231,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0398239",
-    "accountName": "💪 Maarten",
-    "name": "Exacto : Sieh doch nur und schau - stimmt alles haargenau",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0397320",
-    "accountName": "💪 Maarten",
-    "name": "Top Ten : Wie antwortest Du? Von Mist bis Einhorn",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0394001",
     "accountName": "💪 Maarten",
     "name": "Das Duell der Großmütter",
@@ -484,45 +242,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0227121",
-    "accountName": "💪 Maarten",
-    "name": "Monster-Alarm",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0390616",
     "accountName": "💪 Maarten",
     "name": "Berg : ein Tag mit Papa",
     "renewed": 2,
     "dueDate": "2026-09-01",
     "by": "Oswald, Pete",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0321361",
-    "accountName": "💪 Maarten",
-    "name": "Merkur, Mond und Milchstraße : auf Entdeckungsreise im All",
-    "renewed": 1,
-    "dueDate": "2026-09-01",
-    "by": "Chong, Chang-hun",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0371516",
-    "accountName": "💪 Maarten",
-    "name": "LEGO Star Wars Ideenbuch",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "Dolan, Hannah",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
@@ -539,94 +264,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0350585",
-    "accountName": "💪 Maarten",
-    "name": "Halli Galli Junior",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0352255",
-    "accountName": "💪 Maarten",
-    "name": "Das Vier-Farben-Land",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "Ruck-Pauquèt, Gina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0361421",
-    "accountName": "💪 Maarten",
-    "name": "Tonie 38 - Eule findet den Beat : Eine Entdeckerflug durch die Musikwelt",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0365450",
-    "accountName": "💪 Maarten",
-    "name": "miniLÜK Lösungsgerät : Kontrollgerät mit Klarsichtteil und 12 Aufgabenplättchen für alle miniLÜK-Übungshefte",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0366265",
-    "accountName": "💪 Maarten",
-    "name": "Uhrzeit und Kalender : Übungen zum Umgang mit der Zeit",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0366266",
-    "accountName": "💪 Maarten",
-    "name": "LÜK Lösungsgerät : Das große LÜK Kontrollgerät mit 24 Aufgabenplättchen für alle LÜK Hefte",
-    "renewed": 1,
-    "dueDate": "2026-09-01",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0366267",
-    "accountName": "💪 Maarten",
-    "name": "Die Zeit vergeht : Uhrzeit und Kalender",
-    "renewed": 1,
-    "dueDate": "2026-09-01",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0372095",
-    "accountName": "💪 Maarten",
-    "name": "Hase Hibiskus und der Möhrenklau",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "König, Andreas",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0390546",
     "accountName": "💪 Maarten",
     "name": "Wo in aller Welt?",
@@ -638,45 +275,34 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0373456",
+    "id": "HILD.0387242",
     "accountName": "💪 Maarten",
-    "name": "Just One",
+    "name": "Die Monster AG : Das Original-Hörspiel zum Kinofilm",
     "renewed": 2,
     "dueDate": "2026-09-01",
     "by": "",
-    "type": "Spiel",
+    "type": "CD Kinder",
     "isRenewable": false,
     "hasReservation": false
   },
   {
-    "id": "HILD.0375724",
+    "id": "HILD.0385626",
     "accountName": "💪 Maarten",
-    "name": "Selbstgenähte Garderobe nach Maß : Röcke, Hosen, Oberteile und Kleider im Baukasten-System",
+    "name": "Ein Sieg für Kasimir",
     "renewed": 2,
     "dueDate": "2026-09-01",
-    "by": "Carnet, Nathalie",
-    "type": "Sachbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0376200",
-    "accountName": "💪 Maarten",
-    "name": "Die Baby Hummel Bommel - Alles wird gut : das Tröstebuch zum Bestseller",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "Sabbag, Britta",
+    "by": "Christou, Bethany",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
   },
   {
-    "id": "HILD.0376925",
+    "id": "HILD.0385010",
     "accountName": "💪 Maarten",
-    "name": "Der Hamster Radel",
+    "name": "Unter der Stadt",
     "renewed": 2,
     "dueDate": "2026-09-01",
-    "by": "Murschetz, Luis",
+    "by": "Fuhr, Ute",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
@@ -693,46 +319,79 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0381619",
+    "id": "HILD.0376925",
     "accountName": "💪 Maarten",
-    "name": "Wir sind die Roboter : Gib ihm etwas Zeit - dann fährt der Robbi ganz schön weit!",
+    "name": "Der Hamster Radel",
     "renewed": 2,
     "dueDate": "2026-09-01",
-    "by": "Staupe, Reinhard",
-    "type": "Spiel",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0385010",
-    "accountName": "💪 Maarten",
-    "name": "Unter der Stadt",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "Fuhr, Ute",
+    "by": "Murschetz, Luis",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
   },
   {
-    "id": "HILD.0385626",
+    "id": "HILD.0376200",
     "accountName": "💪 Maarten",
-    "name": "Ein Sieg für Kasimir",
+    "name": "Die Baby Hummel Bommel - Alles wird gut : das Tröstebuch zum Bestseller",
     "renewed": 2,
     "dueDate": "2026-09-01",
-    "by": "Christou, Bethany",
+    "by": "Sabbag, Britta",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
   },
   {
-    "id": "HILD.0387242",
+    "id": "HILD.0375724",
     "accountName": "💪 Maarten",
-    "name": "Die Monster AG : Das Original-Hörspiel zum Kinofilm",
+    "name": "Selbstgenähte Garderobe nach Maß : Röcke, Hosen, Oberteile und Kleider im Baukasten-System",
+    "renewed": 2,
+    "dueDate": "2026-09-01",
+    "by": "Carnet, Nathalie",
+    "type": "Sachbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0372095",
+    "accountName": "💪 Maarten",
+    "name": "Hase Hibiskus und der Möhrenklau",
+    "renewed": 2,
+    "dueDate": "2026-09-01",
+    "by": "König, Andreas",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0371516",
+    "accountName": "💪 Maarten",
+    "name": "LEGO Star Wars Ideenbuch",
+    "renewed": 2,
+    "dueDate": "2026-09-01",
+    "by": "Dolan, Hannah",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0361421",
+    "accountName": "💪 Maarten",
+    "name": "Tonie 38 - Eule findet den Beat : Eine Entdeckerflug durch die Musikwelt",
     "renewed": 2,
     "dueDate": "2026-09-01",
     "by": "",
     "type": "CD Kinder",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0352255",
+    "accountName": "💪 Maarten",
+    "name": "Das Vier-Farben-Land",
+    "renewed": 2,
+    "dueDate": "2026-09-01",
+    "by": "Ruck-Pauquèt, Gina",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
   },
@@ -766,17 +425,6 @@
     "dueDate": "2026-08-29",
     "by": "Staar, Katharina",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0416855",
-    "accountName": "👦 Arne",
-    "name": "Qawale",
-    "renewed": 1,
-    "dueDate": "2026-08-29",
-    "by": "Froger, Romain",
-    "type": "Spiel",
     "isRenewable": true,
     "hasReservation": false
   }
