@@ -330,17 +330,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0393991",
-    "accountName": "💪 Maarten",
-    "name": "Sofortbildkamera : Instax Mini 90 Neo Classic",
-    "renewed": 2,
-    "dueDate": "2026-08-25",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0321361",
     "accountName": "💪 Maarten",
     "name": "Merkur, Mond und Milchstraße : auf Entdeckungsreise im All",
@@ -352,12 +341,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0390659",
+    "id": "HILD.0390616",
     "accountName": "💪 Maarten",
-    "name": "Reise um die Welt",
+    "name": "Berg : ein Tag mit Papa",
     "renewed": 2,
     "dueDate": "2026-09-01",
-    "by": "Paul, Korky",
+    "by": "Oswald, Pete",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
@@ -473,12 +462,23 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0390616",
+    "id": "HILD.0390659",
     "accountName": "💪 Maarten",
-    "name": "Berg : ein Tag mit Papa",
+    "name": "Reise um die Welt",
     "renewed": 2,
     "dueDate": "2026-09-01",
-    "by": "Oswald, Pete",
+    "by": "Paul, Korky",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0390546",
+    "accountName": "💪 Maarten",
+    "name": "Wo in aller Welt?",
+    "renewed": 2,
+    "dueDate": "2026-09-01",
+    "by": "Mumford, Simon",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
@@ -492,17 +492,6 @@
     "by": "Lipkowitz, Daniel",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0390546",
-    "accountName": "💪 Maarten",
-    "name": "Wo in aller Welt?",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "Mumford, Simon",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
     "hasReservation": false
   },
   {
