@@ -341,14 +341,14 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0390616",
+    "id": "HILD.0344846",
     "accountName": "💪 Maarten",
-    "name": "Berg : ein Tag mit Papa",
-    "renewed": 2,
+    "name": "LEGO super Ideen",
+    "renewed": 1,
     "dueDate": "2026-09-01",
-    "by": "Oswald, Pete",
+    "by": "Lipkowitz, Daniel",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -473,6 +473,17 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0390616",
+    "accountName": "💪 Maarten",
+    "name": "Berg : ein Tag mit Papa",
+    "renewed": 2,
+    "dueDate": "2026-09-01",
+    "by": "Oswald, Pete",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0390546",
     "accountName": "💪 Maarten",
     "name": "Wo in aller Welt?",
@@ -481,17 +492,6 @@
     "by": "Mumford, Simon",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0344846",
-    "accountName": "💪 Maarten",
-    "name": "LEGO super Ideen",
-    "renewed": 1,
-    "dueDate": "2026-09-01",
-    "by": "Lipkowitz, Daniel",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -627,13 +627,13 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0344346",
-    "accountName": "👦 Arne",
-    "name": "Kleiner Elliot - große Stadt",
-    "renewed": 1,
-    "dueDate": "2026-08-25",
-    "by": "Curato, Mike",
-    "type": "Kinder-/Jugendbuch",
+    "id": "HILD.0403763",
+    "accountName": "💪 Maarten",
+    "name": "Kombihammer : Makita HR2631FT13",
+    "renewed": 0,
+    "dueDate": "2026-09-19",
+    "by": "",
+    "type": "Serviceartikel",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -646,6 +646,17 @@
     "by": "Staar, Katharina",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0344346",
+    "accountName": "👦 Arne",
+    "name": "Kleiner Elliot - große Stadt",
+    "renewed": 2,
+    "dueDate": "2026-09-19",
+    "by": "Curato, Mike",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
     "hasReservation": false
   }
 ]
