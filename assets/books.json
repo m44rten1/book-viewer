@@ -11,12 +11,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0401127",
+    "id": "HILD.0399574",
     "accountName": "❤️ Maren",
-    "name": "Mathematik",
+    "name": "Und was fühlst du, Känguru? : ein Mutmachbuch für alle gefühlsstarken Kinder",
     "renewed": 0,
     "dueDate": "2026-09-12",
-    "by": "Weber, Judith",
+    "by": "Imlau, Nora",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -110,17 +110,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0401128",
-    "accountName": "❤️ Maren",
-    "name": "Physik",
-    "renewed": 0,
-    "dueDate": "2026-09-12",
-    "by": "Weber, Judith",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0409281",
     "accountName": "❤️ Maren",
     "name": "Einschlafen ist schwer, denkt der Bär",
@@ -132,12 +121,23 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0399574",
+    "id": "HILD.0401127",
     "accountName": "❤️ Maren",
-    "name": "Und was fühlst du, Känguru? : ein Mutmachbuch für alle gefühlsstarken Kinder",
+    "name": "Mathematik",
     "renewed": 0,
     "dueDate": "2026-09-12",
-    "by": "Imlau, Nora",
+    "by": "Weber, Judith",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0401128",
+    "accountName": "❤️ Maren",
+    "name": "Physik",
+    "renewed": 0,
+    "dueDate": "2026-09-12",
+    "by": "Weber, Judith",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -149,6 +149,17 @@
     "renewed": 0,
     "dueDate": "2026-09-12",
     "by": "Thomas, Valerie",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0392093",
+    "accountName": "❤️ Maren",
+    "name": "Kochen ohne Kochen",
+    "renewed": 0,
+    "dueDate": "2026-09-12",
+    "by": "Woollard, Rebecca",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -176,12 +187,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0392093",
+    "id": "HILD.0396596",
     "accountName": "❤️ Maren",
-    "name": "Kochen ohne Kochen",
+    "name": "Du und ich – nashornstark! ; Du und ich - giraffengroß! : wie das Nashorn und die Giraffe beste Freunde wurden : ein Wende-Bilderbuch",
     "renewed": 0,
     "dueDate": "2026-09-12",
-    "by": "Woollard, Rebecca",
+    "by": "Pietsch, Katrin",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -220,12 +231,23 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0396596",
+    "id": "HILD.0390027",
     "accountName": "❤️ Maren",
-    "name": "Du und ich – nashornstark! ; Du und ich - giraffengroß! : wie das Nashorn und die Giraffe beste Freunde wurden : ein Wende-Bilderbuch",
+    "name": "Die Baby Hummel Bommel kann das schon alleine",
     "renewed": 0,
-    "dueDate": "2026-09-12",
-    "by": "Pietsch, Katrin",
+    "dueDate": "2026-09-22",
+    "by": "Sabbag, Britta",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0411960",
+    "accountName": "❤️ Maren",
+    "name": "Die kleine Mini-Bibliothek der Farben: Ein farbenfrohes Pappbilderbuch für Kinder ab 24 Monaten (Die Mini-Bibliothek der Wörter)",
+    "renewed": 0,
+    "dueDate": "2026-09-22",
+    "by": "Tourlonias, Joëlle",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -242,17 +264,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0415429",
-    "accountName": "❤️ Maren",
-    "name": "Die kleine Mini-Bibliothek der Gegensätze",
-    "renewed": 2,
-    "dueDate": "2026-09-22",
-    "by": "Tourlonias, Joëlle",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0396261",
     "accountName": "❤️ Maren",
     "name": "Nur noch kurz die Ohren kraulen : Hasenkinds Mitmach-Geschichten",
@@ -264,12 +275,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0420153",
+    "id": "HILD.0417931",
     "accountName": "❤️ Maren",
-    "name": "Mama Muh verkleidet sich",
+    "name": "Vor dem Schläfchen wollen Schäfchen ... Ein Gutenacht-Bilderbuch ab 2 Jahren zum Schäfchen zählen",
     "renewed": 2,
     "dueDate": "2026-09-22",
-    "by": "Wieslander, Jujja",
+    "by": "Holtfreter, Nastja",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
@@ -286,6 +297,17 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0420153",
+    "accountName": "❤️ Maren",
+    "name": "Mama Muh verkleidet sich",
+    "renewed": 2,
+    "dueDate": "2026-09-22",
+    "by": "Wieslander, Jujja",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0346046",
     "accountName": "❤️ Maren",
     "name": "Elmar kennt alle Tiere",
@@ -294,6 +316,17 @@
     "by": "McKee, David",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0372765",
+    "accountName": "❤️ Maren",
+    "name": "Mein erster Besuch am Meer : 24+ Monate",
+    "renewed": 0,
+    "dueDate": "2026-09-22",
+    "by": "Jelenkovich, Barbara",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -319,12 +352,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0417931",
+    "id": "HILD.0415429",
     "accountName": "❤️ Maren",
-    "name": "Vor dem Schläfchen wollen Schäfchen ... Ein Gutenacht-Bilderbuch ab 2 Jahren zum Schäfchen zählen",
+    "name": "Die kleine Mini-Bibliothek der Gegensätze",
     "renewed": 2,
     "dueDate": "2026-09-22",
-    "by": "Holtfreter, Nastja",
+    "by": "Tourlonias, Joëlle",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
