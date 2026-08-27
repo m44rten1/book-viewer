@@ -46,7 +46,7 @@
         </div>
 
         <!-- Desktop: table -->
-        <v-data-table :headers="visibleHeaders" :items="tableItems" :sort-by="[{ key: 'daysLeft', order: 'asc' }]"
+        <v-data-table :headers="visibleHeaders" :items="unselectedItems" :sort-by="[{ key: 'daysLeft', order: 'asc' }]"
           :items-per-page="-1" hide-default-footer class="books-table d-none d-md-block rounded-lg"
           :row-props="tableRowProps" @click:row="onRowClick">
           <template #item.index="{ item }">
@@ -73,9 +73,9 @@
 
         <!-- Mobile: cover-first grid -->
         <div class="book-grid d-md-none">
-          <v-card v-for="(item, i) in tableItems" :key="item.id || i" class="book-card"
-            :class="[urgencyCardClass(item.daysLeft), { 'book-card--selected': isBookSelected(getBookSelectionId(item, i)), 'book-card--reserved': item.hasReservation }]"
-            rounded="lg" elevation="1" @click="toggleBookSelection(getBookSelectionId(item, i))">
+          <v-card v-for="item in unselectedItems" :key="item.id || item.index" class="book-card"
+            :class="[urgencyCardClass(item.daysLeft), { 'book-card--reserved': item.hasReservation }]"
+            rounded="lg" elevation="1" @click="toggleBookSelection(getBookSelectionId(item, item.index - 1))">
             <div class="cover-wrapper">
               <img v-if="item.id" :src="`/assets/${item.id}.png`" alt="" loading="lazy" class="cover-img" />
               <div v-else class="cover-placeholder text-medium-emphasis text-caption">
@@ -111,6 +111,85 @@
             </div>
           </v-card>
         </div>
+
+        <!-- Selected books drawer -->
+        <div v-if="hasSelectedBooks" class="selected-drawer mt-4">
+          <button class="selected-drawer-header" @click="selectedDrawerOpen = !selectedDrawerOpen">
+            <span class="text-body-2 font-weight-medium">Selected ({{ selectedItems.length }})</span>
+            <v-icon size="small" :icon="selectedDrawerOpen ? 'mdi-chevron-up' : 'mdi-chevron-down'" />
+          </button>
+
+          <v-expand-transition>
+            <div v-show="selectedDrawerOpen" class="selected-drawer-content">
+              <!-- Desktop: table -->
+              <v-data-table :headers="visibleHeaders" :items="selectedItems" :sort-by="[{ key: 'daysLeft', order: 'asc' }]"
+                :items-per-page="-1" hide-default-footer class="books-table d-none d-md-block rounded-b-lg"
+                :row-props="tableRowProps" @click:row="onRowClick">
+                <template #item.index="{ item }">
+                  {{ item.index }}
+                </template>
+                <template #item.cover="{ item }">
+                  <img v-if="item.id" :src="`/assets/${item.id}.png`" width="150" height="200" alt="" loading="lazy" />
+                  <span v-else class="text-medium-emphasis">No Image</span>
+                </template>
+                <template #item.renewable="{ item }">
+                  <v-chip :color="item.isRenewable ? 'success' : 'error'" size="x-small" label variant="tonal">
+                    {{ item.isRenewable ? "Yes" : "No" }}
+                  </v-chip>
+                </template>
+                <template #item.reserved="{ item }">
+                  <v-chip v-if="item.hasReservation" color="error" size="x-small" label variant="tonal">
+                    Reserved
+                  </v-chip>
+                </template>
+                <template #item.daysLeft="{ item }">
+                  <span>{{ item.daysLeft }}</span>
+                </template>
+              </v-data-table>
+
+              <!-- Mobile: cover-first grid -->
+              <div class="book-grid d-md-none pt-3 pb-2 px-2">
+                <v-card v-for="item in selectedItems" :key="item.id || item.index" class="book-card book-card--selected"
+                  :class="[urgencyCardClass(item.daysLeft), { 'book-card--reserved': item.hasReservation }]"
+                  rounded="lg" elevation="1" @click="toggleBookSelection(getBookSelectionId(item, item.index - 1))">
+                  <div class="cover-wrapper">
+                    <img v-if="item.id" :src="`/assets/${item.id}.png`" alt="" loading="lazy" class="cover-img" />
+                    <div v-else class="cover-placeholder text-medium-emphasis text-caption">
+                      No image
+                    </div>
+                    <v-chip class="renewable-badge" :color="item.isRenewable ? 'success' : 'error'" size="x-small" label
+                      variant="flat">
+                      {{ item.isRenewable ? "Renewable" : "Not renewable" }}
+                    </v-chip>
+                    <v-chip v-if="item.hasReservation" class="reservation-badge" color="error" size="x-small" label
+                      variant="flat">
+                      Reserved
+                    </v-chip>
+                  </div>
+                  <div class="book-card-body pa-2">
+                    <div class="book-card-top">
+                      <div class="text-body-2 font-weight-medium book-title">
+                        {{ item.name }}
+                      </div>
+                      <div v-if="item.by" class="text-caption text-medium-emphasis mt-half">
+                        {{ item.by }}
+                      </div>
+                      <template v-if="showAllColumns">
+                        <div class="text-caption text-medium-emphasis mt-1">
+                          {{ item.type }} · Renewed: {{ item.renewed }}
+                        </div>
+                      </template>
+                    </div>
+                    <div class="d-flex align-center justify-space-between mt-2 book-card-footer">
+                      <span class="text-caption text-medium-emphasis">{{ item.accountName }}</span>
+                      <span class="text-caption text-medium-emphasis">{{ item.daysLeft }}d</span>
+                    </div>
+                  </div>
+                </v-card>
+              </div>
+            </div>
+          </v-expand-transition>
+        </div>
       </v-container>
 
       <!-- Footer with build timestamp -->
@@ -135,6 +214,7 @@ export default {
       showAllColumns: false,
       selectedBookIds: [],
       filtersOpen: false,
+      selectedDrawerOpen: false,
       columnsHiddenByDefault: ["index", "name", "renewed", "by", "dueDate"],
       headers: [
         { title: "#", key: "index", width: 60, sortable: false },
@@ -198,6 +278,16 @@ export default {
         })
         .sort((a, b) => a.daysLeft - b.daysLeft)
         .map((book, i) => ({ ...book, index: i + 1 }));
+    },
+    unselectedItems() {
+      return this.tableItems.filter(
+        (item) => !this.isBookSelected(this.getBookSelectionId(item, item.index - 1))
+      );
+    },
+    selectedItems() {
+      return this.tableItems.filter(
+        (item) => this.isBookSelected(this.getBookSelectionId(item, item.index - 1))
+      );
     },
   },
   watch: {
@@ -489,5 +579,38 @@ export default {
 /* Footer */
 .build-footer {
   padding-bottom: env(safe-area-inset-bottom, 0.5rem);
+}
+
+/* Selected books drawer */
+.selected-drawer {
+  border: 1px solid rgba(var(--v-theme-primary), 0.25);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.selected-drawer-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.625rem 1rem;
+  background: rgba(var(--v-theme-primary), 0.06);
+  cursor: pointer;
+  border: none;
+  color: inherit;
+  font-family: inherit;
+  transition: background 0.15s ease;
+}
+
+.selected-drawer-header:hover {
+  background: rgba(var(--v-theme-primary), 0.11);
+}
+
+.selected-drawer-content {
+  border-top: 1px solid rgba(var(--v-theme-primary), 0.15);
+}
+
+.selected-drawer-content .books-table {
+  border-radius: 0 !important;
 }
 </style>
