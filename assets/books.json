@@ -671,23 +671,23 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0404134",
-    "accountName": "👦 Arne",
-    "name": "Mein Wimmelbuch vom Tierschutzhof",
-    "renewed": 1,
-    "dueDate": "2026-08-29",
-    "by": "Staar, Katharina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0344346",
     "accountName": "👦 Arne",
     "name": "Kleiner Elliot - große Stadt",
     "renewed": 2,
     "dueDate": "2026-09-19",
     "by": "Curato, Mike",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0404134",
+    "accountName": "👦 Arne",
+    "name": "Mein Wimmelbuch vom Tierschutzhof",
+    "renewed": 2,
+    "dueDate": "2026-09-23",
+    "by": "Staar, Katharina",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
