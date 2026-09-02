@@ -352,17 +352,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0413085",
-    "accountName": "💪 Maarten",
-    "name": "LEGO® Minecraft® Ideen : Mehr als 50 coole Bauideen",
-    "renewed": 2,
-    "dueDate": "2026-09-01",
-    "by": "",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0403763",
     "accountName": "💪 Maarten",
     "name": "Kombihammer : Makita HR2631FT13",
@@ -392,8 +381,8 @@
     "dueDate": "2026-09-25",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": true,
-    "hasReservation": false
+    "isRenewable": false,
+    "hasReservation": true
   },
   {
     "id": "HILD.0321361",
@@ -402,6 +391,17 @@
     "renewed": 2,
     "dueDate": "2026-09-26",
     "by": "Chong, Chang-hun",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0413085",
+    "accountName": "💪 Maarten",
+    "name": "LEGO® Minecraft® Ideen : Mehr als 50 coole Bauideen",
+    "renewed": 3,
+    "dueDate": "2026-09-29",
+    "by": "",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
