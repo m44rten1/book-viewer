@@ -572,45 +572,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0352094",
+    "id": "HILD.0398115",
     "accountName": "👦 Arne",
-    "name": "Ein Freund hilft dem anderen. Immer!",
+    "name": "Häuser : Schritt für Schritt zum LEGO Baumeister",
     "renewed": 0,
-    "dueDate": "2026-10-14",
-    "by": "Springer, Thomas",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0305753",
-    "accountName": "👦 Arne",
-    "name": "Der Ernst des Lebens : eine Geschichte",
-    "renewed": 0,
-    "dueDate": "2026-10-14",
-    "by": "Jörg, Sabine",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0358992",
-    "accountName": "👦 Arne",
-    "name": "Fränkie Stein",
-    "renewed": 0,
-    "dueDate": "2026-10-14",
-    "by": "Grolik, Markus",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0364875",
-    "accountName": "👦 Arne",
-    "name": "König Theodor",
-    "renewed": 0,
-    "dueDate": "2026-10-14",
-    "by": "Hassel, Anne",
+    "dueDate": "2026-10-17",
+    "by": "Dolan, Hannah",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -638,23 +605,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0398115",
+    "id": "HILD.0277656",
     "accountName": "👦 Arne",
-    "name": "Häuser : Schritt für Schritt zum LEGO Baumeister",
-    "renewed": 0,
-    "dueDate": "2026-10-17",
-    "by": "Dolan, Hannah",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0389933",
-    "accountName": "👦 Arne",
-    "name": "Lehrer mit Biss",
+    "name": "Licht aus!",
     "renewed": 1,
     "dueDate": "2026-11-03",
-    "by": "Rose, Barbara",
+    "by": "Auer, Margit",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -704,12 +660,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0233022",
+    "id": "HILD.0389933",
     "accountName": "👦 Arne",
-    "name": "Zilly fliegt wieder",
+    "name": "Lehrer mit Biss",
     "renewed": 1,
     "dueDate": "2026-11-03",
-    "by": "Paul, Korky",
+    "by": "Rose, Barbara",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -726,12 +682,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0277656",
+    "id": "HILD.0233022",
     "accountName": "👦 Arne",
-    "name": "Licht aus!",
+    "name": "Zilly fliegt wieder",
     "renewed": 1,
     "dueDate": "2026-11-03",
-    "by": "Auer, Margit",
+    "by": "Paul, Korky",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -781,6 +737,50 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0364875",
+    "accountName": "👦 Arne",
+    "name": "König Theodor",
+    "renewed": 1,
+    "dueDate": "2026-11-04",
+    "by": "Hassel, Anne",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0358992",
+    "accountName": "👦 Arne",
+    "name": "Fränkie Stein",
+    "renewed": 1,
+    "dueDate": "2026-11-04",
+    "by": "Grolik, Markus",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0352094",
+    "accountName": "👦 Arne",
+    "name": "Ein Freund hilft dem anderen. Immer!",
+    "renewed": 1,
+    "dueDate": "2026-11-04",
+    "by": "Springer, Thomas",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0305753",
+    "accountName": "👦 Arne",
+    "name": "Der Ernst des Lebens : eine Geschichte",
+    "renewed": 1,
+    "dueDate": "2026-11-04",
+    "by": "Jörg, Sabine",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0304639",
     "accountName": "👦 Arne",
     "name": "Komm, wir kneten mit FIMO kids",
@@ -788,7 +788,7 @@
     "dueDate": "2026-11-04",
     "by": "Lehmann, Jana",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -799,7 +799,7 @@
     "dueDate": "2026-11-04",
     "by": "Stamps, Caroline",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -810,7 +810,7 @@
     "dueDate": "2026-11-04",
     "by": "Arreola, Ixtzel",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -821,7 +821,7 @@
     "dueDate": "2026-11-04",
     "by": "Coco",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -832,7 +832,7 @@
     "dueDate": "2026-11-04",
     "by": "Gorelik, Katerina",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   }
 ]
