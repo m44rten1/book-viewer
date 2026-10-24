@@ -73,7 +73,7 @@
     "dueDate": "2026-11-20",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -84,7 +84,7 @@
     "dueDate": "2026-11-20",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -117,7 +117,7 @@
     "dueDate": "2026-11-20",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -139,7 +139,7 @@
     "dueDate": "2026-11-20",
     "by": "Engler, Michael",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -150,7 +150,7 @@
     "dueDate": "2026-11-20",
     "by": "Flessner, Bernd",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -205,7 +205,7 @@
     "dueDate": "2026-11-20",
     "by": "",
     "type": "Spiel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -217,138 +217,6 @@
     "by": "Grigo, Pe",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0375697",
-    "accountName": "💪 Maarten",
-    "name": "Mama muh baut ein Baumhaus",
-    "renewed": 1,
-    "dueDate": "2026-10-30",
-    "by": "Wieslander, Jujja",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0385167",
-    "accountName": "💪 Maarten",
-    "name": "Die Bestimmer",
-    "renewed": 1,
-    "dueDate": "2026-10-30",
-    "by": "Adbåge, Lisen",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0390577",
-    "accountName": "💪 Maarten",
-    "name": "Normans erster Tag im Dinokindergarten",
-    "renewed": 1,
-    "dueDate": "2026-10-30",
-    "by": "Julian, Sean",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0392301",
-    "accountName": "💪 Maarten",
-    "name": "Zwei warten auf Schnee",
-    "renewed": 1,
-    "dueDate": "2026-10-30",
-    "by": "Kaiser, Jan",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0406018",
-    "accountName": "💪 Maarten",
-    "name": "Nicht immer nur Blau",
-    "renewed": 1,
-    "dueDate": "2026-10-30",
-    "by": "Tregoning, Robert",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0409464",
-    "accountName": "💪 Maarten",
-    "name": "Das Sportfest der Zauberinnen",
-    "renewed": 1,
-    "dueDate": "2026-10-30",
-    "by": "Paul, Korky",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0409897",
-    "accountName": "💪 Maarten",
-    "name": "Was ist, wenn mich ein Wal verschluckt?",
-    "renewed": 1,
-    "dueDate": "2026-10-30",
-    "by": "Isern, Susanna",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0409922",
-    "accountName": "💪 Maarten",
-    "name": "Fundbüro Wurm",
-    "renewed": 1,
-    "dueDate": "2026-10-30",
-    "by": "Wellerdiek, Jule",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0413835",
-    "accountName": "💪 Maarten",
-    "name": "Wer zuerst gähnt, hat verloren!",
-    "renewed": 1,
-    "dueDate": "2026-10-30",
-    "by": "Schütze, Andrea",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0415955",
-    "accountName": "💪 Maarten",
-    "name": "Bahn frei für Schnecke!",
-    "renewed": 1,
-    "dueDate": "2026-10-30",
-    "by": "Tabor, Corey R.",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0419670",
-    "accountName": "💪 Maarten",
-    "name": "Dein geniales Gehirn",
-    "renewed": 1,
-    "dueDate": "2026-10-30",
-    "by": "Bunting, Philip",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0420684",
-    "accountName": "💪 Maarten",
-    "name": "Der Kran",
-    "renewed": 1,
-    "dueDate": "2026-10-30",
-    "by": "Erne, Andrea",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -391,6 +259,138 @@
     "renewed": 2,
     "dueDate": "2026-11-20",
     "by": "Davies, Benji",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0375697",
+    "accountName": "💪 Maarten",
+    "name": "Mama muh baut ein Baumhaus",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Wieslander, Jujja",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0385167",
+    "accountName": "💪 Maarten",
+    "name": "Die Bestimmer",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Adbåge, Lisen",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0390577",
+    "accountName": "💪 Maarten",
+    "name": "Normans erster Tag im Dinokindergarten",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Julian, Sean",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0392301",
+    "accountName": "💪 Maarten",
+    "name": "Zwei warten auf Schnee",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Kaiser, Jan",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0406018",
+    "accountName": "💪 Maarten",
+    "name": "Nicht immer nur Blau",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Tregoning, Robert",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0409464",
+    "accountName": "💪 Maarten",
+    "name": "Das Sportfest der Zauberinnen",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Paul, Korky",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0409897",
+    "accountName": "💪 Maarten",
+    "name": "Was ist, wenn mich ein Wal verschluckt?",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Isern, Susanna",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0409922",
+    "accountName": "💪 Maarten",
+    "name": "Fundbüro Wurm",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Wellerdiek, Jule",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0413835",
+    "accountName": "💪 Maarten",
+    "name": "Wer zuerst gähnt, hat verloren!",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Schütze, Andrea",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0415955",
+    "accountName": "💪 Maarten",
+    "name": "Bahn frei für Schnecke!",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Tabor, Corey R.",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0419670",
+    "accountName": "💪 Maarten",
+    "name": "Dein geniales Gehirn",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Bunting, Philip",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0420684",
+    "accountName": "💪 Maarten",
+    "name": "Der Kran",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Erne, Andrea",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
