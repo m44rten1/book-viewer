@@ -396,122 +396,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0417368",
-    "accountName": "👦 Arne",
-    "name": "Auf den Inseln",
-    "renewed": 1,
-    "dueDate": "2026-11-04",
-    "by": "Gorelik, Katerina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0284983",
-    "accountName": "👦 Arne",
-    "name": "Flugzeuge - Abenteuer Luftfahrt : Abenteuer Luftfahrt",
-    "renewed": 1,
-    "dueDate": "2026-11-04",
-    "by": "Stamps, Caroline",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0304639",
-    "accountName": "👦 Arne",
-    "name": "Komm, wir kneten mit FIMO kids",
-    "renewed": 1,
-    "dueDate": "2026-11-04",
-    "by": "Lehmann, Jana",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0305753",
-    "accountName": "👦 Arne",
-    "name": "Der Ernst des Lebens : eine Geschichte",
-    "renewed": 1,
-    "dueDate": "2026-11-04",
-    "by": "Jörg, Sabine",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0352094",
-    "accountName": "👦 Arne",
-    "name": "Ein Freund hilft dem anderen. Immer!",
-    "renewed": 1,
-    "dueDate": "2026-11-04",
-    "by": "Springer, Thomas",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0358992",
-    "accountName": "👦 Arne",
-    "name": "Fränkie Stein",
-    "renewed": 1,
-    "dueDate": "2026-11-04",
-    "by": "Grolik, Markus",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0364875",
-    "accountName": "👦 Arne",
-    "name": "König Theodor",
-    "renewed": 1,
-    "dueDate": "2026-11-04",
-    "by": "Hassel, Anne",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0413181",
-    "accountName": "👦 Arne",
-    "name": "Ein Museum, um nicht zu vergessen",
-    "renewed": 1,
-    "dueDate": "2026-11-04",
-    "by": "Coco",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0409877",
-    "accountName": "👦 Arne",
-    "name": "Kleine Wolke Re",
-    "renewed": 1,
-    "dueDate": "2026-11-04",
-    "by": "Arreola, Ixtzel",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0370349",
     "accountName": "👦 Arne",
     "name": "Meine Superschwester",
     "renewed": 1,
     "dueDate": "2026-11-06",
     "by": "Wetzel, Jutta",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0398115",
-    "accountName": "👦 Arne",
-    "name": "Häuser : Schritt für Schritt zum LEGO Baumeister",
-    "renewed": 1,
-    "dueDate": "2026-11-06",
-    "by": "Dolan, Hannah",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -528,6 +418,39 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0398115",
+    "accountName": "👦 Arne",
+    "name": "Häuser : Schritt für Schritt zum LEGO Baumeister",
+    "renewed": 1,
+    "dueDate": "2026-11-06",
+    "by": "Dolan, Hannah",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0385546",
+    "accountName": "👦 Arne",
+    "name": "Ab auf die Arche : Ohne passende Koffer wirds nass!",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Gleichmann, Antje",
+    "type": "Spiel",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0417368",
+    "accountName": "👦 Arne",
+    "name": "Auf den Inseln",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Gorelik, Katerina",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0416592",
     "accountName": "👦 Arne",
     "name": "Hallihallo Kalmario : Kleine Krake ganz groß",
@@ -535,6 +458,28 @@
     "dueDate": "2026-11-24",
     "by": "",
     "type": "Spiel",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0413181",
+    "accountName": "👦 Arne",
+    "name": "Ein Museum, um nicht zu vergessen",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Coco",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0409877",
+    "accountName": "👦 Arne",
+    "name": "Kleine Wolke Re",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Arreola, Ixtzel",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
   },
@@ -556,17 +501,6 @@
     "renewed": 2,
     "dueDate": "2026-11-24",
     "by": "Merchant, Judith",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0233022",
-    "accountName": "👦 Arne",
-    "name": "Zilly fliegt wieder",
-    "renewed": 2,
-    "dueDate": "2026-11-24",
-    "by": "Paul, Korky",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
@@ -594,13 +528,13 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0385546",
+    "id": "HILD.0233022",
     "accountName": "👦 Arne",
-    "name": "Ab auf die Arche : Ohne passende Koffer wirds nass!",
+    "name": "Zilly fliegt wieder",
     "renewed": 2,
     "dueDate": "2026-11-24",
-    "by": "Gleichmann, Antje",
-    "type": "Spiel",
+    "by": "Paul, Korky",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
   },
@@ -622,6 +556,72 @@
     "renewed": 2,
     "dueDate": "2026-11-24",
     "by": "Lobe, Mira",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0364875",
+    "accountName": "👦 Arne",
+    "name": "König Theodor",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Hassel, Anne",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0358992",
+    "accountName": "👦 Arne",
+    "name": "Fränkie Stein",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Grolik, Markus",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0352094",
+    "accountName": "👦 Arne",
+    "name": "Ein Freund hilft dem anderen. Immer!",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Springer, Thomas",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0305753",
+    "accountName": "👦 Arne",
+    "name": "Der Ernst des Lebens : eine Geschichte",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Jörg, Sabine",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0304639",
+    "accountName": "👦 Arne",
+    "name": "Komm, wir kneten mit FIMO kids",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Lehmann, Jana",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0284983",
+    "accountName": "👦 Arne",
+    "name": "Flugzeuge - Abenteuer Luftfahrt : Abenteuer Luftfahrt",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Stamps, Caroline",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
