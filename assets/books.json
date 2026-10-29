@@ -396,46 +396,24 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0370349",
+    "id": "HILD.0233022",
     "accountName": "👦 Arne",
-    "name": "Meine Superschwester",
-    "renewed": 1,
-    "dueDate": "2026-11-06",
-    "by": "Wetzel, Jutta",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0346639",
-    "accountName": "👦 Arne",
-    "name": "Ella geht schlafen",
-    "renewed": 1,
-    "dueDate": "2026-11-06",
-    "by": "Tourlonias, Joelle",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0398115",
-    "accountName": "👦 Arne",
-    "name": "Häuser : Schritt für Schritt zum LEGO Baumeister",
-    "renewed": 1,
-    "dueDate": "2026-11-06",
-    "by": "Dolan, Hannah",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0385546",
-    "accountName": "👦 Arne",
-    "name": "Ab auf die Arche : Ohne passende Koffer wirds nass!",
+    "name": "Zilly fliegt wieder",
     "renewed": 2,
     "dueDate": "2026-11-24",
-    "by": "Gleichmann, Antje",
-    "type": "Spiel",
+    "by": "Paul, Korky",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0277656",
+    "accountName": "👦 Arne",
+    "name": "Licht aus!",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Auer, Margit",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
   },
@@ -528,23 +506,23 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0233022",
+    "id": "HILD.0385546",
     "accountName": "👦 Arne",
-    "name": "Zilly fliegt wieder",
+    "name": "Ab auf die Arche : Ohne passende Koffer wirds nass!",
     "renewed": 2,
     "dueDate": "2026-11-24",
-    "by": "Paul, Korky",
-    "type": "Kinder-/Jugendbuch",
+    "by": "Gleichmann, Antje",
+    "type": "Spiel",
     "isRenewable": false,
     "hasReservation": false
   },
   {
-    "id": "HILD.0277656",
+    "id": "HILD.0417936",
     "accountName": "👦 Arne",
-    "name": "Licht aus!",
+    "name": "Eule Elli und der Neue im Wald",
     "renewed": 2,
     "dueDate": "2026-11-24",
-    "by": "Auer, Margit",
+    "by": "Vollmer, Georg",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
@@ -649,12 +627,34 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0417936",
+    "id": "HILD.0398115",
     "accountName": "👦 Arne",
-    "name": "Eule Elli und der Neue im Wald",
+    "name": "Häuser : Schritt für Schritt zum LEGO Baumeister",
     "renewed": 2,
-    "dueDate": "2026-11-24",
-    "by": "Vollmer, Georg",
+    "dueDate": "2026-11-26",
+    "by": "Dolan, Hannah",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0346639",
+    "accountName": "👦 Arne",
+    "name": "Ella geht schlafen",
+    "renewed": 2,
+    "dueDate": "2026-11-26",
+    "by": "Tourlonias, Joelle",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0370349",
+    "accountName": "👦 Arne",
+    "name": "Meine Superschwester",
+    "renewed": 2,
+    "dueDate": "2026-11-26",
+    "by": "Wetzel, Jutta",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
