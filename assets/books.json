@@ -11,12 +11,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0414763",
+    "id": "HILD.0411090",
     "accountName": "❤️ Maren",
-    "name": "Ab ins Bett, Winnifrett!",
+    "name": "Vom Glück, besonders zu sein",
     "renewed": 2,
     "dueDate": "2026-11-20",
-    "by": "Sabbag, Britta",
+    "by": "Kleinhout, Bas",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
@@ -66,28 +66,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0416572",
-    "accountName": "❤️ Maren",
-    "name": "Röntgenbilder \"Mensch\"",
-    "renewed": 1,
-    "dueDate": "2026-11-20",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0416248",
-    "accountName": "❤️ Maren",
-    "name": "Dosenwerfen",
-    "renewed": 1,
-    "dueDate": "2026-11-20",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0414975",
     "accountName": "❤️ Maren",
     "name": "Es wird Nacht hier im Wald",
@@ -99,12 +77,23 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0411090",
+    "id": "HILD.0414763",
     "accountName": "❤️ Maren",
-    "name": "Vom Glück, besonders zu sein",
+    "name": "Ab ins Bett, Winnifrett!",
     "renewed": 2,
     "dueDate": "2026-11-20",
-    "by": "Kleinhout, Bas",
+    "by": "Sabbag, Britta",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0411085",
+    "accountName": "❤️ Maren",
+    "name": "Monster vermisst",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Hegarty,  Shane",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
@@ -118,17 +107,6 @@
     "by": "",
     "type": "Spiel",
     "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0411085",
-    "accountName": "❤️ Maren",
-    "name": "Monster vermisst",
-    "renewed": 2,
-    "dueDate": "2026-11-20",
-    "by": "Hegarty,  Shane",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
     "hasReservation": false
   },
   {
@@ -396,46 +374,13 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0233022",
+    "id": "HILD.0399575",
     "accountName": "👦 Arne",
-    "name": "Zilly fliegt wieder",
+    "name": "Der Tag, an dem ich den bösen Wolf verjagte",
     "renewed": 2,
     "dueDate": "2026-11-24",
-    "by": "Paul, Korky",
+    "by": "Javaux, Amélie",
     "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0277656",
-    "accountName": "👦 Arne",
-    "name": "Licht aus!",
-    "renewed": 2,
-    "dueDate": "2026-11-24",
-    "by": "Auer, Margit",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0417368",
-    "accountName": "👦 Arne",
-    "name": "Auf den Inseln",
-    "renewed": 2,
-    "dueDate": "2026-11-24",
-    "by": "Gorelik, Katerina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0416592",
-    "accountName": "👦 Arne",
-    "name": "Hallihallo Kalmario : Kleine Krake ganz groß",
-    "renewed": 2,
-    "dueDate": "2026-11-24",
-    "by": "",
-    "type": "Spiel",
     "isRenewable": false,
     "hasReservation": false
   },
@@ -451,79 +396,13 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0409877",
+    "id": "HILD.0416592",
     "accountName": "👦 Arne",
-    "name": "Kleine Wolke Re",
+    "name": "Hallihallo Kalmario : Kleine Krake ganz groß",
     "renewed": 2,
     "dueDate": "2026-11-24",
-    "by": "Arreola, Ixtzel",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0402781",
-    "accountName": "👦 Arne",
-    "name": "Mutig, stark und selbstbewusst",
-    "renewed": 2,
-    "dueDate": "2026-11-24",
-    "by": "Szesny, Susanne",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0399676",
-    "accountName": "👦 Arne",
-    "name": "Hanni hat Tomaten in den Ohren",
-    "renewed": 2,
-    "dueDate": "2026-11-24",
-    "by": "Merchant, Judith",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0399575",
-    "accountName": "👦 Arne",
-    "name": "Der Tag, an dem ich den bösen Wolf verjagte",
-    "renewed": 2,
-    "dueDate": "2026-11-24",
-    "by": "Javaux, Amélie",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0389933",
-    "accountName": "👦 Arne",
-    "name": "Lehrer mit Biss",
-    "renewed": 2,
-    "dueDate": "2026-11-24",
-    "by": "Rose, Barbara",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0385546",
-    "accountName": "👦 Arne",
-    "name": "Ab auf die Arche : Ohne passende Koffer wirds nass!",
-    "renewed": 2,
-    "dueDate": "2026-11-24",
-    "by": "Gleichmann, Antje",
+    "by": "",
     "type": "Spiel",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0417936",
-    "accountName": "👦 Arne",
-    "name": "Eule Elli und der Neue im Wald",
-    "renewed": 2,
-    "dueDate": "2026-11-24",
-    "by": "Vollmer, Georg",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
   },
@@ -550,6 +429,39 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0233022",
+    "accountName": "👦 Arne",
+    "name": "Zilly fliegt wieder",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Paul, Korky",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0402781",
+    "accountName": "👦 Arne",
+    "name": "Mutig, stark und selbstbewusst",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Szesny, Susanne",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0417368",
+    "accountName": "👦 Arne",
+    "name": "Auf den Inseln",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Gorelik, Katerina",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0358992",
     "accountName": "👦 Arne",
     "name": "Fränkie Stein",
@@ -561,12 +473,45 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0417936",
+    "accountName": "👦 Arne",
+    "name": "Eule Elli und der Neue im Wald",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Vollmer, Georg",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0352094",
     "accountName": "👦 Arne",
     "name": "Ein Freund hilft dem anderen. Immer!",
     "renewed": 2,
     "dueDate": "2026-11-24",
     "by": "Springer, Thomas",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0385546",
+    "accountName": "👦 Arne",
+    "name": "Ab auf die Arche : Ohne passende Koffer wirds nass!",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Gleichmann, Antje",
+    "type": "Spiel",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0399676",
+    "accountName": "👦 Arne",
+    "name": "Hanni hat Tomaten in den Ohren",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Merchant, Judith",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
@@ -627,6 +572,94 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0277656",
+    "accountName": "👦 Arne",
+    "name": "Licht aus!",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Auer, Margit",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0389933",
+    "accountName": "👦 Arne",
+    "name": "Lehrer mit Biss",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Rose, Barbara",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0409877",
+    "accountName": "👦 Arne",
+    "name": "Kleine Wolke Re",
+    "renewed": 2,
+    "dueDate": "2026-11-24",
+    "by": "Arreola, Ixtzel",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0404537",
+    "accountName": "👦 Arne",
+    "name": "Taschenmikroskop",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0217367",
+    "accountName": "👦 Arne",
+    "name": "Bobo geht einkaufen",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Osterwalder, Markus",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0413745",
+    "accountName": "👦 Arne",
+    "name": "Aua!",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Teich, Karsten",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0415942",
+    "accountName": "👦 Arne",
+    "name": "Weil ich mutig bin",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Amend, Lars",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0417281",
+    "accountName": "👦 Arne",
+    "name": "Wurf-Ei",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0398115",
     "accountName": "👦 Arne",
     "name": "Häuser : Schritt für Schritt zum LEGO Baumeister",
@@ -635,6 +668,105 @@
     "by": "Dolan, Hannah",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0418412",
+    "accountName": "👦 Arne",
+    "name": "Mäusemut",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Engler, Michael",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0419505",
+    "accountName": "👦 Arne",
+    "name": "Eingeladen!",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Kastelic, Maja",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0420628",
+    "accountName": "👦 Arne",
+    "name": "Carli und Klecks retten einen Käfer",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Hänsch, Lisa",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0417365",
+    "accountName": "👦 Arne",
+    "name": "Einfach mutig!",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Naumann, Kati",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0382489",
+    "accountName": "👦 Arne",
+    "name": "Ich hab (fast) keine Angst im Dunkeln!",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Milbourne, Anna",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0396673",
+    "accountName": "👦 Arne",
+    "name": "So neugierig",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Pigé, Florian",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0364551",
+    "accountName": "👦 Arne",
+    "name": "Ersatzhasi",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Rayner, Abigail",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0260344",
+    "accountName": "👦 Arne",
+    "name": "Nur Mut, du bist stark",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0346055",
+    "accountName": "👦 Arne",
+    "name": "Lenas Laden",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Göhlich, Susanne",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -649,6 +781,39 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0354878",
+    "accountName": "👦 Arne",
+    "name": "Nur Mut, kleiner Drache!",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Lückel, Kristin",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0363557",
+    "accountName": "👦 Arne",
+    "name": "Die bunten Sachen : Wo ist der Unterschied?",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Holtfreter, Nastja",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0363846",
+    "accountName": "👦 Arne",
+    "name": "10 kleine bange Monster",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Reyhani, Markus",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0370349",
     "accountName": "👦 Arne",
     "name": "Meine Superschwester",
@@ -657,6 +822,105 @@
     "by": "Wetzel, Jutta",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0391315",
+    "accountName": "👦 Arne",
+    "name": "Armin der Buchhändler",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Berner, Rotraut Susanne",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0372765",
+    "accountName": "👦 Arne",
+    "name": "Mein erster Besuch am Meer : 24+ Monate",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Jelenkovich, Barbara",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0372878",
+    "accountName": "👦 Arne",
+    "name": "Wenn 10 kleine Burggespenster träumen ..",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Göhlich, Susanne",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0372888",
+    "accountName": "👦 Arne",
+    "name": "Der Wolf und die Fliege",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Damm, Antje",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0375779",
+    "accountName": "👦 Arne",
+    "name": "Wenn ich wütend bin",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Nesshöver, Nanna",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0382479",
+    "accountName": "👦 Arne",
+    "name": "Wenn Hasen gute Laune haben",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Scheffler, Axel",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0384473",
+    "accountName": "👦 Arne",
+    "name": "Hokuspokus Hamsterqualle : dieses Klipp-Klapp-Buch verzaubert alle",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Weller-Essers, Andrea",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0386283",
+    "accountName": "👦 Arne",
+    "name": "Faultierrennen!",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Hesse, Lena",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0421156",
+    "accountName": "👦 Arne",
+    "name": "Angst im Dunkeln? Ich doch nicht!",
+    "renewed": 0,
+    "dueDate": "2026-11-26",
+    "by": "Anker, Nicola",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
     "hasReservation": false
   }
 ]
