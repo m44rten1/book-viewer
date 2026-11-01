@@ -11,12 +11,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0411090",
+    "id": "HILD.0411085",
     "accountName": "❤️ Maren",
-    "name": "Vom Glück, besonders zu sein",
+    "name": "Monster vermisst",
     "renewed": 2,
     "dueDate": "2026-11-20",
-    "by": "Kleinhout, Bas",
+    "by": "Hegarty,  Shane",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
@@ -88,25 +88,14 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0411085",
+    "id": "HILD.0411090",
     "accountName": "❤️ Maren",
-    "name": "Monster vermisst",
+    "name": "Vom Glück, besonders zu sein",
     "renewed": 2,
     "dueDate": "2026-11-20",
-    "by": "Hegarty,  Shane",
+    "by": "Kleinhout, Bas",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0374091",
-    "accountName": "❤️ Maren",
-    "name": "Laser Maze Junior",
-    "renewed": 1,
-    "dueDate": "2026-11-20",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -117,6 +106,17 @@
     "dueDate": "2026-11-20",
     "by": "Engler, Michael",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0374091",
+    "accountName": "❤️ Maren",
+    "name": "Laser Maze Junior",
+    "renewed": 1,
+    "dueDate": "2026-11-20",
+    "by": "",
+    "type": "Spiel",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -198,14 +198,14 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0400886",
-    "accountName": "💪 Maarten",
-    "name": "It takes two (Nintendo Switch)",
-    "renewed": 2,
-    "dueDate": "2026-11-03",
+    "id": "HILD.0400660",
+    "accountName": "❤️ Maren",
+    "name": "Rabbids : Party of Legends (Nintendo Switch)",
+    "renewed": 0,
+    "dueDate": "2026-11-28",
     "by": "",
     "type": "Konsolenspiel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
