@@ -220,133 +220,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0367813",
-    "accountName": "💪 Maarten",
-    "name": "Der Rüpelritter",
-    "renewed": 2,
-    "dueDate": "2026-11-20",
-    "by": "Paul, Korky",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0372785",
-    "accountName": "💪 Maarten",
-    "name": "Nick und der Sommer mit Oma",
-    "renewed": 2,
-    "dueDate": "2026-11-20",
-    "by": "Davies, Benji",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0375697",
-    "accountName": "💪 Maarten",
-    "name": "Mama muh baut ein Baumhaus",
-    "renewed": 2,
-    "dueDate": "2026-11-20",
-    "by": "Wieslander, Jujja",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0385167",
-    "accountName": "💪 Maarten",
-    "name": "Die Bestimmer",
-    "renewed": 2,
-    "dueDate": "2026-11-20",
-    "by": "Adbåge, Lisen",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0390577",
-    "accountName": "💪 Maarten",
-    "name": "Normans erster Tag im Dinokindergarten",
-    "renewed": 2,
-    "dueDate": "2026-11-20",
-    "by": "Julian, Sean",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0392301",
-    "accountName": "💪 Maarten",
-    "name": "Zwei warten auf Schnee",
-    "renewed": 2,
-    "dueDate": "2026-11-20",
-    "by": "Kaiser, Jan",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0406018",
     "accountName": "💪 Maarten",
     "name": "Nicht immer nur Blau",
     "renewed": 2,
     "dueDate": "2026-11-20",
     "by": "Tregoning, Robert",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0409464",
-    "accountName": "💪 Maarten",
-    "name": "Das Sportfest der Zauberinnen",
-    "renewed": 2,
-    "dueDate": "2026-11-20",
-    "by": "Paul, Korky",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0409897",
-    "accountName": "💪 Maarten",
-    "name": "Was ist, wenn mich ein Wal verschluckt?",
-    "renewed": 2,
-    "dueDate": "2026-11-20",
-    "by": "Isern, Susanna",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0409922",
-    "accountName": "💪 Maarten",
-    "name": "Fundbüro Wurm",
-    "renewed": 2,
-    "dueDate": "2026-11-20",
-    "by": "Wellerdiek, Jule",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0413835",
-    "accountName": "💪 Maarten",
-    "name": "Wer zuerst gähnt, hat verloren!",
-    "renewed": 2,
-    "dueDate": "2026-11-20",
-    "by": "Schütze, Andrea",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0415955",
-    "accountName": "💪 Maarten",
-    "name": "Bahn frei für Schnecke!",
-    "renewed": 2,
-    "dueDate": "2026-11-20",
-    "by": "Tabor, Corey R.",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
@@ -363,6 +242,61 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0415955",
+    "accountName": "💪 Maarten",
+    "name": "Bahn frei für Schnecke!",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Tabor, Corey R.",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0413835",
+    "accountName": "💪 Maarten",
+    "name": "Wer zuerst gähnt, hat verloren!",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Schütze, Andrea",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0409922",
+    "accountName": "💪 Maarten",
+    "name": "Fundbüro Wurm",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Wellerdiek, Jule",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0409897",
+    "accountName": "💪 Maarten",
+    "name": "Was ist, wenn mich ein Wal verschluckt?",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Isern, Susanna",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0409464",
+    "accountName": "💪 Maarten",
+    "name": "Das Sportfest der Zauberinnen",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Paul, Korky",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0420684",
     "accountName": "💪 Maarten",
     "name": "Der Kran",
@@ -371,6 +305,94 @@
     "by": "Erne, Andrea",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0367813",
+    "accountName": "💪 Maarten",
+    "name": "Der Rüpelritter",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Paul, Korky",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0392301",
+    "accountName": "💪 Maarten",
+    "name": "Zwei warten auf Schnee",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Kaiser, Jan",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0390577",
+    "accountName": "💪 Maarten",
+    "name": "Normans erster Tag im Dinokindergarten",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Julian, Sean",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0385167",
+    "accountName": "💪 Maarten",
+    "name": "Die Bestimmer",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Adbåge, Lisen",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0375697",
+    "accountName": "💪 Maarten",
+    "name": "Mama muh baut ein Baumhaus",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Wieslander, Jujja",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0372785",
+    "accountName": "💪 Maarten",
+    "name": "Nick und der Sommer mit Oma",
+    "renewed": 2,
+    "dueDate": "2026-11-20",
+    "by": "Davies, Benji",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0389337",
+    "accountName": "💪 Maarten",
+    "name": "Very Very Valet (Nintendo Switch)",
+    "renewed": 0,
+    "dueDate": "2026-12-01",
+    "by": "",
+    "type": "Konsolenspiel",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0393989",
+    "accountName": "💪 Maarten",
+    "name": "Hello Kitty Kruisers with Sanrio freinds : (Nintendo Switch)",
+    "renewed": 0,
+    "dueDate": "2026-12-01",
+    "by": "",
+    "type": "Konsolenspiel",
+    "isRenewable": true,
     "hasReservation": false
   },
   {
