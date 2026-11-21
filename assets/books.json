@@ -330,17 +330,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0393989",
-    "accountName": "💪 Maarten",
-    "name": "Hello Kitty Kruisers with Sanrio freinds : (Nintendo Switch)",
-    "renewed": 0,
-    "dueDate": "2026-12-01",
-    "by": "",
-    "type": "Konsolenspiel",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0389337",
     "accountName": "💪 Maarten",
     "name": "Very Very Valet (Nintendo Switch)",
@@ -352,57 +341,13 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0287849",
+    "id": "HILD.0393989",
     "accountName": "💪 Maarten",
-    "name": "Klingeling! Das goldene Weihnachts-Glöckchen",
+    "name": "Hello Kitty Kruisers with Sanrio freinds : (Nintendo Switch)",
     "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Dierks, Hannelore",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0288936",
-    "accountName": "💪 Maarten",
-    "name": "Mein erstes Weihnachts-Bastelbuch : fröhliche Ideen für Kinder ab 2",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Hattenhauer, Ina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0360994",
-    "accountName": "💪 Maarten",
-    "name": "4, 5 und ?",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Genechten, Guido van",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0375628",
-    "accountName": "💪 Maarten",
-    "name": "Juhu, bald ist Weihnachten!",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Flad, Antje",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0379057",
-    "accountName": "💪 Maarten",
-    "name": "Bobo feiert Weihnachten",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Osterwalder, Markus",
-    "type": "Kinder-/Jugendbuch",
+    "dueDate": "2026-12-01",
+    "by": "",
+    "type": "Konsolenspiel",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -413,28 +358,6 @@
     "renewed": 0,
     "dueDate": "2026-12-04",
     "by": "Gernhäuser, Susanne",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0386901",
-    "accountName": "💪 Maarten",
-    "name": "Wie das Christkind fast Weihnachten verschlafen hat",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Krüger, Thomas",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0412639",
-    "accountName": "💪 Maarten",
-    "name": "Ein Wichtel wohnt bei uns : ab 3 J.",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Schuld, Kerstin M.",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -451,6 +374,83 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0412639",
+    "accountName": "💪 Maarten",
+    "name": "Ein Wichtel wohnt bei uns : ab 3 J.",
+    "renewed": 0,
+    "dueDate": "2026-12-04",
+    "by": "Schuld, Kerstin M.",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0288936",
+    "accountName": "💪 Maarten",
+    "name": "Mein erstes Weihnachts-Bastelbuch : fröhliche Ideen für Kinder ab 2",
+    "renewed": 0,
+    "dueDate": "2026-12-04",
+    "by": "Hattenhauer, Ina",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0386901",
+    "accountName": "💪 Maarten",
+    "name": "Wie das Christkind fast Weihnachten verschlafen hat",
+    "renewed": 0,
+    "dueDate": "2026-12-04",
+    "by": "Krüger, Thomas",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0287849",
+    "accountName": "💪 Maarten",
+    "name": "Klingeling! Das goldene Weihnachts-Glöckchen",
+    "renewed": 0,
+    "dueDate": "2026-12-04",
+    "by": "Dierks, Hannelore",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0379057",
+    "accountName": "💪 Maarten",
+    "name": "Bobo feiert Weihnachten",
+    "renewed": 0,
+    "dueDate": "2026-12-04",
+    "by": "Osterwalder, Markus",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0375628",
+    "accountName": "💪 Maarten",
+    "name": "Juhu, bald ist Weihnachten!",
+    "renewed": 0,
+    "dueDate": "2026-12-04",
+    "by": "Flad, Antje",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0360994",
+    "accountName": "💪 Maarten",
+    "name": "4, 5 und ?",
+    "renewed": 0,
+    "dueDate": "2026-12-04",
+    "by": "Genechten, Guido van",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0367424",
     "accountName": "💪 Maarten",
     "name": "Super Mario Party (Nintendo Switch)",
@@ -458,28 +458,6 @@
     "dueDate": "2026-12-05",
     "by": "",
     "type": "Konsolenspiel",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0359024",
-    "accountName": "💪 Maarten",
-    "name": "Baustellenfahrzeuge",
-    "renewed": 0,
-    "dueDate": "2026-12-08",
-    "by": "Späth, Ralph",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0359026",
-    "accountName": "💪 Maarten",
-    "name": "Dinosaurier",
-    "renewed": 0,
-    "dueDate": "2026-12-08",
-    "by": "Neubauer, Annette",
-    "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -495,6 +473,28 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0359026",
+    "accountName": "💪 Maarten",
+    "name": "Dinosaurier",
+    "renewed": 0,
+    "dueDate": "2026-12-08",
+    "by": "Neubauer, Annette",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0359024",
+    "accountName": "💪 Maarten",
+    "name": "Baustellenfahrzeuge",
+    "renewed": 0,
+    "dueDate": "2026-12-08",
+    "by": "Späth, Ralph",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0418199",
     "accountName": "💪 Maarten",
     "name": "Liv geht aufs Töpfchen : 2-4 Jahre : Kinderalltag und Entwicklung",
@@ -502,6 +502,83 @@
     "dueDate": "2026-12-08",
     "by": "Grimm, Sandra",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0367395",
+    "accountName": "💪 Maarten",
+    "name": "Buchbinden für Kinder : vom einfachen Blitzbuch zum Spionageheft",
+    "renewed": 0,
+    "dueDate": "2026-12-18",
+    "by": "Paffenholz, Petra",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0389669",
+    "accountName": "💪 Maarten",
+    "name": "#Römertopf : Fleich, Geflügel, Wild",
+    "renewed": 0,
+    "dueDate": "2026-12-18",
+    "by": "Bey, Dirk",
+    "type": "Sachbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0390009",
+    "accountName": "💪 Maarten",
+    "name": "Bücher binden : 22 Buchobjekte aus Papier und Faden",
+    "renewed": 0,
+    "dueDate": "2026-12-18",
+    "by": "Langwe, Monica",
+    "type": "Sachbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0411381",
+    "accountName": "💪 Maarten",
+    "name": "Papierschöpf-Set",
+    "renewed": 0,
+    "dueDate": "2026-12-18",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0414364",
+    "accountName": "💪 Maarten",
+    "name": "Lernuhr",
+    "renewed": 0,
+    "dueDate": "2026-12-18",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0416331",
+    "accountName": "💪 Maarten",
+    "name": "Papiere schöpfen & gestalten : Projekte aus Altpapieren und Pflanzen",
+    "renewed": 0,
+    "dueDate": "2026-12-18",
+    "by": "Hauck, Eva",
+    "type": "Sachbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0423421",
+    "accountName": "💪 Maarten",
+    "name": "KAM Snap Zange",
+    "renewed": 0,
+    "dueDate": "2026-12-18",
+    "by": "",
+    "type": "Serviceartikel",
     "isRenewable": true,
     "hasReservation": false
   },
