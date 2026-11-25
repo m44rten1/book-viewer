@@ -568,7 +568,7 @@
     "dueDate": "2026-12-22",
     "by": "",
     "type": "Konsolenspiel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
@@ -579,7 +579,7 @@
     "dueDate": "2026-12-22",
     "by": "",
     "type": "Konsolenspiel",
-    "isRenewable": false,
+    "isRenewable": true,
     "hasReservation": false
   },
   {
