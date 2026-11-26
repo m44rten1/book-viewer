@@ -330,100 +330,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0287849",
-    "accountName": "💪 Maarten",
-    "name": "Klingeling! Das goldene Weihnachts-Glöckchen",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Dierks, Hannelore",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0412639",
-    "accountName": "💪 Maarten",
-    "name": "Ein Wichtel wohnt bei uns : ab 3 J.",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Schuld, Kerstin M.",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0360994",
-    "accountName": "💪 Maarten",
-    "name": "4, 5 und ?",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Genechten, Guido van",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0375628",
-    "accountName": "💪 Maarten",
-    "name": "Juhu, bald ist Weihnachten!",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Flad, Antje",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0379057",
-    "accountName": "💪 Maarten",
-    "name": "Bobo feiert Weihnachten",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Osterwalder, Markus",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0384639",
-    "accountName": "💪 Maarten",
-    "name": "Frohe Weihnachten",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Gernhäuser, Susanne",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0386901",
-    "accountName": "💪 Maarten",
-    "name": "Wie das Christkind fast Weihnachten verschlafen hat",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Krüger, Thomas",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0288936",
     "accountName": "💪 Maarten",
     "name": "Mein erstes Weihnachts-Bastelbuch : fröhliche Ideen für Kinder ab 2",
     "renewed": 0,
     "dueDate": "2026-12-04",
     "by": "Hattenhauer, Ina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0417580",
-    "accountName": "💪 Maarten",
-    "name": "Advent, Advent, der Weihnachtsmann rennt!",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Schmidt, Hans-Christian",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -436,6 +348,17 @@
     "dueDate": "2026-12-05",
     "by": "",
     "type": "Konsolenspiel",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0391298",
+    "accountName": "💪 Maarten",
+    "name": "Eine ganz dumme Idee : Roman",
+    "renewed": 0,
+    "dueDate": "2026-12-08",
+    "by": "Backman, Fredrik",
+    "type": "Roman",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -473,13 +396,24 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0391298",
+    "id": "HILD.0423421",
     "accountName": "💪 Maarten",
-    "name": "Eine ganz dumme Idee : Roman",
+    "name": "KAM Snap Zange",
     "renewed": 0,
-    "dueDate": "2026-12-08",
-    "by": "Backman, Fredrik",
-    "type": "Roman",
+    "dueDate": "2026-12-18",
+    "by": "",
+    "type": "Serviceartikel",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0367395",
+    "accountName": "💪 Maarten",
+    "name": "Buchbinden für Kinder : vom einfachen Blitzbuch zum Spionageheft",
+    "renewed": 0,
+    "dueDate": "2026-12-18",
+    "by": "Paffenholz, Petra",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -506,17 +440,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0423421",
-    "accountName": "💪 Maarten",
-    "name": "KAM Snap Zange",
-    "renewed": 0,
-    "dueDate": "2026-12-18",
-    "by": "",
-    "type": "Serviceartikel",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0411381",
     "accountName": "💪 Maarten",
     "name": "Papierschöpf-Set",
@@ -524,17 +447,6 @@
     "dueDate": "2026-12-18",
     "by": "",
     "type": "Serviceartikel",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0390009",
-    "accountName": "💪 Maarten",
-    "name": "Bücher binden : 22 Buchobjekte aus Papier und Faden",
-    "renewed": 0,
-    "dueDate": "2026-12-18",
-    "by": "Langwe, Monica",
-    "type": "Sachbuch",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -550,13 +462,13 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0367395",
+    "id": "HILD.0390009",
     "accountName": "💪 Maarten",
-    "name": "Buchbinden für Kinder : vom einfachen Blitzbuch zum Spionageheft",
+    "name": "Bücher binden : 22 Buchobjekte aus Papier und Faden",
     "renewed": 0,
     "dueDate": "2026-12-18",
-    "by": "Paffenholz, Petra",
-    "type": "Kinder-/Jugendbuch",
+    "by": "Langwe, Monica",
+    "type": "Sachbuch",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -580,6 +492,94 @@
     "by": "",
     "type": "Konsolenspiel",
     "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0386901",
+    "accountName": "💪 Maarten",
+    "name": "Wie das Christkind fast Weihnachten verschlafen hat",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Krüger, Thomas",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0384639",
+    "accountName": "💪 Maarten",
+    "name": "Frohe Weihnachten",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Gernhäuser, Susanne",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0412639",
+    "accountName": "💪 Maarten",
+    "name": "Ein Wichtel wohnt bei uns : ab 3 J.",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Schuld, Kerstin M.",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0379057",
+    "accountName": "💪 Maarten",
+    "name": "Bobo feiert Weihnachten",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Osterwalder, Markus",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0375628",
+    "accountName": "💪 Maarten",
+    "name": "Juhu, bald ist Weihnachten!",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Flad, Antje",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0417580",
+    "accountName": "💪 Maarten",
+    "name": "Advent, Advent, der Weihnachtsmann rennt!",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Schmidt, Hans-Christian",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0360994",
+    "accountName": "💪 Maarten",
+    "name": "4, 5 und ?",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Genechten, Guido van",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0287849",
+    "accountName": "💪 Maarten",
+    "name": "Klingeling! Das goldene Weihnachts-Glöckchen",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Dierks, Hannelore",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
     "hasReservation": false
   },
   {
