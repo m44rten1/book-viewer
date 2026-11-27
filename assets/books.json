@@ -330,17 +330,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0288936",
-    "accountName": "💪 Maarten",
-    "name": "Mein erstes Weihnachts-Bastelbuch : fröhliche Ideen für Kinder ab 2",
-    "renewed": 0,
-    "dueDate": "2026-12-04",
-    "by": "Hattenhauer, Ina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0367424",
     "accountName": "💪 Maarten",
     "name": "Super Mario Party (Nintendo Switch)",
@@ -348,17 +337,6 @@
     "dueDate": "2026-12-05",
     "by": "",
     "type": "Konsolenspiel",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0391298",
-    "accountName": "💪 Maarten",
-    "name": "Eine ganz dumme Idee : Roman",
-    "renewed": 0,
-    "dueDate": "2026-12-08",
-    "by": "Backman, Fredrik",
-    "type": "Roman",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -396,6 +374,17 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0391298",
+    "accountName": "💪 Maarten",
+    "name": "Eine ganz dumme Idee : Roman",
+    "renewed": 0,
+    "dueDate": "2026-12-08",
+    "by": "Backman, Fredrik",
+    "type": "Roman",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0423421",
     "accountName": "💪 Maarten",
     "name": "KAM Snap Zange",
@@ -403,6 +392,17 @@
     "dueDate": "2026-12-18",
     "by": "",
     "type": "Serviceartikel",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0390009",
+    "accountName": "💪 Maarten",
+    "name": "Bücher binden : 22 Buchobjekte aus Papier und Faden",
+    "renewed": 0,
+    "dueDate": "2026-12-18",
+    "by": "Langwe, Monica",
+    "type": "Sachbuch",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -462,17 +462,6 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0390009",
-    "accountName": "💪 Maarten",
-    "name": "Bücher binden : 22 Buchobjekte aus Papier und Faden",
-    "renewed": 0,
-    "dueDate": "2026-12-18",
-    "by": "Langwe, Monica",
-    "type": "Sachbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0393989",
     "accountName": "💪 Maarten",
     "name": "Hello Kitty Kruisers with Sanrio freinds : (Nintendo Switch)",
@@ -492,6 +481,17 @@
     "by": "",
     "type": "Konsolenspiel",
     "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0288936",
+    "accountName": "💪 Maarten",
+    "name": "Mein erstes Weihnachts-Bastelbuch : fröhliche Ideen für Kinder ab 2",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Hattenhauer, Ina",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
     "hasReservation": false
   },
   {
