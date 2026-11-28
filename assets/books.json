@@ -1,115 +1,5 @@
 [
   {
-    "id": "HILD.0389108",
-    "accountName": "❤️ Maren",
-    "name": "Lifehacks : 50 clevere Ideen für deine LEGO® Steine",
-    "renewed": 0,
-    "dueDate": "2026-12-05",
-    "by": "March, Julia",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0379366",
-    "accountName": "❤️ Maren",
-    "name": "Die Schule der magischen Tiere: Nicht zu fassen! : Das Spiel mit dem Dreh",
-    "renewed": 0,
-    "dueDate": "2026-12-05",
-    "by": "Kallauch, Michael",
-    "type": "Spiel",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0418201",
-    "accountName": "❤️ Maren",
-    "name": "Mein erstes Bild-Wörterbuch Deutsch-Englisch",
-    "renewed": 0,
-    "dueDate": "2026-12-05",
-    "by": "Harvey, Franziska",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0413244",
-    "accountName": "❤️ Maren",
-    "name": "Die Planeten : entdecke unser faszinierendes Sonnensystem",
-    "renewed": 0,
-    "dueDate": "2026-12-05",
-    "by": "Allan, Sophie",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0407520",
-    "accountName": "❤️ Maren",
-    "name": "Unsere Welt in 1000 Bildern : Fakten, Fotos, Wissen",
-    "renewed": 0,
-    "dueDate": "2026-12-05",
-    "by": "Bryan, Kim",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0367397",
-    "accountName": "❤️ Maren",
-    "name": "Erstes Englisch",
-    "renewed": 0,
-    "dueDate": "2026-12-05",
-    "by": "Reichert, Katharina [Künstler]",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0391204",
-    "accountName": "❤️ Maren",
-    "name": "Tapikékoi ? : Gedächtnisspiel",
-    "renewed": 0,
-    "dueDate": "2026-12-05",
-    "by": "",
-    "type": "Spiel",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0412091",
-    "accountName": "❤️ Maren",
-    "name": "Hase Hibiskus und das Weihnachtstier",
-    "renewed": 0,
-    "dueDate": "2026-12-12",
-    "by": "König, Andreas",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0411749",
-    "accountName": "❤️ Maren",
-    "name": "Mulles Zaubersteinchen",
-    "renewed": 0,
-    "dueDate": "2026-12-12",
-    "by": "Herzog, Annette",
-    "type": "CD Kinder",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0406739",
-    "accountName": "❤️ Maren",
-    "name": "Der kleine Elefant, der so gerne einschlafen möchte : Die neue Einschlafhilfe für Kinder",
-    "renewed": 0,
-    "dueDate": "2026-12-12",
-    "by": "",
-    "type": "CD Kinder",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0167578",
     "accountName": "❤️ Maren",
     "name": "Mama Muh feiert Weihnachten",
@@ -121,12 +11,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0359308",
+    "id": "HILD.0412091",
     "accountName": "❤️ Maren",
-    "name": "Knurps, der Weihnachtswichtel",
+    "name": "Hase Hibiskus und das Weihnachtstier",
     "renewed": 0,
     "dueDate": "2026-12-12",
-    "by": "Jakobs, Günther",
+    "by": "König, Andreas",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -154,24 +44,46 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0419670",
+    "id": "HILD.0359308",
     "accountName": "❤️ Maren",
-    "name": "Dein geniales Gehirn",
+    "name": "Knurps, der Weihnachtswichtel",
     "renewed": 0,
-    "dueDate": "2026-12-16",
-    "by": "Bunting, Philip",
+    "dueDate": "2026-12-12",
+    "by": "Jakobs, Günther",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
   },
   {
-    "id": "HILD.0281674",
+    "id": "HILD.0411749",
     "accountName": "❤️ Maren",
-    "name": "Voller Löcher!",
+    "name": "Mulles Zaubersteinchen",
+    "renewed": 0,
+    "dueDate": "2026-12-12",
+    "by": "Herzog, Annette",
+    "type": "CD Kinder",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0406739",
+    "accountName": "❤️ Maren",
+    "name": "Der kleine Elefant, der so gerne einschlafen möchte : Die neue Einschlafhilfe für Kinder",
+    "renewed": 0,
+    "dueDate": "2026-12-12",
+    "by": "",
+    "type": "CD Kinder",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0385546",
+    "accountName": "❤️ Maren",
+    "name": "Ab auf die Arche : Ohne passende Koffer wirds nass!",
     "renewed": 0,
     "dueDate": "2026-12-16",
-    "by": "Auer, Margit",
-    "type": "Kinder-/Jugendbuch",
+    "by": "Gleichmann, Antje",
+    "type": "Spiel",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -182,17 +94,6 @@
     "renewed": 0,
     "dueDate": "2026-12-16",
     "by": "Gorelik, Katerina",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0305753",
-    "accountName": "❤️ Maren",
-    "name": "Der Ernst des Lebens : eine Geschichte",
-    "renewed": 0,
-    "dueDate": "2026-12-16",
-    "by": "Jörg, Sabine",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -209,34 +110,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0364875",
-    "accountName": "❤️ Maren",
-    "name": "König Theodor",
-    "renewed": 0,
-    "dueDate": "2026-12-16",
-    "by": "Hassel, Anne",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0399676",
     "accountName": "❤️ Maren",
     "name": "Hanni hat Tomaten in den Ohren",
     "renewed": 0,
     "dueDate": "2026-12-16",
     "by": "Merchant, Judith",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": true,
-    "hasReservation": false
-  },
-  {
-    "id": "HILD.0372785",
-    "accountName": "❤️ Maren",
-    "name": "Nick und der Sommer mit Oma",
-    "renewed": 0,
-    "dueDate": "2026-12-16",
-    "by": "Davies, Benji",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -264,13 +143,24 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0385546",
+    "id": "HILD.0419670",
     "accountName": "❤️ Maren",
-    "name": "Ab auf die Arche : Ohne passende Koffer wirds nass!",
+    "name": "Dein geniales Gehirn",
     "renewed": 0,
     "dueDate": "2026-12-16",
-    "by": "Gleichmann, Antje",
-    "type": "Spiel",
+    "by": "Bunting, Philip",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0372785",
+    "accountName": "❤️ Maren",
+    "name": "Nick und der Sommer mit Oma",
+    "renewed": 0,
+    "dueDate": "2026-12-16",
+    "by": "Davies, Benji",
+    "type": "Kinder-/Jugendbuch",
     "isRenewable": true,
     "hasReservation": false
   },
@@ -286,9 +176,42 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0374091",
+    "id": "HILD.0364875",
     "accountName": "❤️ Maren",
-    "name": "Laser Maze Junior",
+    "name": "König Theodor",
+    "renewed": 0,
+    "dueDate": "2026-12-16",
+    "by": "Hassel, Anne",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0305753",
+    "accountName": "❤️ Maren",
+    "name": "Der Ernst des Lebens : eine Geschichte",
+    "renewed": 0,
+    "dueDate": "2026-12-16",
+    "by": "Jörg, Sabine",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0281674",
+    "accountName": "❤️ Maren",
+    "name": "Voller Löcher!",
+    "renewed": 0,
+    "dueDate": "2026-12-16",
+    "by": "Auer, Margit",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": true,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0379364",
+    "accountName": "❤️ Maren",
+    "name": "Coinx",
     "renewed": 2,
     "dueDate": "2026-12-17",
     "by": "",
@@ -308,6 +231,17 @@
     "hasReservation": false
   },
   {
+    "id": "HILD.0374091",
+    "accountName": "❤️ Maren",
+    "name": "Laser Maze Junior",
+    "renewed": 2,
+    "dueDate": "2026-12-17",
+    "by": "",
+    "type": "Spiel",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
     "id": "HILD.0409903",
     "accountName": "❤️ Maren",
     "name": "Hugo Hubschrauber : kleiner Motor, großer Mut",
@@ -319,25 +253,80 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0379364",
+    "id": "HILD.0379366",
     "accountName": "❤️ Maren",
-    "name": "Coinx",
-    "renewed": 2,
-    "dueDate": "2026-12-17",
+    "name": "Die Schule der magischen Tiere: Nicht zu fassen! : Das Spiel mit dem Dreh",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Kallauch, Michael",
+    "type": "Spiel",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0391204",
+    "accountName": "❤️ Maren",
+    "name": "Tapikékoi ? : Gedächtnisspiel",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
     "by": "",
     "type": "Spiel",
     "isRenewable": false,
     "hasReservation": false
   },
   {
-    "id": "HILD.0367424",
-    "accountName": "💪 Maarten",
-    "name": "Super Mario Party (Nintendo Switch)",
-    "renewed": 0,
-    "dueDate": "2026-12-05",
-    "by": "",
-    "type": "Konsolenspiel",
-    "isRenewable": true,
+    "id": "HILD.0407520",
+    "accountName": "❤️ Maren",
+    "name": "Unsere Welt in 1000 Bildern : Fakten, Fotos, Wissen",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Bryan, Kim",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0367397",
+    "accountName": "❤️ Maren",
+    "name": "Erstes Englisch",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Reichert, Katharina [Künstler]",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0413244",
+    "accountName": "❤️ Maren",
+    "name": "Die Planeten : entdecke unser faszinierendes Sonnensystem",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Allan, Sophie",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0418201",
+    "accountName": "❤️ Maren",
+    "name": "Mein erstes Bild-Wörterbuch Deutsch-Englisch",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Harvey, Franziska",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0389108",
+    "accountName": "❤️ Maren",
+    "name": "Lifehacks : 50 clevere Ideen für deine LEGO® Steine",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "March, Julia",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
     "hasReservation": false
   },
   {
@@ -396,12 +385,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0390009",
+    "id": "HILD.0389669",
     "accountName": "💪 Maarten",
-    "name": "Bücher binden : 22 Buchobjekte aus Papier und Faden",
+    "name": "#Römertopf : Fleich, Geflügel, Wild",
     "renewed": 0,
     "dueDate": "2026-12-18",
-    "by": "Langwe, Monica",
+    "by": "Bey, Dirk",
     "type": "Sachbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -451,12 +440,12 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0389669",
+    "id": "HILD.0390009",
     "accountName": "💪 Maarten",
-    "name": "#Römertopf : Fleich, Geflügel, Wild",
+    "name": "Bücher binden : 22 Buchobjekte aus Papier und Faden",
     "renewed": 0,
     "dueDate": "2026-12-18",
-    "by": "Bey, Dirk",
+    "by": "Langwe, Monica",
     "type": "Sachbuch",
     "isRenewable": true,
     "hasReservation": false
@@ -517,23 +506,23 @@
     "hasReservation": false
   },
   {
-    "id": "HILD.0412639",
-    "accountName": "💪 Maarten",
-    "name": "Ein Wichtel wohnt bei uns : ab 3 J.",
-    "renewed": 1,
-    "dueDate": "2027-01-05",
-    "by": "Schuld, Kerstin M.",
-    "type": "Kinder-/Jugendbuch",
-    "isRenewable": false,
-    "hasReservation": false
-  },
-  {
     "id": "HILD.0379057",
     "accountName": "💪 Maarten",
     "name": "Bobo feiert Weihnachten",
     "renewed": 1,
     "dueDate": "2027-01-05",
     "by": "Osterwalder, Markus",
+    "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0412639",
+    "accountName": "💪 Maarten",
+    "name": "Ein Wichtel wohnt bei uns : ab 3 J.",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "Schuld, Kerstin M.",
     "type": "Kinder-/Jugendbuch",
     "isRenewable": false,
     "hasReservation": false
@@ -546,6 +535,17 @@
     "dueDate": "2027-01-05",
     "by": "Flad, Antje",
     "type": "Kinder-/Jugendbuch",
+    "isRenewable": false,
+    "hasReservation": false
+  },
+  {
+    "id": "HILD.0367424",
+    "accountName": "💪 Maarten",
+    "name": "Super Mario Party (Nintendo Switch)",
+    "renewed": 1,
+    "dueDate": "2027-01-05",
+    "by": "",
+    "type": "Konsolenspiel",
     "isRenewable": false,
     "hasReservation": false
   },
